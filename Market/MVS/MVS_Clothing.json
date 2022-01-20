@@ -1,0 +1,288 @@
+{
+  "m_Version": 8,
+  "DisplayName": "MVS Clothing",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "mvs_balaclava_od",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_balaclava_tan",
+        "mvs_balaclava_black"
+      ]
+    },
+    {
+      "ClassName": "mvs_balaclava_wraith",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_combatpants_od",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_combatpants_tan",
+        "mvs_combatpants_black",
+        "mvs_combatpants_snow",
+        "mvs_combatpants_erdl",
+        "mvs_combatpants_multicam",
+        "mvs_combatpants_multicam_tropic",
+        "mvs_combatpants_multicam_black"
+      ]
+    },
+    {
+      "ClassName": "mvs_combatpants_black",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 3,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_combatpants_multicam_black",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 3,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_combatshirt_od",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_combatshirt_tan",
+        "mvs_combatshirt_black",
+        "mvs_combatshirt_snow",
+        "mvs_combatshirt_erdl",
+        "mvs_combatshirt_multicam",
+        "mvs_combatshirt_multicam_black",
+        "mvs_combatshirt_multicam_tropic"
+      ]
+    },
+    {
+      "ClassName": "mvs_combatshirt_black",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 3,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_combatshirt_multicam_black",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 3,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_comtacs_od",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_comtacs_tan",
+        "mvs_comtacs_black"
+      ]
+    },
+    {
+      "ClassName": "mvs_facemask_od",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_facemask_tan",
+        "mvs_facemask_black",
+        "mvs_facemask_snow"
+      ]
+    },
+    {
+      "ClassName": "mvs_gorkajacket",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_gorkajacket_snow",
+        "mvs_gorkajacket_multicam",
+        "mvs_gorkajacket_multicam_tropic",
+        "mvs_gorkajacket_multicam_black"
+      ]
+    },
+    {
+      "ClassName": "mvs_gorkajacket_multicam_black",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 3,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_gorkapants",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_gorkapants_snow",
+        "mvs_gorkapants_multicam",
+        "mvs_gorkapants_multicam_tropic",
+        "mvs_gorkapants_multicam_black"
+      ]
+    },
+    {
+      "ClassName": "mvs_gorkapants_multicam_black",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 3,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_m50respirator_od",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_m50respirator_tan",
+        "mvs_m50respirator_black",
+        "mvs_m50respirator_snow"
+      ]
+    },
+    {
+      "ClassName": "mvs_pants_bdu",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_pants_bdu_snow"
+      ]
+    },
+    {
+      "ClassName": "mvs_pmk2respirator_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_pmk2respirator_tan",
+        "mvs_pmk2respirator_od",
+        "mvs_pmk2respirator_snow"
+      ]
+    },
+    {
+      "ClassName": "mvs_s10respirator_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_s10respirator_od",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_s10respirator_tan",
+        "mvs_s10respirator_black",
+        "mvs_s10respirator_fs",
+        "mvs_s10respirator_snow"
+      ]
+    },
+    {
+      "ClassName": "mvs_shirt_bdu",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_shirt_bdu_snow",
+        "mvs_shirt_bdu_multicam",
+        "mvs_shirt_bdu_multicam_black",
+        "mvs_shirt_bdu_multicam_tropic"
+      ]
+    },
+    {
+      "ClassName": "mvs_shirt_bdu_multicam_black",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 3,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_shroud_od",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_shroud_tan",
+        "mvs_shroud_black"
+      ]
+    }
+  ]
+}

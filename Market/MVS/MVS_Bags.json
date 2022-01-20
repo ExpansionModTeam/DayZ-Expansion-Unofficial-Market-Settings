@@ -1,0 +1,676 @@
+{
+  "m_Version": 8,
+  "DisplayName": "MVS Bags",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "mvs_assault_pack_black",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_black",
+        "mvs_taco_pouch_black"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_assault_pack_erdl",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_erdl",
+        "mvs_taco_pouch_erdl"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_assault_pack_multicam",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_multicam",
+        "mvs_taco_pouch_multicam"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_assault_pack_multicam_black",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_multicam_black",
+        "mvs_taco_pouch_multicam_black"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_assault_pack_multicam_tropic",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_multicam_tropic",
+        "mvs_taco_pouch_multicam_tropic"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_assault_pack_od",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_od",
+        "mvs_taco_pouch_od"
+      ],
+      "Variants": [
+        "mvs_assault_pack_tan",
+        "mvs_assault_pack_black",
+        "mvs_assault_pack_erdl",
+        "mvs_assault_pack_multicam",
+        "mvs_assault_pack_multicam_tropic",
+        "mvs_assault_pack_multicam_black"
+      ]
+    },
+    {
+      "ClassName": "mvs_assault_pack_tan",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_tan",
+        "mvs_taco_pouch_tan"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_compact_1_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_black"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_compact_1_erdl",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_erdl"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_compact_1_multicam",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_multicam"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_compact_1_multicam_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_multicam_black"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_compact_1_multicam_tropic",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_multicam_tropic"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_compact_1_od",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_od"
+      ],
+      "Variants": [
+        "mvs_compact_1_tan",
+        "mvs_compact_1_black",
+        "mvs_compact_1_erdl",
+        "mvs_compact_1_multicam",
+        "mvs_compact_1_multicam_tropic",
+        "mvs_compact_1_multicam_black",
+        "mvs_compact_1_snow"
+      ]
+    },
+    {
+      "ClassName": "mvs_compact_1_snow",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_snow"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_compact_1_tan",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_tan"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_compact_2_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_black",
+        "mvs_medical_pouch_black"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_compact_2_erdl",
+      "MaxPriceThreshold": 3500,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_erdl",
+        "mvs_medical_pouch_erdl"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_compact_2_multicam",
+      "MaxPriceThreshold": 3500,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_multicam",
+        "mvs_medical_pouch_multicam"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_compact_2_multicam_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_multicam_black",
+        "mvs_medical_pouch_multicam_black"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_compact_2_multicam_tropic",
+      "MaxPriceThreshold": 3500,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_multicam_tropic",
+        "mvs_medical_pouch_multicam_tropic"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_compact_2_od",
+      "MaxPriceThreshold": 3500,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_od",
+        "mvs_medical_pouch_od"
+      ],
+      "Variants": [
+        "mvs_compact_2_tan",
+        "mvs_compact_2_black",
+        "mvs_compact_2_erdl",
+        "mvs_compact_2_multicam",
+        "mvs_compact_2_multicam_tropic",
+        "mvs_compact_2_multicam_black"
+      ]
+    },
+    {
+      "ClassName": "mvs_compact_2_tan",
+      "MaxPriceThreshold": 3500,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_tan",
+        "mvs_medical_pouch_tan"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_pack_black",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_black"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_pack_erdl",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_erdl"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_pack_multicam",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_multicam"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_pack_multicam_black",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_multicam_black"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_pack_multicam_tropic",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_multicam_tropic"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_pack_od",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_od"
+      ],
+      "Variants": [
+        "mvs_pack_tan",
+        "mvs_pack_black",
+        "mvs_pack_erdl",
+        "mvs_pack_multicam",
+        "mvs_pack_multicam_tropic",
+        "mvs_pack_multicam_black"
+      ]
+    },
+    {
+      "ClassName": "mvs_pack_tan",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_tan"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_radio",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_radio_pack_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_radio",
+        "mvs_admin_pouch_black"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_radio_pack_erdl",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_radio",
+        "mvs_admin_pouch_erdl"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_radio_pack_multicam",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_radio",
+        "mvs_admin_pouch_multicam"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_radio_pack_multicam_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_radio",
+        "mvs_admin_pouch_multicam_black"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_radio_pack_multicam_tropic",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_radio",
+        "mvs_admin_pouch_multicam_tropic"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_radio_pack_od",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_radio",
+        "mvs_admin_pouch_od"
+      ],
+      "Variants": [
+        "mvs_radio_pack_tan",
+        "mvs_radio_pack_black",
+        "mvs_radio_pack_erdl",
+        "mvs_radio_pack_multicam",
+        "mvs_radio_pack_multicam_tropic",
+        "mvs_radio_pack_multicam_black"
+      ]
+    },
+    {
+      "ClassName": "mvs_radio_pack_tan",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_radio",
+        "mvs_admin_pouch_tan"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_rucksack_black",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_rucksack_erdl",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_rucksack_multicam",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_rucksack_multicam_black",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_rucksack_multicam_tropic",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_rucksack_od",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_rucksack_tan",
+        "mvs_rucksack_black",
+        "mvs_rucksack_erdl",
+        "mvs_rucksack_multicam",
+        "mvs_rucksack_multicam_tropic",
+        "mvs_rucksack_multicam_black"
+      ]
+    },
+    {
+      "ClassName": "mvs_rucksack_tan",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_slingpack_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_black"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_slingpack_erdl",
+      "MaxPriceThreshold": 5500,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_erdl"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_slingpack_multicam",
+      "MaxPriceThreshold": 5500,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_multicam"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_slingpack_multicam_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_multicam_black"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_slingpack_multicam_tropic",
+      "MaxPriceThreshold": 5500,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_multicam_tropic"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_slingpack_od",
+      "MaxPriceThreshold": 5500,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_od"
+      ],
+      "Variants": [
+        "mvs_slingpack_tan",
+        "mvs_slingpack_black",
+        "mvs_slingpack_erdl",
+        "mvs_slingpack_multicam",
+        "mvs_slingpack_multicam_tropic",
+        "mvs_slingpack_multicam_black"
+      ]
+    },
+    {
+      "ClassName": "mvs_slingpack_tan",
+      "MaxPriceThreshold": 5500,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "mvs_admin_pouch_tan"
+      ],
+      "Variants": []
+    }
+  ]
+}
