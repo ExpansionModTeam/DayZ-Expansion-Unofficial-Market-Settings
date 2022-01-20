@@ -1,0 +1,87 @@
+{
+    "m_Version": 8,
+    "DisplayName": "Shirts",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [        
+		{
+            "ClassName": "Military_Sweater",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Military_Sweater_Red",
+				"Military_Sweater_Blue",
+				"Military_Sweater_Green",
+				"Military_Sweater_White",
+				"Military_Sweater_Black"
+			]
+        },
+		{
+            "ClassName": "Poncho_Green",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Poncho_Red",
+				"Poncho_Black",
+				"Poncho_BlackAndWhite",
+				"Poncho_BlackAndWhite",
+				"Poncho_BlackAndWhite2",
+				"Poncho_Red_Checkered",
+				"Poncho_Blue_Checkered",
+				"Poncho_Yellow_Checkered",
+				"Poncho_White",
+				"Poncho_Brown"
+			]
+        },		
+		{
+            "ClassName": "Layered_Shirt_Base",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Layered_Shirt_Cheburashka",
+				"Layered_Shirt_White",
+				"Layered_Shirt_Courage",
+				"Layered_Shirt_Lily"
+			]
+        },
+		{
+            "ClassName": "Winter_Parka_Base",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Winter_Parka_White",
+				"Winter_Parka_Green"
+			]
+        },	
+		{
+            "ClassName": "Medium_Sleeves_Shirt",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Medium_Sleeves_Shirt_Red",
+				"Medium_Sleeves_Shirt_Blue"
+			]
+        }		
+	]
+}

@@ -1,0 +1,430 @@
+{
+    "m_Version": 8,
+    "DisplayName": "MIGHTY'S MILITARY GEAR",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75,
+    "Items": [
+    	{
+            "ClassName": "MMG_tt_vest_black",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_tt_vest_green",
+                "MMG_tt_vest_tan",
+                "MMG_tt_vest_mutlicam",
+                "MMG_tt_vest_multicamblack_digital",
+                "MMG_tt_vest_alpine",
+                "MMG_tt_vest_erdl",
+                "MMG_tt_vest_multicamblack"
+            	]
+        },
+    	{
+            "ClassName": "MMG_JPC_Vest_Black",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_JPC_Vest_olive",
+                "MMG_JPC_Vest_tan",
+                "MMG_JPC_Vest_multicam",
+                "MMG_JPC_Vest_multicamblack_digital",
+                "MMG_JPC_Vest_alpine",
+                "MMG_JPC_Vest_erdl",
+                "MMG_JPC_Vest_multicamblack"
+            	]
+        },
+        {
+            "ClassName": "MMG_MK_III_Armor_black",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_MK_III_Armor_green",
+                "MMG_MK_III_Armor_tan"
+            	]
+        },
+		{
+            "ClassName": "MMG_Mag_Pouch_Black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_Mag_Pouch_olive",
+                "MMG_Mag_Pouch_tan",
+                "MMG_Mag_Pouch_multicam",
+                "MMG_Mag_Pouch_multicam_black",
+                "MMG_Mag_Pouch_alpine",
+                "MMG_Mag_Pouch_erdl",
+                "MMG_Mag_Pouch_multicamblack"
+            	]
+        },
+		{
+            "ClassName": "MMG_single_magpouch_black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_single_magpouch_green",
+                "MMG_single_magpouch_tan",
+                "MMG_single_magpouch_multicamblack_digital",
+                "MMG_single_magpouch_multicam",
+                "MMG_single_magpouch_alpine",
+                "MMG_single_magpouch_erdl",
+                "MMG_single_magpouch_multicamblack"
+            	]
+        },
+		{
+            "ClassName": "MMG_double_magpouch_black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_double_magpouch_green",
+                "MMG_double_magpouch_tan",
+                "MMG_double_magpouch_multicamblack_digital",
+                "MMG_double_magpouch_multicam",
+                "MMG_double_magpouch_alpine",
+                "MMG_double_magpouch_erdl",
+                "MMG_double_magpouch_multicamblack"
+            	]
+        },
+		{
+            "ClassName": "JPCMed_Pouch_alpine",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"JPCMed_Pouch_erdl"
+            	]
+        },
+		{
+            "ClassName": "MMG_Med_Pouch_black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_Med_Pouch_multicam",
+                "MMG_Med_Pouch_Olive",
+                "MMG_Med_Pouch_multicamblack_digital",
+                "MMG_Med_Pouch_multicamblack"
+            	]
+        },
+		{
+            "ClassName": "MMG_ammo_pouch_black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_ammo_pouch_olive",
+                "MMG_ammo_pouch_multicam",
+                "MMG_ammo_pouch_tan",
+                "MMG_ammo_pouch_multicamblack_digital",
+                "MMG_ammo_pouch_alpine",
+                "MMG_ammo_pouch_erdl",
+                "MMG_ammo_pouch_multicamblack"
+            	]
+        },
+		{
+            "ClassName": "MMG_tactical_pouch_tan",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_tactical_pouch_black",
+                "MMG_tactical_pouch_green",
+                "MMG_tactical_pouch_multicamblack_digital",
+                "MMG_tactical_pouch_alpine",
+                "MMG_tactical_pouch_erdl",
+                "MMG_tactical_pouch_multicamblack",
+                "MMG_tactical_pouch_multicam"
+            	]
+        },
+		{
+            "ClassName": "MMG_carrier_backpack_black",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_carrier_backpack_olive",
+                "MMG_carrier_backpack_tan",
+                "MMG_carrier_backpack_multicam",
+                "MMG_carrier_backpack_multicamblack_digital",
+                "MMG_carrier_backpack_alpine",
+                "MMG_carrier_backpack_erdl",
+                "MMG_carrier_backpack_multicamblack"
+            	]
+        },
+		{
+            "ClassName": "MMG_supplybag_black",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_supplybag_green",
+                "MMG_supplybag_tan",
+                "MMG_supplybag_mulitcamblack_digital",
+                "MMG_supplybag_alpine",
+                "MMG_supplybag_erdl",
+                "MMG_supplybag_multicamblack",
+                "MMG_supplybag_multicam"
+            	]
+        },
+		{
+            "ClassName": "MMG_falcon_b1_belt_olive",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_falcon_b1_belt_black",
+                "MMG_falcon_b1_belt_tan",
+                "MMG_falcon_b1_belt_multicamblack_digital",
+                "MMG_falcon_b1_belt_alpine",
+                "MMG_falcon_b1_belt_multicamblack",
+                "MMG_falcon_b1_belt_multicam"
+            	]
+        },
+		{
+            "ClassName": "MMG_tactical_helmet_black",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_tactical_helmet_green",
+                "MMG_tactical_helmet_tan",
+                "MMG_tactical_helmet_multicam",
+                "MMG_tactical_helmet_multicamblack_digital",
+                "MMG_tactical_helmet_alpine",
+                "MMG_tactical_helmet_erdl",
+                "MMG_tactical_helmet_multicamblack"
+            	]
+        },
+		{
+            "ClassName": "MMG_striker_helmet_rusty",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_striker_helmet_black",
+                "MMG_striker_helmet_green",
+                "MMG_striker_helmet_tan",
+                "MMG_striker_helmet_alpine",
+                "MMG_striker_helmet_erdl",
+                "MMG_striker_helmet_multicamblack",
+                "MMG_striker_helmet_multicam"
+            	]
+        },
+		{
+            "ClassName": "MMG_headphones_black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_headphones_green",
+                "MMG_headphones_tan",
+                "MMG_headphones_alpine"
+            	]
+        },
+		{
+            "ClassName": "MMG_ballistic_earcover_black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_ballistic_earcover_green",
+                "MMG_ballistic_earcover_tan",
+                "MMG_ballistic_earcover_alpine",
+                "MMG_ballistic_earcover_erdl",
+                "MMG_ballistic_earcover_multicamblack"
+            	]
+        },
+		{
+            "ClassName": "MMG_Holster_black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_Holster_green",
+                "MMG_Holster_tan",
+                "MMG_Holster_alpine",
+                "MMG_Holster_erdl",
+                "MMG_Holster_multicamblack",
+                "MMG_Holster_multicam"
+            	]
+        },
+		{
+            "ClassName": "MMG_sheath_black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_sheath_olive",
+                "MMG_sheath_tan",
+                "MMG_sheath_mcb_digital",
+                "MMG_sheath_alpine",
+                "MMG_sheath_erdl",
+                "MMG_sheath_multicamblack",
+                "MMG_sheath_multicam"
+            	]
+        },
+		{
+            "ClassName": "MMG_bottle_black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_bottle_olive",
+                "MMG_bottle_tan",
+                "MMG_bottle_alpine",
+                "MMG_bottle_erdl",
+                "MMG_bottle_multicamblack",
+                "MMG_bottle_multicam"
+            	]
+        },
+		{
+            "ClassName": "MMG_carbine_red",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_carbine_green",
+                "MMG_carbine_orange",
+                "MMG_carbine_blue"
+            	]
+        },
+		{
+            "ClassName": "MMG_combatpants_olive",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_combatpants_black",
+                "MMG_combatpants_tan",
+                "MMG_combatpants_alpine",
+                "MMG_combatpants_erdl",
+                "MMG_combatpants_multicamblack",
+                "MMG_combatpants_multicam"
+            	]
+        },
+		{
+            "ClassName": "MMG_combatshirt_green",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_combatshirt_black",
+                "MMG_combatshirt_tan",
+                "MMG_combatshirt_alpine",
+                "MMG_combatshirt_erdl",
+                "MMG_combatshirt_multicamblack",
+                "MMG_combatshirt_multicam"
+            	]
+        },
+		{
+            "ClassName": "MMG_facemask_green",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_facemask_black",
+                "MMG_facemask_tan",
+                "MMG_facemask_multicamblack_digital",
+                "MMG_facemask_alpine",
+                "MMG_facemask_erdl",
+                "MMG_facemask_multicamblack",
+                "MMG_facemask_multicam"
+            	]
+        },
+		{
+            "ClassName": "MMG_balaclava_black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"MMG_balaclava_olive",
+                "MMG_balaclava_tan",
+                "MMG_balaclava_erdl",
+                "MMG_balaclava_alpine",
+                "MMG_balaclava_multicamblack_digital",
+                "MMG_balaclava_multicamblack",
+                "MMG_balaclava_multicam"
+            	]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "m_Version": 8,
+    "DisplayName": "Tactical Flava NVG",
+    "Icon": "Deliver",
+    "Color": "FFD400",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "TF_NVGoggles_AVS9",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        }
+    ]
+}

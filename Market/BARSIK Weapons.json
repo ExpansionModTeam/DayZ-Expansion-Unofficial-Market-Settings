@@ -1,0 +1,62 @@
+{
+  "m_Version": 8,
+  "DisplayName": "BARSIK WEAPONS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "barsik_barrett_m82a1",
+      "MaxPriceThreshold": 750000,
+      "MinPriceThreshold": 750000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+      ],
+      "Variants": [
+        "barsik_barrett_m82a1_gold",
+        "barsik_barrett_m82a1_red",
+        "barsik_barrett_m82a1_blue",
+        "barsik_barrett_m82a1_green",
+        "barsik_barrett_m82a1_pink",
+        "barsik_barrett_m82a1_purple",
+        "barsik_barrett_m82a1_yellow",
+        "barsik_barrett_m82a1_colorful"
+      ]
+    },
+    {
+      "ClassName": "barsik_vssk",
+      "MaxPriceThreshold": 500000,
+      "MinPriceThreshold": 500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+      ],
+      "Variants": [
+        "barsik_vssk_red",
+        "barsik_vssk_blue",
+        "barsik_vssk_green",
+        "barsik_vssk_pink",
+        "barsik_vssk_purple",
+        "barsik_vssk_yellow",
+        "barsik_vssk_gold"
+      ]
+    },
+    {
+      "ClassName": "barsik_pkp",
+      "MaxPriceThreshold": 350000,
+      "MinPriceThreshold": 250000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+      ],
+      "Variants": [
+        "barsik_pkp_gold",
+        "barsik_pkp_rusty"
+      ]
+    }
+  ]
+}
