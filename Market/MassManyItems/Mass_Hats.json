@@ -1,0 +1,97 @@
+{
+    "m_Version": 9,
+    "DisplayName": "MASS HATS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+			"ClassName": "massbeigeushanka",
+			"MaxPriceThreshold": 110,
+			"MinPriceThreshold": 55,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+			"ClassName": "masscamobooniehat",
+			"MaxPriceThreshold": 36,
+			"MinPriceThreshold": 18,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+			"ClassName": "masscatears",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+			"ClassName": "masscowboyhat_white",
+			"MaxPriceThreshold": 40,
+			"MinPriceThreshold": 20,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "masshuntingcowboyhat"
+            ]
+        },
+        {
+			"ClassName": "massfedora_beige",
+			"MaxPriceThreshold": 50,
+			"MinPriceThreshold": 25,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "massfedora_black",
+                "massfedora_blue",
+                "massfedora_brown",
+                "massfedora_grey",
+                "massfedora_pink",
+                "massfedora_red",
+                "massfedora_white",
+                "massfedora_yellow"
+            ]
+        },
+        {
+			"ClassName": "massurbancamohat",
+			"MaxPriceThreshold": 36,
+			"MinPriceThreshold": 18,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+			"ClassName": "masswinterhuntinghood",
+			"MaxPriceThreshold": 200,
+			"MinPriceThreshold": 100,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

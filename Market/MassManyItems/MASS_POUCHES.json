@@ -1,0 +1,82 @@
+{
+    "m_Version": 9,
+    "DisplayName": "MASS POUCHES",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+			"ClassName": "masslargeplatecarrierpouches",
+			"MaxPriceThreshold": 2400,
+			"MinPriceThreshold": 2200,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "masslargeplatecarrierpouches_black",
+                "masslargeplatecarrierpouches_tan"
+            ]
+        },
+        {
+			"ClassName": "massplatecarrierholster_black",
+			"MaxPriceThreshold": 420,
+			"MinPriceThreshold": 360,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "massplatecarrierholster_odg",
+                "massplatecarrierholster_partizanm",
+                "massplatecarrierholster_winter"
+            ]
+        },
+        {
+			"ClassName": "massplatecarrierpouches_black",
+			"MaxPriceThreshold": 600,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "massplatecarrierpouches_odg",
+                "massplatecarrierpouches_partizanm",
+                "massplatecarrierpouches_winter"
+            ]
+        },
+        {
+			"ClassName": "masslargemollepouch",
+			"MaxPriceThreshold": 600,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "masslargemollepouchblack",
+                "masslargemollepouchgorka",
+                "masslargemollepouchgreen"
+            ]
+        },
+        {
+			"ClassName": "masstacticalbag",
+			"MaxPriceThreshold": 800,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "masstacticalbagblack",
+                "masstacticalbagwd"
+            ]
+        }
+    ]
+}

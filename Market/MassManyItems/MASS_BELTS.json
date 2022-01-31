@@ -1,0 +1,36 @@
+{
+    "m_Version": 9,
+    "DisplayName": "MASS BELTS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+			"ClassName": "massmollebelt",
+			"MaxPriceThreshold": 1500,
+			"MinPriceThreshold": 750,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "massmollebeltblack",
+                "massmollebeltodg",
+                "massmollebeltsnow",
+                "massmollebeltwd"
+            ]
+        },
+        {
+			"ClassName": "masstoolbelt",
+			"MaxPriceThreshold": 800,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

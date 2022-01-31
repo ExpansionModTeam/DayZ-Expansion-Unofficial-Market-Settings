@@ -1,0 +1,61 @@
+{
+    "m_Version": 9,
+    "DisplayName": "MASS FOOD",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+			"ClassName": "massheli_mre10",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "massmre10"
+            ]
+        },
+        {
+			"ClassName": "massheli_mre4",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "massmre4"
+            ]
+        },
+        {
+			"ClassName": "massheli_mre9",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "massmre9"
+            ]
+        },
+        {
+			"ClassName": "massheli_mre9old",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "massmre9old"
+            ]
+        }
+    ]
+}
