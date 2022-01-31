@@ -1,0 +1,515 @@
+{
+	"m_Version": 9,
+	"DisplayName": "PsychoGaming Car Parts",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{
+			"ClassName": "BusPsychoWheel_offroad",
+			"MaxPriceThreshold": 60,
+			"MinPriceThreshold": 30,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "BusPsycho_driver",
+			"MaxPriceThreshold": 60,
+			"MinPriceThreshold": 30,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "LancerEvoX_koleso",
+			"MaxPriceThreshold": 440,
+			"MinPriceThreshold": 220,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "LancerEvoX_bagazhnik",
+			"MaxPriceThreshold": 400,
+			"MinPriceThreshold": 200,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "LancerEvoX_dver_1_1",
+			"MaxPriceThreshold": 120,
+			"MinPriceThreshold": 60,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "LancerEvoX_dver_1_2",
+			"MaxPriceThreshold": 120,
+			"MinPriceThreshold": 60,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "LancerEvoX_dver_2_1",
+			"MaxPriceThreshold": 120,
+			"MinPriceThreshold": 60,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "LancerEvoX_dver_2_2",
+			"MaxPriceThreshold": 600,
+			"MinPriceThreshold": 300,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "LancerEvoX_kapot",
+			"MaxPriceThreshold": 600,
+			"MinPriceThreshold": 300,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "LancerEvoX_korpus1",
+			"MaxPriceThreshold": 760,
+			"MinPriceThreshold": 380,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "LancerEvoX_korpus2",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "SkylineBNR34_koleso",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "SkylineBNR34_dver_1_1",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "SkylineBNR34_dver_2_1",
+			"MaxPriceThreshold": 600,
+			"MinPriceThreshold": 300,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "SkylineBNR34_kapot",
+			"MaxPriceThreshold": 760,
+			"MinPriceThreshold": 380,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "SkylineBNR34_bagazhnik",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "BroncoOff86_koleso",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "BroncoOff86_dver_1_1",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "BroncoOff86_dver_2_1",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "BroncoOff86_kapot",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "ChevyTahoe08_koleso",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "ChevyTahoe08_dver_1_1",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"ChevyTahoe08_dver_1_1_Police"
+			]
+		},
+		{
+			"ClassName": "ChevyTahoe08_dver_1_2",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "ChevyTahoe08_dver_2_1",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"ChevyTahoe08_dver_2_1_Police"
+			]
+		},
+		{
+			"ClassName": "ChevyTahoe08_dver_2_2",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "ChevyTahoe08_bagazhnik",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "ChevyTahoe08_kapot",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "ChevyTahoe08_dver_1_1_Police",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "f150PsychoWheel_offroad",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "f150Psycho_driver",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"f150Psycho_driver_black",
+				"f150Psycho_driver_green",
+				"f150Psycho_driver_pink"
+			]
+		},
+		{
+			"ClassName": "f150Psycho_codriver",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"f150Psycho_codriver_black",
+				"f150Psycho_codriver_green",
+				"f150Psycho_codriver_pink"
+			]
+		},
+		{
+			"ClassName": "f150Psycho_cargo1",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"f150Psycho_cargo1_black",
+				"f150Psycho_cargo1_green",
+				"f150Psycho_cargo1_pink"
+			]
+		},
+		{
+			"ClassName": "f150Psycho_cargo2",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"f150Psycho_cargo2_black",
+				"f150Psycho_cargo2_green",
+				"f150Psycho_cargo2_pink"
+			]
+		},
+		{
+			"ClassName": "f150Psycho_hood",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"f150Psycho_hood_black",
+				"f150Psycho_hood_green",
+				"f150Psycho_hood_pink"
+			]
+		},
+		{
+			"ClassName": "f150Psycho_trunk",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"f150Psycho_trunk_black",
+				"f150Psycho_trunk_green",
+				"f150Psycho_trunk_pink"
+			]
+		},
+		{
+			"ClassName": "BuggyPsychoWheel_offroad",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "BuggyPsychoWheelDouble_offroad",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "AMCPsychoWheel_offroad",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "AMCPsycho_driver",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"AMCPsycho_driver_black",
+				"AMCPsycho_driver_green",
+				"AMCPsycho_driver_pink"
+			]
+		},
+		{
+			"ClassName": "AMCPsycho_codriver",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"AMCPsycho_codriver_black",
+				"AMCPsycho_codriver_green",
+				"AMCPsycho_codriver_pink"
+			]
+		},
+		{
+			"ClassName": "AMCPsycho_hood",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"AMCPsycho_hood_black",
+				"AMCPsycho_hood_green",
+				"AMCPsycho_hood_pink"
+			]
+		},
+		{
+			"ClassName": "AMCPsycho_trunk",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"AMCPsycho_trunk_black",
+				"AMCPsycho_trunk_green",
+				"AMCPsycho_trunk_pink"
+			]
+		}
+	]
+}
