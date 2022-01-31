@@ -13,7 +13,6 @@
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "QuantityPercent": -1,
             "SpawnAttachments": [
 				"BusPsychoWheel_offroad",
 				"BusPsychoWheel_offroad",
@@ -36,7 +35,6 @@
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "LancerEvoX_koleso",
 				"LancerEvoX_koleso",
@@ -67,7 +65,6 @@
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "SkylineBNR34_koleso",
 				"SkylineBNR34_koleso",
@@ -94,7 +91,6 @@
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "BroncoOff86_koleso",
 				"BroncoOff86_koleso",
@@ -121,7 +117,6 @@
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "ChevyTahoe08_koleso",
 				"ChevyTahoe08_koleso",
@@ -153,7 +148,6 @@
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "QuantityPercent": -1,
             "SpawnAttachments": [
 				"ChevyTahoe08_koleso",
 				"ChevyTahoe08_koleso",
@@ -183,7 +177,6 @@
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "QuantityPercent": -1,
             "SpawnAttachments": [
 				"f150PsychoWheel_offroad",
 				"f150PsychoWheel_offroad",
@@ -215,7 +208,6 @@
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "QuantityPercent": -1,
             "SpawnAttachments": [
 				"f150PsychoWheel_offroad",
 				"f150PsychoWheel_offroad",
@@ -243,7 +235,6 @@
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "QuantityPercent": -1,
             "SpawnAttachments": [
 				"f150PsychoWheel_offroad",
 				"f150PsychoWheel_offroad",
@@ -271,7 +262,6 @@
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "QuantityPercent": -1,
             "SpawnAttachments": [
 				"f150PsychoWheel_offroad",
 				"f150PsychoWheel_offroad",
@@ -299,7 +289,6 @@
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "BuggyPsychoWheel_offroad",
 				"BuggyPsychoWheel_offroad",
@@ -325,7 +314,6 @@
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "QuantityPercent": -1,
             "SpawnAttachments": [
 				"AMCPsychoWheel_offroad",
 				"AMCPsychoWheel_offroad",
@@ -355,7 +343,6 @@
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "QuantityPercent": -1,
             "SpawnAttachments": [
 				"AMCPsychoWheel_offroad",
 				"AMCPsychoWheel_offroad",
@@ -381,7 +368,6 @@
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "QuantityPercent": -1,
             "SpawnAttachments": [
 				"AMCPsychoWheel_offroad",
 				"AMCPsychoWheel_offroad",
@@ -407,7 +393,6 @@
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "QuantityPercent": -1,
             "SpawnAttachments": [
 				"AMCPsychoWheel_offroad",
 				"AMCPsychoWheel_offroad",
