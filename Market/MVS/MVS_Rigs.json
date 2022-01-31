@@ -1,17 +1,18 @@
 {
-    "m_Version": 8,
+    "m_Version": 9,
     "DisplayName": "MVS Rigs",
     "Icon": "Shield",
     "Color": "FFFFFFFF",
     "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "mvs_chestrig_od",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+			"ClassName": "mvs_chestrig_od",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 2000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_od",
                 "mvs_medical_pouch_od",
@@ -31,12 +32,13 @@
             ]
         },
         {
-            "ClassName": "mvs_chestrig_tan",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+			"ClassName": "mvs_chestrig_tan",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 2000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_tan",
                 "mvs_medical_pouch_tan",
@@ -48,12 +50,13 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_chestrig_black",
-            "MaxPriceThreshold": 4000,
-            "MinPriceThreshold": 2000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+			"ClassName": "mvs_chestrig_black",
+			"MaxPriceThreshold": 4000,
+			"MinPriceThreshold": 2000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_black",
                 "mvs_medical_pouch_black",
@@ -65,12 +68,13 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_chestrig_snow",
-            "MaxPriceThreshold": 4000,
-            "MinPriceThreshold": 2000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+			"ClassName": "mvs_chestrig_snow",
+			"MaxPriceThreshold": 4000,
+			"MinPriceThreshold": 2000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_snow",
                 "mvs_medical_pouch_snow",
@@ -82,12 +86,13 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_chestrig_erdl",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+			"ClassName": "mvs_chestrig_erdl",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 2000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_erdl",
                 "mvs_medical_pouch_erdl",
@@ -99,12 +104,13 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_chestrig_multicam",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+			"ClassName": "mvs_chestrig_multicam",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 2000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_multicam",
                 "mvs_medical_pouch_multicam",
@@ -116,12 +122,13 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_chestrig_multicam_tropic",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+			"ClassName": "mvs_chestrig_multicam_tropic",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 2000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_multicam_tropic",
                 "mvs_medical_pouch_multicam_tropic",
@@ -133,12 +140,13 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_chestrig_multicam_black",
-            "MaxPriceThreshold": 4000,
-            "MinPriceThreshold": 2000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+			"ClassName": "mvs_chestrig_multicam_black",
+			"MaxPriceThreshold": 4000,
+			"MinPriceThreshold": 2000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_multicam_black",
                 "mvs_medical_pouch_multicam_black",
@@ -150,12 +158,13 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_combat_vest_od",
-            "MaxPriceThreshold": 18000,
-            "MinPriceThreshold": 14000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 3,
+			"ClassName": "mvs_combat_vest_od",
+			"MaxPriceThreshold": 18000,
+			"MinPriceThreshold": 14000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 10,
+			"MinStockThreshold": 3,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_od",
                 "mvs_medical_pouch_od",
@@ -175,12 +184,13 @@
             ]
         },
         {
-            "ClassName": "mvs_combat_vest_tan",
-            "MaxPriceThreshold": 18000,
-            "MinPriceThreshold": 14000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 3,
+			"ClassName": "mvs_combat_vest_tan",
+			"MaxPriceThreshold": 18000,
+			"MinPriceThreshold": 14000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 10,
+			"MinStockThreshold": 3,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_tan",
                 "mvs_medical_pouch_tan",
@@ -192,12 +202,13 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_combat_vest_black",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 14000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 5,
-            "MinStockThreshold": 2,
+			"ClassName": "mvs_combat_vest_black",
+			"MaxPriceThreshold": 20000,
+			"MinPriceThreshold": 14000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 5,
+			"MinStockThreshold": 2,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_black",
                 "mvs_medical_pouch_black",
@@ -209,12 +220,13 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_combat_vest_snow",
-            "MaxPriceThreshold": 18000,
-            "MinPriceThreshold": 14000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 3,
+			"ClassName": "mvs_combat_vest_snow",
+			"MaxPriceThreshold": 18000,
+			"MinPriceThreshold": 14000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 10,
+			"MinStockThreshold": 3,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_snow",
                 "mvs_medical_pouch_snow",
@@ -226,12 +238,13 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_combat_vest_erdl",
-            "MaxPriceThreshold": 18000,
-            "MinPriceThreshold": 14000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 3,
+			"ClassName": "mvs_combat_vest_erdl",
+			"MaxPriceThreshold": 18000,
+			"MinPriceThreshold": 14000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 10,
+			"MinStockThreshold": 3,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_erdl",
                 "mvs_medical_pouch_erdl",
@@ -243,12 +256,13 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_combat_vest_multicam",
-            "MaxPriceThreshold": 18000,
-            "MinPriceThreshold": 14000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 3,
+			"ClassName": "mvs_combat_vest_multicam",
+			"MaxPriceThreshold": 18000,
+			"MinPriceThreshold": 14000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 10,
+			"MinStockThreshold": 3,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_multicam",
                 "mvs_medical_pouch_multicam",
@@ -260,12 +274,13 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_combat_vest_multicam_tropic",
-            "MaxPriceThreshold": 18000,
-            "MinPriceThreshold": 14000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 3,
+			"ClassName": "mvs_combat_vest_multicam_tropic",
+			"MaxPriceThreshold": 18000,
+			"MinPriceThreshold": 14000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 10,
+			"MinStockThreshold": 3,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_multicam_tropic",
                 "mvs_medical_pouch_multicam_tropic",
@@ -277,12 +292,13 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_combat_vest_multicam_black",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 14000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 5,
-            "MinStockThreshold": 2,
+			"ClassName": "mvs_combat_vest_multicam_black",
+			"MaxPriceThreshold": 20000,
+			"MinPriceThreshold": 14000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 5,
+			"MinStockThreshold": 2,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_multicam_black",
                 "mvs_medical_pouch_multicam_black",
@@ -294,12 +310,13 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_combat_vest_heavy_multicam_tropic",
-            "MaxPriceThreshold": 50000,
-            "MinPriceThreshold": 35000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 5,
-            "MinStockThreshold": 2,
+			"ClassName": "mvs_combat_vest_heavy_multicam_tropic",
+			"MaxPriceThreshold": 50000,
+			"MinPriceThreshold": 35000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 5,
+			"MinStockThreshold": 2,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_multicam_tropic",
                 "mvs_medical_pouch_multicam_tropic",
@@ -310,12 +327,13 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_combat_vest_heavy_od",
-            "MaxPriceThreshold": 50000,
-            "MinPriceThreshold": 35000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 5,
-            "MinStockThreshold": 2,
+			"ClassName": "mvs_combat_vest_heavy_od",
+			"MaxPriceThreshold": 50000,
+			"MinPriceThreshold": 35000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 5,
+			"MinStockThreshold": 2,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_od",
                 "mvs_medical_pouch_od",
@@ -334,12 +352,13 @@
             ]
         },
         {
-            "ClassName": "mvs_combat_vest_heavy_tan",
-            "MaxPriceThreshold": 50000,
-            "MinPriceThreshold": 35000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 5,
-            "MinStockThreshold": 2,
+			"ClassName": "mvs_combat_vest_heavy_tan",
+			"MaxPriceThreshold": 50000,
+			"MinPriceThreshold": 35000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 5,
+			"MinStockThreshold": 2,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_tan",
                 "mvs_medical_pouch_tan",
@@ -350,12 +369,13 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_combat_vest_heavy_black",
-            "MaxPriceThreshold": 60000,
-            "MinPriceThreshold": 35000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 5,
-            "MinStockThreshold": 2,
+			"ClassName": "mvs_combat_vest_heavy_black",
+			"MaxPriceThreshold": 60000,
+			"MinPriceThreshold": 35000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 5,
+			"MinStockThreshold": 2,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_black",
                 "mvs_medical_pouch_black",
@@ -366,12 +386,13 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_combat_vest_heavy_snow",
-            "MaxPriceThreshold": 50000,
-            "MinPriceThreshold": 35000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 5,
-            "MinStockThreshold": 2,
+			"ClassName": "mvs_combat_vest_heavy_snow",
+			"MaxPriceThreshold": 50000,
+			"MinPriceThreshold": 35000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 5,
+			"MinStockThreshold": 2,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_snow",
                 "mvs_medical_pouch_snow",
@@ -382,12 +403,13 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_combat_vest_heavy_erdl",
-            "MaxPriceThreshold": 50000,
-            "MinPriceThreshold": 35000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 5,
-            "MinStockThreshold": 2,
+			"ClassName": "mvs_combat_vest_heavy_erdl",
+			"MaxPriceThreshold": 50000,
+			"MinPriceThreshold": 35000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 5,
+			"MinStockThreshold": 2,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_erdl",
                 "mvs_medical_pouch_erdl",
@@ -398,12 +420,13 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_combat_vest_heavy_multicam",
-            "MaxPriceThreshold": 50000,
-            "MinPriceThreshold": 35000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 5,
-            "MinStockThreshold": 2,
+			"ClassName": "mvs_combat_vest_heavy_multicam",
+			"MaxPriceThreshold": 50000,
+			"MinPriceThreshold": 35000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 5,
+			"MinStockThreshold": 2,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_multicam",
                 "mvs_medical_pouch_multicam",
@@ -414,12 +437,13 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_combat_vest_heavy_multicam_black",
-            "MaxPriceThreshold": 60000,
-            "MinPriceThreshold": 35000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 5,
-            "MinStockThreshold": 2,
+			"ClassName": "mvs_combat_vest_heavy_multicam_black",
+			"MaxPriceThreshold": 60000,
+			"MinPriceThreshold": 35000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 5,
+			"MinStockThreshold": 2,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_multicam_black",
                 "mvs_medical_pouch_multicam_black",

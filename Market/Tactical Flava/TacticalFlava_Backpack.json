@@ -1,17 +1,18 @@
 {
-    "m_Version": 8,
+    "m_Version": 9,
     "DisplayName": "Tactical Flava Backpack",
     "Icon": "Backpack",
     "Color": "FFD400",
     "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "TF_CamelBakBag_Black",
-            "MaxPriceThreshold": 2500,
-            "MinPriceThreshold": 2500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+			"ClassName": "TF_CamelBakBag_Black",
+			"MaxPriceThreshold": 2500,
+			"MinPriceThreshold": 2500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
                 "TF_CamelBakBag_Brown",

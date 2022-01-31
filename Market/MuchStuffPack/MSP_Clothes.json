@@ -1,29 +1,31 @@
 {
-    "m_Version": 4,
+    "m_Version": 9,
     "DisplayName": "MuchStuffPack Clothing and Backpacks",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "InitStockPercent": 75.0,
     "Items": [
     	{
-            "ClassName": "Msp_BoxingShorts_Red",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "Msp_BoxingShorts_Red",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 2500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"Msp_BoxingShorts_Blue"
             	]
         },
         {
-            "ClassName": "Msp_BoxingGloves_Black",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "Msp_BoxingGloves_Black",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 2500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"Msp_BoxingGloves_Red",
@@ -32,12 +34,13 @@
             	]
         },
         {
-            "ClassName": "Msp_M_BoxingGloves_Black",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "Msp_M_BoxingGloves_Black",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 2500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"Msp_M_BoxingGloves_Blue",
@@ -46,24 +49,26 @@
             	]
         },
         {
-            "ClassName": "Msp_BoxingHelmet_Red",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "Msp_BoxingHelmet_Red",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 2500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"Msp_BoxingHelmet_Blue"
             	]
         },
         {
-            "ClassName": "Msp_MedicBag",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "Msp_MedicBag",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 2500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"Msp_MedicBag_Red",
@@ -73,12 +78,13 @@
             	]
         },
         {
-            "ClassName": "Msp_Slouchie_Beige",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "Msp_Slouchie_Beige",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 2500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"Msp_Slouchie_Black",
@@ -87,12 +93,13 @@
             	]
         },
         {
-            "ClassName": "Msp_DuffleBag_Green",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "Msp_DuffleBag_Green",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 2500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"Msp_DuffleBag_Black",
@@ -101,12 +108,13 @@
             	]
         },
         {
-            "ClassName": "Msp_WaistPack_Tan",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "Msp_WaistPack_Tan",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 2500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"Msp_WaistPack_Black",
@@ -117,12 +125,13 @@
             	]
         },
         {
-            "ClassName": "Msp_BaseballCap_Beige",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "Msp_BaseballCap_Beige",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 2500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"Msp_BaseballCap_Black",

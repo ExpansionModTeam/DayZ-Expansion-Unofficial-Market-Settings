@@ -1,17 +1,18 @@
 {
-    "m_Version": 8,
+    "m_Version": 9,
     "DisplayName": "Tactical Flava Optics",
     "Icon": "Eye",
     "Color": "FFD400",
     "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "TF_ElcanSpecterDROptic_FDE",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+			"ClassName": "TF_ElcanSpecterDROptic_FDE",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "battery9v"
             ],
@@ -20,12 +21,13 @@
             ]
         },
         {
-            "ClassName": "TF_EOTechXPSOpticDown_Black",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+			"ClassName": "TF_EOTechXPSOpticDown_Black",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "battery9v"
             ],
@@ -34,46 +36,50 @@
             ]
         },
         {
-            "ClassName": "TF_DeltaPointOptic_Black",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+			"ClassName": "TF_DeltaPointOptic_Black",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "battery9v"
             ],
             "Variants": []
         },
         {
-            "ClassName": "TF_HAMROptic_Black",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+			"ClassName": "TF_HAMROptic_Black",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [
                 "battery9v"
             ],
             "Variants": []
         },
         {
-            "ClassName": "TF_OTs_14_GrozaOptic",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+			"ClassName": "TF_OTs_14_GrozaOptic",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
                 {
-            "ClassName": "TF_M14_Adapter",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
+			"ClassName": "TF_M14_Adapter",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         }

@@ -1,17 +1,18 @@
 {
-    "m_Version": 8,
+    "m_Version": 9,
     "DisplayName": "MIGHTY'S MILITARY GEAR",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "InitStockPercent": 75,
     "Items": [
     	{
-            "ClassName": "MMG_tt_vest_black",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_tt_vest_black",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 2500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_tt_vest_green",
@@ -24,12 +25,13 @@
             	]
         },
     	{
-            "ClassName": "MMG_JPC_Vest_Black",
-            "MaxPriceThreshold": 10000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_JPC_Vest_Black",
+			"MaxPriceThreshold": 10000,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_JPC_Vest_olive",
@@ -42,12 +44,13 @@
             	]
         },
         {
-            "ClassName": "MMG_MK_III_Armor_black",
-            "MaxPriceThreshold": 15000,
-            "MinPriceThreshold": 7500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_MK_III_Armor_black",
+			"MaxPriceThreshold": 15000,
+			"MinPriceThreshold": 7500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_MK_III_Armor_green",
@@ -55,12 +58,13 @@
             	]
         },
 		{
-            "ClassName": "MMG_Mag_Pouch_Black",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_Mag_Pouch_Black",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_Mag_Pouch_olive",
@@ -73,12 +77,13 @@
             	]
         },
 		{
-            "ClassName": "MMG_single_magpouch_black",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_single_magpouch_black",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_single_magpouch_green",
@@ -91,12 +96,13 @@
             	]
         },
 		{
-            "ClassName": "MMG_double_magpouch_black",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_double_magpouch_black",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_double_magpouch_green",
@@ -109,24 +115,26 @@
             	]
         },
 		{
-            "ClassName": "JPCMed_Pouch_alpine",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "JPCMed_Pouch_alpine",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"JPCMed_Pouch_erdl"
             	]
         },
 		{
-            "ClassName": "MMG_Med_Pouch_black",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_Med_Pouch_black",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_Med_Pouch_multicam",
@@ -136,12 +144,13 @@
             	]
         },
 		{
-            "ClassName": "MMG_ammo_pouch_black",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_ammo_pouch_black",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_ammo_pouch_olive",
@@ -154,12 +163,13 @@
             	]
         },
 		{
-            "ClassName": "MMG_tactical_pouch_tan",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_tactical_pouch_tan",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_tactical_pouch_black",
@@ -172,12 +182,13 @@
             	]
         },
 		{
-            "ClassName": "MMG_carrier_backpack_black",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_carrier_backpack_black",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 2500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_carrier_backpack_olive",
@@ -190,12 +201,13 @@
             	]
         },
 		{
-            "ClassName": "MMG_supplybag_black",
-            "MaxPriceThreshold": 10000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_supplybag_black",
+			"MaxPriceThreshold": 10000,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_supplybag_green",
@@ -208,12 +220,13 @@
             	]
         },
 		{
-            "ClassName": "MMG_falcon_b1_belt_olive",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 1000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_falcon_b1_belt_olive",
+			"MaxPriceThreshold": 2000,
+			"MinPriceThreshold": 1000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_falcon_b1_belt_black",
@@ -225,12 +238,13 @@
             	]
         },
 		{
-            "ClassName": "MMG_tactical_helmet_black",
-            "MaxPriceThreshold": 2500,
-            "MinPriceThreshold": 1250,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_tactical_helmet_black",
+			"MaxPriceThreshold": 2500,
+			"MinPriceThreshold": 1250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_tactical_helmet_green",
@@ -243,12 +257,13 @@
             	]
         },
 		{
-            "ClassName": "MMG_striker_helmet_rusty",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_striker_helmet_rusty",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 2500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_striker_helmet_black",
@@ -261,12 +276,13 @@
             	]
         },
 		{
-            "ClassName": "MMG_headphones_black",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_headphones_black",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_headphones_green",
@@ -275,12 +291,13 @@
             	]
         },
 		{
-            "ClassName": "MMG_ballistic_earcover_black",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_ballistic_earcover_black",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_ballistic_earcover_green",
@@ -291,12 +308,13 @@
             	]
         },
 		{
-            "ClassName": "MMG_Holster_black",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_Holster_black",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_Holster_green",
@@ -308,12 +326,13 @@
             	]
         },
 		{
-            "ClassName": "MMG_sheath_black",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_sheath_black",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_sheath_olive",
@@ -326,12 +345,13 @@
             	]
         },
 		{
-            "ClassName": "MMG_bottle_black",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_bottle_black",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_bottle_olive",
@@ -343,12 +363,13 @@
             	]
         },
 		{
-            "ClassName": "MMG_carbine_red",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_carbine_red",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_carbine_green",
@@ -357,12 +378,13 @@
             	]
         },
 		{
-            "ClassName": "MMG_combatpants_olive",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_combatpants_olive",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_combatpants_black",
@@ -374,12 +396,13 @@
             	]
         },
 		{
-            "ClassName": "MMG_combatshirt_green",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_combatshirt_green",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_combatshirt_black",
@@ -391,12 +414,13 @@
             	]
         },
 		{
-            "ClassName": "MMG_facemask_green",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_facemask_green",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_facemask_black",
@@ -409,12 +433,13 @@
             	]
         },
 		{
-            "ClassName": "MMG_balaclava_black",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+			"ClassName": "MMG_balaclava_black",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
             	"MMG_balaclava_olive",
