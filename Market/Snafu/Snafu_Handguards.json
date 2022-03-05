@@ -17,6 +17,17 @@
 			"Variants":[]
 		},
 		{
+			"ClassName": "SNAFU_AK_HG",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments":[],
+			"Variants":[]
+		},
+		{
 			"ClassName": "SNAFU_HG625",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
