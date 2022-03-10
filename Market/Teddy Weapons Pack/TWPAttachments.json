@@ -1,0 +1,42 @@
+{
+    "m_Version": 9,
+    "DisplayName": "TWPAttachments",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "TWP_Sling",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_MarlinHolster",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_AX50_Bttstck",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

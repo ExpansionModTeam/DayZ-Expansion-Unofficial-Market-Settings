@@ -1,0 +1,315 @@
+{
+    "m_Version": 9,
+    "DisplayName": "PISTOLS 3",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "TWP_P2000BlueGirl",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_P2000BlueGirl_mag_16Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_P2000Protector",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_P2000Protector_mag_16Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_P2000Renegade",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_P2000Renegade_mag_16Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_P2000Toxic",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_P2000Toxic_mag_16Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_SigSauerP226",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_SigSauerP226_mag_12Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_SigSauerP229",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 1750,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_SigSauerP229_mag_13Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_SigSauerP250",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_SigSauerP250_mag_10Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_SigSauerP250Colored",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 1750,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"TWP_SigSauerP250Colored_mag_10Rnd"
+			],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_SigSauerP250Patrician",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 1750,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_SigSauerP250Patrician_mag_10Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_SigSauerP250PeaCock",
+            "MaxPriceThreshold": 4500,
+            "MinPriceThreshold": 2250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_SigSauerP250PeaCock_mag_10Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_SigSauerP250Wingshot",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_SigSauerP250Wingshot_mag_10Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_SP1Vektor",
+            "MaxPriceThreshold": 4500,
+            "MinPriceThreshold": 2250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"TWP_SP1Vektor_mag_15Rnd"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_SR1Gyrza",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_SR1Gyrza_mag_18Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Tokarev",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_Tokarev_mag_8Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_USPChromatic",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_USPChromatic_mag_15Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_USPPsychodelic",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_USPPsychodelic_mag_15Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_WaltherP99",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_WaltherP99_mag_15Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_WaltherQ5",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 1750,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_WaltherQ5_mag_15Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Glock17",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_Glock17_mag_19Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_WaltherPPK",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 1750,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"TWP_WaltherPPK_mag_8Rnd"
+			],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_BerettaSamuraiEdge",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 1750,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_BerettaSamuraiEdge_mag_18Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_ColtPython",
+            "MaxPriceThreshold": 4500,
+            "MinPriceThreshold": 2250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_MagnumCompetitor",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Taurus",
+            "MaxPriceThreshold": 4500,
+            "MinPriceThreshold": 2250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

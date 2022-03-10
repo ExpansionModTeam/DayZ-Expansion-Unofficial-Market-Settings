@@ -1,0 +1,614 @@
+{
+    "m_Version": 9,
+    "DisplayName": "ASSAULT RIFLES 3",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "TWP_HKCarabine",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_HKCarabine_mag_30Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_HoneyBadger",
+            "MaxPriceThreshold": 8000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_HoneyBadger_mag_40Rnd",
+				"TWP_HoneyBadgerBW_mag_40Rnd",
+				"TWP_HoneyBadgerGold_mag_40Rnd"
+            ],
+            "Variants": [
+				"TWP_HoneyBadgerBlueWhite",
+				"TWP_HoneyBadgerGold"
+			]
+        },
+        {
+            "ClassName": "TWP_IA2",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_IA2_mag_30Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_K2C",
+            "MaxPriceThreshold": 9000,
+            "MinPriceThreshold": 9000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"TWP_K2C_mag_30Rnd"
+			]
+        },
+        {
+            "ClassName": "TWP_LR300",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_LR300_mag_30Rnd"
+            ],
+            "Variants": [
+				"TWP_LR300Camo"
+			]
+        },
+        {
+            "ClassName": "TWP_M4A1Black",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"TWP_M4V5_mag_30Rnd"
+			],
+            "Variants": [
+				"TWP_M4V5"
+			]
+        },
+        {
+            "ClassName": "TWP_M16",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"TWP_M16A1_mag_20Rnd"
+			],
+            "Variants": [
+				"TWP_M16A1Black",
+				"TWP_M16A1Wood"
+			]
+        },
+        {
+            "ClassName": "TWP_M16A2",
+            "MaxPriceThreshold": 7000,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_M16_mag_20Rnd",
+				"TWP_M16A4_handle",
+				"TWP_M16A4_mag_30Rnd"
+            ],
+            "Variants": [
+				"TWP_M16A3",
+				"TWP_M16A4"
+			]
+        },
+        {
+            "ClassName": "TWP_M60",
+            "MaxPriceThreshold": 7000,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_M60_mag_200Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_M249",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_M249_mag_200Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_MK14",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_MK14_mag_30Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_MK18",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_MK18_mag_100Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_MSBS_GrotBGold",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"TWP_MSBS_GrotBGold_mag_30Rnd"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_MSBS_GrotC",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_MSBS_GrotC_mag_30Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_OTSGrosa",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_OTSGrosa_mag_30Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_ParaSA58",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_ParaSA58_mag_20Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_PindadSS2",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_PindadSS2_mag_30Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_PP19Bison",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_PP19Bison_mag_64Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_PPSH",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_PPSH_mag_50Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_PKM",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_PKM_mag_100Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_QBZ03",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_QBZ03_mag_30Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_RemingtonR5",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_RemingtonR5_mag_40Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_RK62",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_RK62_mag_30Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_Ruger556",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_Ruger556_mag_30Rnd"
+            ],
+            "Variants": [
+				"TWP_Ruger556_MagPul"
+			]
+        },
+		{
+            "ClassName": "TWP_RPK16",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_RPK16_mag_100Rnd",
+				"TWP_RPK16Green_mag_100Rnd",
+				"TWP_RPK16Tan_mag_100Rnd"
+            ],
+            "Variants": [
+				"TWP_RPK16Green",
+				"TWP_RPK16Tan"
+			]
+        },
+		{
+            "ClassName": "TWP_ScarL",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_ScarL_mag_30Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_ScarH",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_ScarH_mag_30Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_ScarDragon",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_ScarDragon_mag_50Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_ScarLKBlue",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_ScarLK_mag_30Rnd"
+            ],
+            "Variants": [
+				"TWP_ScarLKBlueCamo",
+				"TWP_ScarLKGreen",
+				"TWP_ScarLKGreenCamo",
+				"TWP_ScarLKTan"
+			]
+        },
+		{
+            "ClassName": "TWP_SteyrAug_Olive",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_SteyrAug_mag_45Rnd"
+            ],
+            "Variants": [
+				"TWP_SteyrAug_Tan",
+				"TWP_SteyrAug_Black"
+			]
+        },
+		{
+            "ClassName": "TWP_STG44",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_STG44_mag_30Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_SG550",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_SG550_mag_30Rnd"
+				
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_SG553",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_SG553_mag_30Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_SR47",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_SR47_mag_30Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_StenGun",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_StenGun_mag_32Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_Sterling",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_Sterling_mag_34Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_STG58",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_STG58_mag_20Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_Stoner63",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_Stoner63_mag_30Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_Tar21",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_Tar21_mag_30Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_Thompson",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_Thompson_mag_50Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_ThompsonMK2",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_ThompsonMK2_mag_50Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_Type64",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_Type64_mag_20Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_Type89",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_Type89_mag_30Rnd"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "TWP_XM8",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TWP_XM8_mag_30Rnd"
+            ],
+            "Variants": []
+        }
+    ]
+}
