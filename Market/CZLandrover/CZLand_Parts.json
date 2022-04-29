@@ -1,0 +1,83 @@
+{
+    "m_Version": 9,
+    "DisplayName": "CZLandrover Parts",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "LANDoors_Driver_GlossyGreen",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"LANDoors_Driver_GlossyBlack",
+				"LANDoors_Driver_GlossyWhite",
+				"LANDoors_Driver"
+			]
+        },
+		{
+            "ClassName": "LANDoors_CoDriver_GlossyGreen",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"LANDoors_CoDriver_GlossyBlack",
+				"LANDoors_CoDriver_GlossyWhite",
+				"LANDoors_CoDriver"
+			]
+        },
+		{
+            "ClassName": "LANDoors_Hood_GlossyGreen",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"LANDoors_Hood_GlossyBlack",
+				"LANDoors_Hood_GlossyWhite",
+				"LANDoors_Hood"
+			]
+        },
+		{
+            "ClassName": "LANCargo1Doors_GlossyGreen",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"LANCargo1Doors_GlossyBlack",
+				"LANCargo1Doors_GlossyWhite",
+				"LANCargo1Doors"
+			]
+        },
+		{
+            "ClassName": "lr_wheel",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"lr_wheel_glossyblack",
+				"lr_wheel_glossywhite"
+			]
+        }
+    ]
+}
