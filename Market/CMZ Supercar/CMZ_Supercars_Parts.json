@@ -1,0 +1,280 @@
+{
+	"m_Version": 9,
+	"DisplayName": "CMZ Supercar Parts",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [{
+			"ClassName": "LamboVeneno_koleso",
+			"MaxPriceThreshold": 60,
+			"MinPriceThreshold": 30,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "LamboVeneno_dver_1_1",
+			"MaxPriceThreshold": 60,
+			"MinPriceThreshold": 30,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "LamboVeneno_dver_2_1",
+			"MaxPriceThreshold": 400,
+			"MinPriceThreshold": 200,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "McLaren720s_koleso",
+			"MaxPriceThreshold": 440,
+			"MinPriceThreshold": 220,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "McLaren720s_dver_1_1",
+			"MaxPriceThreshold": 120,
+			"MinPriceThreshold": 60,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"McLaren720s_dver_1_1_gold",
+				"McLaren720s_dver_1_1_chrome",
+				"McLaren720s_dver_1_1_pink"
+			]
+		},
+		{
+			"ClassName": "McLaren720s_dver_2_1",
+			"MaxPriceThreshold": 120,
+			"MinPriceThreshold": 60,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"McLaren720s_dver_2_1_gold",
+				"McLaren720s_dver_2_1_chrome",
+				"McLaren720s_dver_2_1_pink"
+			]
+		},
+		{
+			"ClassName": "PHuayra_koleso",
+			"MaxPriceThreshold": 120,
+			"MinPriceThreshold": 60,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "PHuayra_dver_1_1",
+			"MaxPriceThreshold": 600,
+			"MinPriceThreshold": 300,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"PHuayra_dver_1_1_pink",
+				"PHuayra_dver_1_1_gold",
+				"PHuayra_dver_1_1_chrome"
+			]
+		},
+		{
+			"ClassName": "PHuayra_dver_2_1",
+			"MaxPriceThreshold": 600,
+			"MinPriceThreshold": 300,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"PHuayra_dver_2_1_pink",
+				"PHuayra_dver_2_1_gold",
+				"PHuayra_dver_2_1_chrome"
+			]
+		},
+		{
+			"ClassName": "FLaFerrari_koleso",
+			"MaxPriceThreshold": 760,
+			"MinPriceThreshold": 380,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "FLaFerrari_dver_1_1",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"FLaFerrari_dver_1_1_pink",
+				"FLaFerrari_dver_1_1_gold",
+				"FLaFerrari_dver_1_1_chrome"
+			]
+		},
+		{
+			"ClassName": "FLaFerrari_dver_2_1",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"FLaFerrari_dver_2_1_pink",
+				"FLaFerrari_dver_2_1_gold",
+				"FLaFerrari_dver_2_1_chrome"
+			]
+		},
+		{
+			"ClassName": "G65AMG13_koleso",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "G65AMG13_dver_1_1",
+			"MaxPriceThreshold": 600,
+			"MinPriceThreshold": 300,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"G65AMG13_dver_1_1_green",
+				"G65AMG13_dver_1_1_green1",
+				"G65AMG13_dver_1_1_green2",
+				"G65AMG13_dver_1_1_pink"
+			]
+		},
+		{
+			"ClassName": "G65AMG13_dver_2_1",
+			"MaxPriceThreshold": 760,
+			"MinPriceThreshold": 380,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"G65AMG13_dver_2_1_green",
+				"G65AMG13_dver_2_1_green1",
+				"G65AMG13_dver_2_1_green2",
+				"G65AMG13_dver_2_1_pink",
+				"G65AMG13_dver_1_1_white",
+				"G65AMG13_dver_1_1_white2"
+			]
+		},
+		{
+			"ClassName": "G65AMG13_dver_1_2",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"G65AMG13_dver_1_2_green",
+				"G65AMG13_dver_1_2_green1",
+				"G65AMG13_dver_1_2_green2",
+				"G65AMG13_dver_1_2_pink",
+				"G65AMG13_dver_2_1_white",
+				"G65AMG13_dver_2_1_white2"
+			]
+		},
+		{
+			"ClassName": "G65AMG13_dver_2_2",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"G65AMG13_dver_2_2_green",
+				"G65AMG13_dver_2_2_green1",
+				"G65AMG13_dver_2_2_green2",
+				"G65AMG13_dver_2_2_pink",
+				"G65AMG13_dver_1_2_white"
+			]
+		},
+		{
+			"ClassName": "G65AMG13_kapot",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"G65AMG13_kapot_green",
+				"G65AMG13_kapot_green1",
+				"G65AMG13_kapot_green2",
+				"G65AMG13_kapot_pink",
+				"G65AMG13_kapot_white",
+				"G65AMG13_kapot_white3"
+			]
+		},
+		{
+			"ClassName": "G65AMG13_bagazhnik",
+			"MaxPriceThreshold": 900,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"G65AMG13_bagazhnik_green",
+				"G65AMG13_bagazhnik_green1",
+				"G65AMG13_bagazhnik_green2",
+				"G65AMG13_bagazhnik_pink",
+				"G65AMG13_bagazhnik_white",
+				"G65AMG13_bagazhnik_white3"
+			]
+		}
+	]
+}
