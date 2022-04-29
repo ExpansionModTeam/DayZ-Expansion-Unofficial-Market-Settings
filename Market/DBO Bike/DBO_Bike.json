@@ -1,0 +1,66 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Deanos Dirtbikes",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "dbo_tt650",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"bike_shoe",
+				"bike_shoe",
+				"bike_shoe",
+				"bike_shoe",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug"
+            ],
+            "Variants": []
+        },
+{
+            "ClassName": "dbo_yamXt",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"bike_shoe",
+				"bike_shoe",
+				"bike_shoe",
+				"bike_shoe",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug"
+            ],
+            "Variants": []
+        },
+{
+            "ClassName": "dbo_yamXtb",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"bike_shoe",
+				"bike_shoe",
+				"bike_shoe",
+				"bike_shoe",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug"
+            ],
+            "Variants": []
+        }         
+    ]
+}
