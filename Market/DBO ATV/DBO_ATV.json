@@ -1,0 +1,30 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Deanos ATV",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "dbo_atv",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"atv_wheel",
+				"atv_wheel",
+				"atv_wheel",
+				"atv_wheel",
+				"HeadlightH7",
+				"HeadlightH7",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug"
+            ],
+            "Variants": []
+        }        
+    ]
+}
