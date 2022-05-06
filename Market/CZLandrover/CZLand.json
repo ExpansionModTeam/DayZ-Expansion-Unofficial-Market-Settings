@@ -1,0 +1,114 @@
+{
+    "m_Version": 9,
+    "DisplayName": "CZLandrovers",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "CZ_landroverA_GlossyGreen",
+            "MaxPriceThreshold": 55000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"SparkPlug",
+				"CarBattery",
+				"CarRadiator",
+				"LANDoors_Driver_GlossyGreen",
+				"LANDoors_CoDriver_GlossyGreen",
+				"LANDoors_Hood_GlossyGreen",
+				"LANCargo1Doors_GlossyGreen",
+				"CanisterGasoline",
+				"lr_wheel",
+				"lr_wheel",
+				"lr_wheel",
+				"lr_wheel",
+				"lr_wheel"
+            ],
+            "Variants": [
+				"CZ_landroverA_GlossyBlack",
+				"CZ_landroverA_GlossyWhite",
+				"CZ_landroverA"
+			]
+        },
+		{
+            "ClassName": "CZ_landroverA_GlossyBlack",
+            "MaxPriceThreshold": 55000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"SparkPlug",
+				"CarBattery",
+				"CarRadiator",
+				"LANDoors_Driver_GlossyBlack",
+				"LANDoors_CoDriver_GlossyBlack",
+				"LANDoors_Hood_GlossyBlack",
+				"LANCargo1Doors_GlossyBlack",
+				"CanisterGasoline",
+				"lr_wheel_glossyblack",
+				"lr_wheel_glossyblack",
+				"lr_wheel_glossyblack",
+				"lr_wheel_glossyblack",
+				"lr_wheel_glossyblack"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "CZ_landroverA_GlossyWhite",
+            "MaxPriceThreshold": 55000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"SparkPlug",
+				"CarBattery",
+				"CarRadiator",
+				"LANDoors_Driver_GlossyWhite",
+				"LANDoors_CoDriver_GlossyWhite",
+				"LANDoors_Hood_GlossyWhite",
+				"LANCargo1Doors_GlossyWhite",
+				"CanisterGasoline",
+				"lr_wheel_glossywhite",
+				"lr_wheel_glossywhite",
+				"lr_wheel_glossywhite",
+				"lr_wheel_glossywhite",
+				"lr_wheel_glossywhite"
+            ],
+            "Variants": []
+        }
+		,
+		{
+            "ClassName": "CZ_landroverA",
+            "MaxPriceThreshold": 55000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"SparkPlug",
+				"CarBattery",
+				"CarRadiator",
+				"LANDoors_Driver",
+				"LANDoors_CoDriver",
+				"LANDoors_Hood",
+				"LANCargo1Doors",
+				"CanisterGasoline",
+				"lr_wheel_glossywhite",
+				"lr_wheel_glossywhite",
+				"lr_wheel_glossywhite",
+				"lr_wheel_glossywhite",
+				"lr_wheel_glossywhite"
+            ],
+            "Variants": []
+        }
+    ]
+}

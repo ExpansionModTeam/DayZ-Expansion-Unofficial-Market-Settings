@@ -1,0 +1,76 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Deanos Mustangs",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "mustang",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 14000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"mustangwheel",
+				"mustangwheel",
+				"mustangwheel",
+				"mustangwheel",
+				"mustangwheel",
+				"mustangwheel",
+				"HeadlightH7",
+				"HeadlightH7",
+				"EngineBelt",
+				"mustangDoors_Driver",
+				"mustangDoors_coDriver",
+				"JerryCanRed",
+				"GreenOilCan",
+				"StorageBoxM",
+				"toolboxm",
+				"GunCaseM",
+				"ShovelM",
+				"CanisterGasoline",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "mustangNOS",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 16000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"mustangwheel",
+				"mustangwheel",
+				"mustangwheel",
+				"mustangwheel",
+				"mustangwheel",
+				"mustangwheel",
+				"HeadlightH7",
+				"HeadlightH7",
+				"EngineBelt",
+				"mustangDoors_Driver",
+				"mustangDoors_coDriver",
+				"JerryCanRed",
+				"GreenOilCan",
+				"StorageBoxM",
+				"toolboxm",
+				"GunCaseM",
+				"ShovelM",
+				"CanisterGasoline",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug"
+            ],
+            "Variants": []
+        }
+        
+    ]
+}

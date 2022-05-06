@@ -1,0 +1,20 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Savage Sherpas Parts",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "SavageSNO_RearBag",
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 140,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }        
+    ]
+}
