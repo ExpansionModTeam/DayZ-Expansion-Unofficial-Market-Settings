@@ -186,7 +186,7 @@
             ]
         },
 		{
-			"ClassName": "MMG_mk5_grenade_pouch_germany",
+			"ClassName": "MMG_mk_v_grenade_pouch_germany",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 500,
 			"SellPricePercent": 10,
