@@ -195,9 +195,9 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"MMG_mk5_grenade_pouch_sweden",
-				"MMG_mk5_grenade_pouch_ukraine",
-				"MMG_mk5_grenade_pouch_norway"
+				"MMG_mk_v_grenade_pouch_sweden",
+				"MMG_mk_v_grenade_pouch_ukraine",
+				"MMG_mk_v_grenade_pouch_norway"
             ]
         },
 		{
