@@ -1,0 +1,227 @@
+{
+    "m_Version": 9,
+    "DisplayName": "MMG Storage",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "mmg_crate04_olive",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"mmg_crate04_black",
+				"mmg_crate04_blue",
+				"mmg_crate04_yellow",
+				"mmg_crate04_red"
+			]
+        },
+		{
+            "ClassName": "mmg_supply_crate_wood",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"mmg_supply_crate_grey"
+			]
+        },
+		{
+            "ClassName": "mmg_army_box_green",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"mmg_army_box_medic",
+				"mmg_army_box_medic_grey"
+			]
+        },
+		{
+            "ClassName": "mmg_military_case_green",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "mmg_weapon_crate_wood",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "mmg_palette_storage",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "mmg_craftable_tent_kit",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "mmg_gun_rack_planks",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "mmg_gun_wall_kit_wooden",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"mmg_gun_wall_kit_metal"
+			]
+        },
+		{
+            "ClassName": "mmg_gun_rack_kit_blue",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"mmg_gun_rack_kit_green",
+				"mmg_gun_rack_kit_tan"
+			]
+        },
+		{
+            "ClassName": "mmg_lockable_gun_rack_kit_grey",
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "mmg_fridge_kit_beige",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"mmg_fridge_kit_blue"
+			]
+        },
+		{
+            "ClassName": "mmg_trashcan_red",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"mmg_trashcan_yellow",
+				"mmg_trashcan_green"
+			]
+        },
+		{
+            "ClassName": "mmg_grenade_case_green",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "mmg_Raidsaw",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "mmg_planter_box_kit",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "mmg_greenhouse_kit",
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "mmg_old_table",
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
