@@ -23,7 +23,8 @@
 				"MMG_JPC_Vest_multicam_tropic",
 				"MMG_JPC_Vest_multicamblack",
 				"MMG_JPC_Vest_tan",
-				"MMG_JPC_Vest_ucp"
+				"MMG_JPC_Vest_ucp",
+				"MMG_JPC_Vest_atacs"
             ]
         },
 		{
@@ -45,7 +46,8 @@
 				"MMG_tt_Vest_multicamblack",
 				"MMG_tt_Vest_police",
 				"MMG_tt_Vest_tan",
-				"MMG_tt_Vest_ucp"
+				"MMG_tt_Vest_ucp",
+				"MMG_tt_Vest_atacs"
 			]
         },
 		{
@@ -66,7 +68,8 @@
 				"MMG_chestrig_multicam_tropic",
 				"MMG_chestrig_multicamblack",
 				"MMG_chestrig_tan",
-				"MMG_chestrig_ucp"
+				"MMG_chestrig_ucp",
+				"MMG_chestrig_atacs"
             ]
         },
 		{
@@ -87,7 +90,8 @@
 				"MMG_MK_III_Armor_multicam_tropic",
 				"MMG_MK_III_Armor_multicamblack",
 				"MMG_MK_III_Armor_tan",
-				"MMG_MK_III_Armor_ucp"
+				"MMG_MK_III_Armor_ucp",
+				"MMG_MK_III_Armor_atacs"
             ]
         },
 		{
@@ -108,7 +112,8 @@
 				"MMG_MK_V_Armor_multicam_tropic",
 				"MMG_MK_V_Armor_multicamblack",
 				"MMG_MK_V_Armor_tan",
-				"MMG_MK_V_Armor_ucp"
+				"MMG_MK_V_Armor_ucp",
+				"MMG_MK_V_Armor_atacs"
             ]
         },
 		{
@@ -129,7 +134,8 @@
 				"MMG_Mag_Pouch_multicam_tropic",
 				"MMG_Mag_Pouch_multicamblack",
 				"MMG_Mag_Pouch_tan",				
-				"MMG_Mag_Pouch_ucp"
+				"MMG_Mag_Pouch_ucp",
+				"MMG_Mag_Pouch_atacs"
             	]
         },
 		{
@@ -150,7 +156,8 @@
 				"MMG_triple_magpouch_multicam_tropic",
 				"MMG_triple_magpouch_multicamblack",
 				"MMG_triple_magpouch_tan",
-				"MMG_triple_magpouch_ucp"
+				"MMG_triple_magpouch_ucp",
+				"MMG_triple_magpouch_atacs"
 			]
         },
 		{
@@ -171,7 +178,8 @@
 				"MMG_double_magpouch_multicam_tropic",
 				"MMG_double_magpouch_multicamblack",
 				"MMG_double_magpouch_tan",
-				"MMG_double_magpouch_ucp"
+				"MMG_double_magpouch_ucp",
+				"MMG_double_magpouch_atacs"
             ]
         },
 		{
@@ -192,7 +200,8 @@
 				"MMG_Med_Pouch_multicam_tropic",
 				"MMG_Med_Pouch_multicamblack",
 				"MMG_Med_Pouch_tan",
-				"MMG_Med_Pouch_ucp"
+				"MMG_Med_Pouch_ucp",
+				"MMG_Med_Pouch_atacs"
             ]
         },
 		{
@@ -213,7 +222,8 @@
 				"MMG_ammo_pouch_multicam_tropic",
 				"MMG_ammo_pouch_multicamblack",
 				"MMG_ammo_pouch_tan",
-				"MMG_ammo_pouch_ucp"
+				"MMG_ammo_pouch_ucp",
+				"MMG_ammo_pouch_atacs"
             ]
         },
 		{
@@ -234,7 +244,8 @@
 				"MMG_tactical_pouch_multicam_tropic",
 				"MMG_tactical_pouch_multicamblack",
 				"MMG_tactical_pouch_tan",
-				"MMG_tactical_pouch_ucp"
+				"MMG_tactical_pouch_ucp",
+				"MMG_tactical_pouch_atacs"
             ]
         },
 		{
@@ -255,7 +266,8 @@
 				"MMG_mk5_utility_pouch_multicam_tropic",
 				"MMG_mk5_utility_pouch_multicamblack",
 				"MMG_mk5_utility_pouch_tan",		
-				"MMG_mk5_utility_pouch_ucp"
+				"MMG_mk5_utility_pouch_ucp",
+				"MMG_mk5_utility_pouch_atacs"
             ]
         },
 		{
@@ -276,7 +288,8 @@
 				"MMG_mk5_grenade_pouch_multicam_tropic",
 				"MMG_mk5_grenade_pouch_multicamblack",
 				"MMG_mk5_grenade_pouch_tan",
-				"MMG_mk5_grenade_pouch_ucp"
+				"MMG_mk5_grenade_pouch_ucp",
+				"MMG_mk_V_grenade_pouch_atacs"
             ]
         },
 		{
@@ -297,7 +310,8 @@
 				"MMG_carrier_backpack_multicam_tropic",
 				"MMG_carrier_backpack_multicamblack",
 				"MMG_carrier_backpack_tan",
-				"MMG_carrier_backpack_ucp"
+				"MMG_carrier_backpack_ucp",
+				"MMG_carrier_backpack_atacs"
 			]
         },
 		{
@@ -318,7 +332,8 @@
 				"MMG_supplybag_multicam_tropic",
 				"MMG_supplybag_multicamblack",
 				"MMG_supplybag_tan",
-				"MMG_supplybag_ucp"
+				"MMG_supplybag_ucp",
+				"MMG_supplybag_atacs"
 			]
         },
 		{
@@ -339,7 +354,8 @@
 				"MMG_assault_pack_multicam_tropic",
 				"MMG_assault_pack_multicamblack",
 				"MMG_assault_pack_tan",
-				"MMG_assault_pack_ucp"
+				"MMG_assault_pack_ucp",
+				"MMG_assault_pack_atacs"
             ]
         },
 		{
@@ -360,7 +376,8 @@
 				"MMG_camelback_multicam_tropic",
 				"MMG_camelback_multicamblack",
 				"MMG_camelback_tan",
-				"MMG_camelback_ucp"
+				"MMG_camelback_ucp",
+				"MMG_camelback_atacs"
             ]
         },
 		{
@@ -381,7 +398,8 @@
 				"MMG_falcon_b1_belt_multicam_tropic",
 				"MMG_falcon_b1_belt_multicamblack",
 				"MMG_falcon_b1_belt_tan",
-				"MMG_falcon_b1_belt_ucp"
+				"MMG_falcon_b1_belt_ucp",
+				"MMG_falcon_b1_belt_atacs"
 			]
         },
 		{
@@ -403,7 +421,8 @@
 				"MMG_tactical_helmet_multicamblack",
 				"MMG_tactical_helmet_police",
 				"MMG_tactical_helmet_tan",
-				"MMG_tactical_helmet_ucp"
+				"MMG_tactical_helmet_ucp",
+				"MMG_tactical_helmet_atacs"
             ]
         },
 		{
@@ -425,7 +444,8 @@
 				"MMG_striker_helmet_multicamblack",
 				"MMG_striker_helmet_tan",
 				"MMG_striker_helmet_ucp",
-            	"MMG_striker_helmet_rusty"
+            	"MMG_striker_helmet_rusty",
+				"MMG_striker_helmet_atacs"
             ]
         },
 		{
@@ -489,7 +509,8 @@
 				"MMG_sheath_multicam_tropic",
 				"MMG_sheath_multicamblack",
 				"MMG_sheath_tan",
-				"MMG_sheath_ucp"
+				"MMG_sheath_ucp",
+				"MMG_sheath_atacs"
             ]
         },
 		{
@@ -510,7 +531,8 @@
 				"MMG_bottle_multicam_tropic",
 				"MMG_bottle_multicamblack",
 				"MMG_bottle_tan",
-				"MMG_bottle_ucp"
+				"MMG_bottle_ucp",
+				"MMG_bottle_atacs"
 			]
         },
 		{
@@ -531,7 +553,8 @@
 				"MMG_Holster_multicam_tropic",
 				"MMG_Holster_multicamblack",
 				"MMG_Holster_tan",
-				"MMG_Holster_ucp"
+				"MMG_Holster_ucp",
+				"MMG_Holster_atacs"
             ]
         },
 		{
@@ -567,7 +590,8 @@
 				"MMG_operatorshirt_multicam_tropic",
 				"MMG_operatorshirt_multicamblack",
 				"MMG_operatorshirt_tan",
-				"MMG_operatorshirt_ucp"
+				"MMG_operatorshirt_ucp",
+				"MMG_operatorshirt_atacs"
             ]
         },
 		{
@@ -588,7 +612,8 @@
 				"MMG_tactical_shirt_multicam_tropic",
 				"MMG_tactical_shirt_multicamblack",
 				"MMG_tactical_shirt_tan",
-				"MMG_tactical_shirt_ucp"
+				"MMG_tactical_shirt_ucp",
+				"MMG_tactical_shirt_atacs"
             ]
         },
 		{
@@ -610,7 +635,8 @@
 				"MMG_combatshirt_multicamblack",
 				"MMG_combatshirt_police",
 				"MMG_combatshirt_tan",
-				"MMG_combatshirt_ucp"
+				"MMG_combatshirt_ucp",
+				"MMG_combatshirt_atacs"
 			]
         },
 		{
@@ -632,7 +658,30 @@
 				"MMG_combatpants_multicamblack",
 				"MMG_combatpants_police",
 				"MMG_combatpants_tan",
-				"MMG_combatpants_ucp"
+				"MMG_combatpants_ucp",
+				"MMG_combatpants_atacs"
+            ]
+        },
+		{
+			"ClassName": "mmg_tactical_pants_black",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": 10,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 0,
+			"QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": [
+				"mmg_tactical_pants_green",
+				"mmg_tactical_pants_tan",
+				"mmg_tactical_pants_ucp",
+				"mmg_tactical_pants_multicam",
+				"mmg_tactical_pants_erdl",
+				"mmg_tactical_pants_atacs",
+				"mmg_tactical_pants_multicamblack",
+				"mmg_tactical_pants_multicam_tropic",
+				"mmg_tactical_pants_alpine",
+				"mmg_tactical_pants_dark_woodland"
             ]
         },
 		{
@@ -653,7 +702,8 @@
 				"mmg_tactical_gloves_multicam_tropic",
 				"mmg_tactical_gloves_multicamblack",
 				"mmg_tactical_gloves_tan",
-				"mmg_tactical_gloves_ucp"
+				"mmg_tactical_gloves_ucp",
+				"mmg_tactical_gloves_atacs"
             ]
         },
 		{
@@ -674,7 +724,8 @@
 				"MMG_boots_multicam_tropic",
 				"MMG_boots_multicamblack",
 				"MMG_boots_tan",
-				"MMG_boots_ucp"
+				"MMG_boots_ucp",
+				"MMG_boots_atacs"
             ]
         },
 		{
@@ -695,7 +746,10 @@
 				"MMG_facemask_multicam_tropic",
 				"MMG_facemask_multicamblack",			
 				"MMG_facemask_tan",
-				"MMG_facemask_ucp"
+				"MMG_facemask_ucp",
+				"MMG_facemask_atacs",
+				"MMG_facemask_skull",
+				"MMG_facemask_joker"
             ]
         },
 		{
@@ -716,11 +770,12 @@
 				"MMG_balaclava_multicam_tropic",
 				"MMG_balaclava_multicamblack",
 				"MMG_balaclava_tan",
-				"MMG_balaclava_ucp"
+				"MMG_balaclava_ucp",
+				"MMG_balaclava_atacs"
             ]
         },
 		{
-			"ClassName": "mmg_boonie_alpine",
+			"ClassName": "mmg_boonie_black",
 			"MaxPriceThreshold": 3000,
 			"MinPriceThreshold": 3000,
 			"SellPricePercent": 10,
@@ -729,6 +784,7 @@
 			"QuantityPercent": 25,
             "SpawnAttachments": [],
             "Variants": [
+				"mmg_boonie_alpine",
 				"mmg_boonie_dark_woodland",
 				"mmg_boonie_erdl",
 				"mmg_boonie_green",
@@ -736,7 +792,8 @@
 				"mmg_boonie_multicam_tropic",
 				"mmg_boonie_multicamblack",
 				"mmg_boonie_tan",
-				"mmg_boonie_ucp"
+				"mmg_boonie_ucp",
+				"mmg_boonie_atacs"
             ]
         },
 		{
