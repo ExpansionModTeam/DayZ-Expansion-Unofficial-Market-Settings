@@ -289,7 +289,7 @@
 				"MMG_mk5_grenade_pouch_multicamblack",
 				"MMG_mk5_grenade_pouch_tan",
 				"MMG_mk5_grenade_pouch_ucp",
-				"MMG_mk_V_grenade_pouch_atacs"
+				"MMG_mk5_grenade_pouch_atacs"
             ]
         },
 		{
@@ -351,7 +351,7 @@
 				"MMG_assault_pack_erdl",
 				"MMG_assault_pack_olive",
 				"MMG_assault_pack_multicam",
-				"MMG_assault_pack_multicam_tropic",
+				"MMG_assault_pack_mct",
 				"MMG_assault_pack_multicamblack",
 				"MMG_assault_pack_tan",
 				"MMG_assault_pack_ucp",
@@ -558,6 +558,20 @@
             ]
         },
 		{
+			"ClassName": "MMG_holster_pouch_black",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": 10,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"MMG_holster_pouch_green",
+				"MMG_holster_pouch_tank"
+            ]
+        },
+		{
 			"ClassName": "mmg_tac_goggles_red_black",
 			"MaxPriceThreshold": 750,
 			"MinPriceThreshold": 750,
@@ -605,7 +619,7 @@
             "SpawnAttachments": [],
             "Variants": [
 				"MMG_tactical_shirt_alpine",
-				"MMG_tactical_shirt_dark_woodland",
+				"MMG_tactical_shirt_dark_wl",
 				"MMG_tactical_shirt_erdl",
 				"MMG_tactical_shirt_green",
 				"MMG_tactical_shirt_multicam",
