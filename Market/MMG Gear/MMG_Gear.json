@@ -337,6 +337,28 @@
 			]
         },
 		{
+			"ClassName": "MMG_mmps_bag_black",
+			"MaxPriceThreshold": 10000,
+			"MinPriceThreshold": 10000,
+			"SellPricePercent": 10,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 0,
+			"QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": [
+				"MMG_mmps_bag_green",
+				"MMG_mmps_bag_tan",
+				"MMG_mmps_bag_ucp",
+				"MMG_mmps_bag_multicam",
+				"MMG_mmps_bag_erdl",
+				"MMG_mmps_bag_atacs",
+				"MMG_mmps_bag_multicamblack",
+				"MMG_mmps_bag_multicam_tropic",
+				"MMG_mmps_bag_alpine",
+				"MMG_mmps_bag_dark_woodland"
+			]
+        },
+		{
 			"ClassName": "MMG_assault_pack_black",
 			"MaxPriceThreshold": 10000,
 			"MinPriceThreshold": 10000,
@@ -474,6 +496,34 @@
             "Variants": [
 				"mmg_armored_helmet_visor_green",
 				"mmg_armored_helmet_visor_tan"
+            ]
+        },
+		{
+			"ClassName": "MMG_ballistic_earcover_black",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": 10,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 0,
+			"QuantityPercent": 10,
+            "SpawnAttachments": [],
+            "Variants": [
+				"MMG_ballistic_earcover_green",
+				"MMG_ballistic_earcover_tan"
+            ]
+        },
+		{
+			"ClassName": "MMG_tactical_visor_black",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": 10,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 0,
+			"QuantityPercent": 10,
+            "SpawnAttachments": [],
+            "Variants": [
+				"MMG_tactical_visor_green",
+				"MMG_tactical_visor_tan"
             ]
         },
 		{

@@ -642,6 +642,39 @@
 			"QuantityPercent": 25,
             "SpawnAttachments": [],
             "Variants": []
+        },
+		{
+			"ClassName": "MMG_patch_rubber_mex",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": 10,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+			"ClassName": "MMG_patch_rubber_por",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": 10,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+			"ClassName": "MMG_patch_rubber_wales",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": 10,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }
