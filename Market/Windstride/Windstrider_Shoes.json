@@ -1,23 +1,23 @@
 {
-    "m_Version": 9,
-    "DisplayName": "Shoes",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
-    "Items": [        
+	"m_Version": 9,
+	"DisplayName": "Shoes",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
 		{
 			"ClassName": "High_Knee_Sneakers",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 500,
 			"SellPricePercent": -1,
-"m_SellPricePercent": -16512,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"High_Knee_Sneakers_Black"
 			]
-        }	
+		}
 	]
 }
