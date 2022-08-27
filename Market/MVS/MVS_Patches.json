@@ -1,11 +1,13 @@
 {
-  "m_Version": 4,
+  "m_Version": 9,
   "DisplayName": "MVS PATCHES",
   "Items": [
     {
       "ClassName": "mvs_countryflag_czech",
       "MaxPriceThreshold": 150,
       "MinPriceThreshold": 75,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,      
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
       "PurchaseType": 0,
@@ -221,6 +223,8 @@
       "ClassName": "mvs_patch_01",
       "MaxPriceThreshold": 150,
       "MinPriceThreshold": 75,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,      
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
       "PurchaseType": 0,
