@@ -1,318 +1,335 @@
 {
-    "m_Version": 9,
-    "DisplayName": "MVS Pouches and Belts",
-    "Icon": "Persona",
-    "Color": "FFFFFFFF",
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
-			"ClassName": "mvs_admin_pouch_od",
-			"MaxPriceThreshold": 2500,
-			"MinPriceThreshold": 2500,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "mvs_admin_pouch_tan",
-                "mvs_admin_pouch_black",
-                "mvs_admin_pouch_erdl",
-                "mvs_admin_pouch_multicam",
-                "mvs_admin_pouch_multicam_tropic",
-                "mvs_admin_pouch_multicam_black"
-            ]
-        },
-        {
-			"ClassName": "mvs_belt_black",
-			"MaxPriceThreshold": 12500,
-			"MinPriceThreshold": 12500,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 20,
-			"MinStockThreshold": 5,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mvs_medical_pouch_black",
-                "mvs_taco_pouch_black",
-                "mvs_sheath_black",
-                "mvs_holster_black"
-            ],
-            "Variants": []
-        },
-        {
-			"ClassName": "mvs_belt_erdl",
-			"MaxPriceThreshold": 12500,
-			"MinPriceThreshold": 12500,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 20,
-			"MinStockThreshold": 5,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mvs_medical_pouch_erdl",
-                "mvs_taco_pouch_erdl",
-                "mvs_sheath_erdl",
-                "mvs_holster_erdl"
-            ],
-            "Variants": []
-        },
-        {
-			"ClassName": "mvs_belt_multicam",
-			"MaxPriceThreshold": 12500,
-			"MinPriceThreshold": 12500,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 20,
-			"MinStockThreshold": 5,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mvs_canteen_multicam",
-                "mvs_medical_pouch_multicam",
-                "mvs_taco_pouch_multicam",
-                "mvs_sheath_multicam",
-                "mvs_holster_multicam"
-            ],
-            "Variants": []
-        },
-        {
-			"ClassName": "mvs_belt_multicam_black",
-			"MaxPriceThreshold": 12500,
-			"MinPriceThreshold": 12500,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 20,
-			"MinStockThreshold": 5,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mvs_medical_pouch_multicam_black",
-                "mvs_taco_pouch_multicam_black",
-                "mvs_sheath_multicam_black",
-                "mvs_holster_multicam_black"
-            ],
-            "Variants": []
-        },
-        {
-			"ClassName": "mvs_belt_multicam_tropic",
-			"MaxPriceThreshold": 12500,
-			"MinPriceThreshold": 12500,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 20,
-			"MinStockThreshold": 5,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mvs_medical_pouch_multicam_tropic",
-                "mvs_taco_pouch_multicam_tropic",
-                "mvs_sheath_multicam_tropic",
-                "mvs_holster_multicam_tropic"
-            ],
-            "Variants": []
-        },
-        {
-			"ClassName": "mvs_belt_od",
-			"MaxPriceThreshold": 12500,
-			"MinPriceThreshold": 12500,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 20,
-			"MinStockThreshold": 5,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mvs_medical_pouch_od",
-                "mvs_taco_pouch_od",
-                "mvs_sheath_od",
-                "mvs_holster_od"
-            ],
-            "Variants": [
-                "mvs_belt_tan",
-                "mvs_belt_black",
-                "mvs_belt_erdl",
-                "mvs_belt_multicam",
-                "mvs_belt_multicam_tropic",
-                "mvs_belt_multicam_black"
-            ]
-        },
-        {
-			"ClassName": "mvs_belt_tan",
-			"MaxPriceThreshold": 12500,
-			"MinPriceThreshold": 12500,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 20,
-			"MinStockThreshold": 5,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mvs_medical_pouch_tan",
-                "mvs_taco_pouch_tan",
-                "mvs_sheath_tan",
-                "mvs_holster_tan"
-            ],
-            "Variants": []
-        },
-        {
-			"ClassName": "mvs_canteen_od",
-			"MaxPriceThreshold": 4500,
-			"MinPriceThreshold": 3000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 25,
-			"MinStockThreshold": 10,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "mvs_canteen_tan",
-                "mvs_canteen_black",
-                "mvs_canteen_erdl",
-                "mvs_canteen_multicam",
-                "mvs_canteen_multicam_tropic",
-                "mvs_canteen_multicam_black"
-            ]
-        },
-        {
-			"ClassName": "mvs_heavy_pouch_od",
-			"MaxPriceThreshold": 4500,
-			"MinPriceThreshold": 4500,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "mvs_heavy_pouch_tan",
-                "mvs_heavy_pouch_black",
-                "mvs_heavy_pouch_erdl",
-                "mvs_heavy_pouch_multicam",
-                "mvs_heavy_pouch_multicam_tropic",
-                "mvs_heavy_pouch_multicam_black"
-            ]
-        },
-        {
-			"ClassName": "mvs_holster_od",
-			"MaxPriceThreshold": 2250,
-			"MinPriceThreshold": 2250,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "mvs_holster_tan",
-                "mvs_holster_black",
-                "mvs_holster_erdl",
-                "mvs_holster_multicam",
-                "mvs_holster_multicam_tropic",
-                "mvs_holster_multicam_black"
-            ]
-        },
-        {
-			"ClassName": "mvs_magazine_pouch_od",
-			"MaxPriceThreshold": 2500,
-			"MinPriceThreshold": 2500,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "mvs_magazine_pouch_tan",
-                "mvs_magazine_pouch_black",
-                "mvs_magazine_pouch_erdl",
-                "mvs_magazine_pouch_multicam",
-                "mvs_magazine_pouch_multicam_tropic",
-                "mvs_magazine_pouch_multicam_black"
-            ]
-        },
-        {
-			"ClassName": "mvs_medical_pouch_od",
-			"MaxPriceThreshold": 2500,
-			"MinPriceThreshold": 2500,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [
-                "bandagedressing",
-                "morphine",
-                "epinephrine"
-            ],
-            "Variants": [
-                "mvs_medical_pouch_tan",
-                "mvs_medical_pouch_black",
-                "mvs_medical_pouch_erdl",
-                "mvs_medical_pouch_multicam",
-                "mvs_medical_pouch_multicam_tropic",
-                "mvs_medical_pouch_multicam_black"
-            ]
-        },
-        {
-			"ClassName": "mvs_molle_panel_od",
-			"MaxPriceThreshold": 2250,
-			"MinPriceThreshold": 2250,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "mvs_molle_panel_black",
-                "mvs_molle_panel_tan",
-                "mvs_molle_panel_erdl",
-                "mvs_molle_panel_multicam",
-                "mvs_molle_panel_multicam_tropic",
-                "mvs_molle_panel_multicam_black"
-            ]
-        },
-        {
-			"ClassName": "mvs_sheath_od",
-			"MaxPriceThreshold": 2250,
-			"MinPriceThreshold": 2250,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [
-                "combatknife"
-            ],
-            "Variants": [
-                "mvs_sheath_tan",
-                "mvs_sheath_black",
-                "mvs_sheath_erdl",
-                "mvs_sheath_multicam",
-                "mvs_sheath_multicam_tropic",
-                "mvs_sheath_multicam_black"
-            ]
-        },
-        {
-			"ClassName": "mvs_taco_pouch_od",
-			"MaxPriceThreshold": 2500,
-			"MinPriceThreshold": 2500,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [
-                "screwdriver",
-                "pliers"
-            ],
-            "Variants": [
-                "mvs_taco_pouch_tan",
-                "mvs_taco_pouch_black",
-                "mvs_taco_pouch_erdl",
-                "mvs_taco_pouch_multicam",
-                "mvs_taco_pouch_multicam_tropic",
-                "mvs_taco_pouch_multicam_black"
-            ]
-        },
-        {
-			"ClassName": "mvs_utility_pouch_od",
-			"MaxPriceThreshold": 2500,
-			"MinPriceThreshold": 2500,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "mvs_utility_pouch_tan",
-                "mvs_utility_pouch_black",
-                "mvs_utility_pouch_erdl",
-                "mvs_utility_pouch_multicam",
-                "mvs_utility_pouch_multicam_tropic",
-                "mvs_utility_pouch_multicam_black"
-            ]
-        }
-    ]
+  "m_Version": 9,
+  "DisplayName": "MVS Pouches and Belts",
+  "Icon": "Persona",
+  "Color": "FFFFFFFF",
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "mvs_admin_pouch_od",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_admin_pouch_tan",
+        "mvs_admin_pouch_black",
+        "mvs_admin_pouch_erdl",
+        "mvs_admin_pouch_multicam",
+        "mvs_admin_pouch_multicam_tropic",
+        "mvs_admin_pouch_multicam_black"
+      ]
+    },
+    {
+      "ClassName": "mvs_belt_black",
+      "MaxPriceThreshold": 12500,
+      "MinPriceThreshold": 12500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 20,
+      "MinStockThreshold": 5,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mvs_medical_pouch_black",
+        "mvs_taco_pouch_black",
+        "mvs_sheath_black",
+        "mvs_holster_black"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_belt_erdl",
+      "MaxPriceThreshold": 12500,
+      "MinPriceThreshold": 12500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 20,
+      "MinStockThreshold": 5,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mvs_medical_pouch_erdl",
+        "mvs_taco_pouch_erdl",
+        "mvs_sheath_erdl",
+        "mvs_holster_erdl"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_belt_multicam",
+      "MaxPriceThreshold": 12500,
+      "MinPriceThreshold": 12500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 20,
+      "MinStockThreshold": 5,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mvs_canteen_multicam",
+        "mvs_medical_pouch_multicam",
+        "mvs_taco_pouch_multicam",
+        "mvs_sheath_multicam",
+        "mvs_holster_multicam"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_belt_multicam_black",
+      "MaxPriceThreshold": 12500,
+      "MinPriceThreshold": 12500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 20,
+      "MinStockThreshold": 5,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mvs_medical_pouch_multicam_black",
+        "mvs_taco_pouch_multicam_black",
+        "mvs_sheath_multicam_black",
+        "mvs_holster_multicam_black"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_belt_multicam_tropic",
+      "MaxPriceThreshold": 12500,
+      "MinPriceThreshold": 12500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 20,
+      "MinStockThreshold": 5,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mvs_medical_pouch_multicam_tropic",
+        "mvs_taco_pouch_multicam_tropic",
+        "mvs_sheath_multicam_tropic",
+        "mvs_holster_multicam_tropic"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_belt_od",
+      "MaxPriceThreshold": 12500,
+      "MinPriceThreshold": 12500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 20,
+      "MinStockThreshold": 5,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mvs_medical_pouch_od",
+        "mvs_taco_pouch_od",
+        "mvs_sheath_od",
+        "mvs_holster_od"
+      ],
+      "Variants": [
+        "mvs_belt_tan",
+        "mvs_belt_black",
+        "mvs_belt_erdl",
+        "mvs_belt_multicam",
+        "mvs_belt_multicam_tropic",
+        "mvs_belt_multicam_black"
+      ]
+    },
+    {
+      "ClassName": "mvs_belt_tan",
+      "MaxPriceThreshold": 12500,
+      "MinPriceThreshold": 12500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 20,
+      "MinStockThreshold": 5,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mvs_medical_pouch_tan",
+        "mvs_taco_pouch_tan",
+        "mvs_sheath_tan",
+        "mvs_holster_tan"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mvs_canteen_od",
+      "MaxPriceThreshold": 4500,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 10,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_canteen_tan",
+        "mvs_canteen_black",
+        "mvs_canteen_erdl",
+        "mvs_canteen_multicam",
+        "mvs_canteen_multicam_tropic",
+        "mvs_canteen_multicam_black"
+      ]
+    },
+    {
+      "ClassName": "mvs_heavy_pouch_od",
+      "MaxPriceThreshold": 4500,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_heavy_pouch_tan",
+        "mvs_heavy_pouch_black",
+        "mvs_heavy_pouch_erdl",
+        "mvs_heavy_pouch_multicam",
+        "mvs_heavy_pouch_multicam_tropic",
+        "mvs_heavy_pouch_multicam_black"
+      ]
+    },
+    {
+      "ClassName": "mvs_holster_od",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_holster_tan",
+        "mvs_holster_black",
+        "mvs_holster_erdl",
+        "mvs_holster_multicam",
+        "mvs_holster_multicam_tropic",
+        "mvs_holster_multicam_black"
+      ]
+    },
+    {
+      "ClassName": "mvs_magazine_pouch_od",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_magazine_pouch_tan",
+        "mvs_magazine_pouch_black",
+        "mvs_magazine_pouch_erdl",
+        "mvs_magazine_pouch_multicam",
+        "mvs_magazine_pouch_multicam_tropic",
+        "mvs_magazine_pouch_multicam_black"
+      ]
+    },
+    {
+      "ClassName": "mvs_medical_pouch_od",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "bandagedressing",
+        "morphine",
+        "epinephrine"
+      ],
+      "Variants": [
+        "mvs_medical_pouch_tan",
+        "mvs_medical_pouch_black",
+        "mvs_medical_pouch_erdl",
+        "mvs_medical_pouch_multicam",
+        "mvs_medical_pouch_multicam_tropic",
+        "mvs_medical_pouch_multicam_black"
+      ]
+    },
+    {
+      "ClassName": "mvs_molle_panel_od",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_molle_panel_black",
+        "mvs_molle_panel_tan",
+        "mvs_molle_panel_erdl",
+        "mvs_molle_panel_multicam",
+        "mvs_molle_panel_multicam_tropic",
+        "mvs_molle_panel_multicam_black"
+      ]
+    },
+    {
+      "ClassName": "mvs_sheath_od",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "combatknife"
+      ],
+      "Variants": [
+        "mvs_sheath_tan",
+        "mvs_sheath_black",
+        "mvs_sheath_erdl",
+        "mvs_sheath_multicam",
+        "mvs_sheath_multicam_tropic",
+        "mvs_sheath_multicam_black"
+      ]
+    },
+    {
+      "ClassName": "mvs_taco_pouch_od",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "screwdriver",
+        "pliers"
+      ],
+      "Variants": [
+        "mvs_taco_pouch_tan",
+        "mvs_taco_pouch_black",
+        "mvs_taco_pouch_erdl",
+        "mvs_taco_pouch_multicam",
+        "mvs_taco_pouch_multicam_tropic",
+        "mvs_taco_pouch_multicam_black"
+      ]
+    },
+    {
+      "ClassName": "mvs_utility_pouch_od",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_utility_pouch_tan",
+        "mvs_utility_pouch_black",
+        "mvs_utility_pouch_erdl",
+        "mvs_utility_pouch_multicam",
+        "mvs_utility_pouch_multicam_tropic",
+        "mvs_utility_pouch_multicam_black"
+      ]
+    }
+  ]
 }

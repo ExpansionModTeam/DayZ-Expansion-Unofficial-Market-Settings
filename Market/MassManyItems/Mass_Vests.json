@@ -1,153 +1,164 @@
 {
-    "m_Version": 9,
-    "DisplayName": "MASS VESTS",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
+	"m_Version": 9,
+	"DisplayName": "MASS VESTS",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{
 			"ClassName": "mass_pressvestblack",
 			"MaxPriceThreshold": 2500,
 			"MinPriceThreshold": 2250,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "mass_tradevest",
-                "mass_ww2vest"
-            ]
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": [
+				"mass_tradevest",
+				"mass_ww2vest"
+			]
+		},
+		{
 			"ClassName": "masslightratnik",
 			"MaxPriceThreshold": 20000,
 			"MinPriceThreshold": 19000,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "masslightratnik_black",
-                "masslightratnik_desert",
-                "masslightratnik_olive"
-            ]
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": [
+				"masslightratnik_black",
+				"masslightratnik_desert",
+				"masslightratnik_olive"
+			]
+		},
+		{
 			"ClassName": "massplatecarrier_black",
 			"MaxPriceThreshold": 3500,
 			"MinPriceThreshold": 2750,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "massplatecarrier_odg",
-                "massplatecarrier_partizanm",
-                "massplatecarrier_winter"
-            ]
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": [
+				"massplatecarrier_odg",
+				"massplatecarrier_partizanm",
+				"massplatecarrier_winter"
+			]
+		},
+		{
 			"ClassName": "massratnik",
 			"MaxPriceThreshold": 30000,
 			"MinPriceThreshold": 25000,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "massratnik_black",
-                "massratnik_tan"
-            ]
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": [
+				"massratnik_black",
+				"massratnik_tan"
+			]
+		},
+		{
 			"ClassName": "masssmershvestblackcomplete",
 			"MaxPriceThreshold": 2500,
 			"MinPriceThreshold": 1750,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "masssmershvestcomplete",
-                "masssmershvestwintercomplete",
-                "masssmershvestww2complete"
-            ]
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": [
+				"masssmershvestcomplete",
+				"masssmershvestwintercomplete",
+				"masssmershvestww2complete"
+			]
+		},
+		{
 			"ClassName": "masssmershvestcomplete",
 			"MaxPriceThreshold": 2500,
 			"MinPriceThreshold": 1750,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "masssmershvestwintercomplete",
 			"MaxPriceThreshold": 2500,
 			"MinPriceThreshold": 1750,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "masssmershvestww2complete",
 			"MaxPriceThreshold": 3500,
 			"MinPriceThreshold": 2750,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "massukassvestwinter",
 			"MaxPriceThreshold": 2500,
 			"MinPriceThreshold": 1750,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "masswoodlandcamovest",
 			"MaxPriceThreshold": 2500,
 			"MinPriceThreshold": 1750,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "massheavyplatevest_beige",
 			"MaxPriceThreshold": 10000,
 			"MinPriceThreshold": 10000,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "massheavyplatevest_black",
-                "massheavyplatevest_odg",
-                "massheavyplatevest_partizanm",
-                "massheavyplatevest_winter"
-            ]
-        }
-    ]
+			"SpawnAttachments": [],
+			"Variants": [
+				"massheavyplatevest_black",
+				"massheavyplatevest_odg",
+				"massheavyplatevest_partizanm",
+				"massheavyplatevest_winter"
+			]
+		}
+	]
 }

@@ -1,11 +1,11 @@
 {
-    "m_Version": 9,
-    "DisplayName": "MIGHTY'S MILITARY GEAR",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75,
-    "Items": [
-    	{
+	"m_Version": 9,
+	"DisplayName": "MIGHTY'S MILITARY GEAR",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75,
+	"Items": [
+		{
 			"ClassName": "MMG_JPC_Vest_Black",
 			"MaxPriceThreshold": 15000,
 			"MinPriceThreshold": 15000,
@@ -13,8 +13,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_JPC_Vest_alpine",
 				"MMG_JPC_Vest_dark_woodland",
 				"MMG_JPC_Vest_erdl",
@@ -25,8 +25,8 @@
 				"MMG_JPC_Vest_tan",
 				"MMG_JPC_Vest_ucp",
 				"MMG_JPC_Vest_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_tt_vest_black",
 			"MaxPriceThreshold": 10000,
@@ -35,8 +35,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_tt_Vest_alpine",
 				"MMG_tt_Vest_dark_woodland",
 				"MMG_tt_Vest_erdl",
@@ -49,7 +49,7 @@
 				"MMG_tt_Vest_ucp",
 				"MMG_tt_Vest_atacs"
 			]
-        },
+		},
 		{
 			"ClassName": "MMG_chestrig_black",
 			"MaxPriceThreshold": 10000,
@@ -58,8 +58,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_chestrig_alpine",
 				"MMG_chestrig_dark_woodland",
 				"MMG_chestrig_erdl",
@@ -70,8 +70,8 @@
 				"MMG_chestrig_tan",
 				"MMG_chestrig_ucp",
 				"MMG_chestrig_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_MK_III_Armor_black",
 			"MaxPriceThreshold": 55000,
@@ -80,8 +80,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 0,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_MK_III_Armor_alpine",
 				"MMG_MK_III_Armor_dark_woodland",
 				"MMG_MK_III_Armor_erdl",
@@ -92,8 +92,8 @@
 				"MMG_MK_III_Armor_tan",
 				"MMG_MK_III_Armor_ucp",
 				"MMG_MK_III_Armor_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_MK_V_Armor_black",
 			"MaxPriceThreshold": 75000,
@@ -102,8 +102,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 0,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_MK_V_Armor_alpine",
 				"MMG_MK_V_Armor_dark_woodland",
 				"MMG_MK_V_Armor_erdl",
@@ -114,8 +114,8 @@
 				"MMG_MK_V_Armor_tan",
 				"MMG_MK_V_Armor_ucp",
 				"MMG_MK_V_Armor_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_Mag_Pouch_Black",
 			"MaxPriceThreshold": 500,
@@ -124,8 +124,8 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_Mag_Pouch_alpine",
 				"MMG_Mag_Pouch_dark_woodland",
 				"MMG_Mag_Pouch_erdl",
@@ -133,11 +133,11 @@
 				"MMG_Mag_Pouch_multicam",
 				"MMG_Mag_Pouch_multicam_tropic",
 				"MMG_Mag_Pouch_multicamblack",
-				"MMG_Mag_Pouch_tan",				
+				"MMG_Mag_Pouch_tan",
 				"MMG_Mag_Pouch_ucp",
 				"MMG_Mag_Pouch_atacs"
-            	]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_triple_magpouch_black",
 			"MaxPriceThreshold": 500,
@@ -146,9 +146,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-            	"MMG_triple_magpouch_alpine",
+			"SpawnAttachments": [],
+			"Variants": [
+				"MMG_triple_magpouch_alpine",
 				"MMG_triple_magpouch_dark_woodland",
 				"MMG_triple_magpouch_erdl",
 				"MMG_triple_magpouch_green",
@@ -159,7 +159,7 @@
 				"MMG_triple_magpouch_ucp",
 				"MMG_triple_magpouch_atacs"
 			]
-        },
+		},
 		{
 			"ClassName": "MMG_double_magpouch_black",
 			"MaxPriceThreshold": 500,
@@ -168,8 +168,8 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_double_magpouch_alpine",
 				"MMG_double_magpouch_dark_woodland",
 				"MMG_double_magpouch_erdl",
@@ -180,8 +180,8 @@
 				"MMG_double_magpouch_tan",
 				"MMG_double_magpouch_ucp",
 				"MMG_double_magpouch_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_Med_Pouch_black",
 			"MaxPriceThreshold": 500,
@@ -190,8 +190,8 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_Med_Pouch_alpine",
 				"MMG_Med_Pouch_dark_woodland",
 				"MMG_Med_Pouch_erdl",
@@ -202,8 +202,8 @@
 				"MMG_Med_Pouch_tan",
 				"MMG_Med_Pouch_ucp",
 				"MMG_Med_Pouch_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_ammo_pouch_black",
 			"MaxPriceThreshold": 500,
@@ -212,8 +212,8 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_ammo_pouch_alpine",
 				"MMG_ammo_pouch_dark_woodland",
 				"MMG_ammo_pouch_erdl",
@@ -224,8 +224,8 @@
 				"MMG_ammo_pouch_tan",
 				"MMG_ammo_pouch_ucp",
 				"MMG_ammo_pouch_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_tactical_pouch_black",
 			"MaxPriceThreshold": 500,
@@ -234,8 +234,8 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_tactical_pouch_alpine",
 				"MMG_tactical_pouch_dark_woodland",
 				"MMG_tactical_pouch_erdl",
@@ -246,8 +246,8 @@
 				"MMG_tactical_pouch_tan",
 				"MMG_tactical_pouch_ucp",
 				"MMG_tactical_pouch_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_mk5_utility_pouch_black",
 			"MaxPriceThreshold": 500,
@@ -256,8 +256,8 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_mk5_utility_pouch_alpine",
 				"MMG_mk5_utility_pouch_dark_woodland",
 				"MMG_mk5_utility_pouch_erdl",
@@ -265,11 +265,11 @@
 				"MMG_mk5_utility_pouch_multicam",
 				"MMG_mk5_utility_pouch_multicam_tropic",
 				"MMG_mk5_utility_pouch_multicamblack",
-				"MMG_mk5_utility_pouch_tan",		
+				"MMG_mk5_utility_pouch_tan",
 				"MMG_mk5_utility_pouch_ucp",
 				"MMG_mk5_utility_pouch_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_mk5_grenade_pouch_black",
 			"MaxPriceThreshold": 500,
@@ -278,8 +278,8 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_mk5_grenade_pouch_alpine",
 				"MMG_mk5_grenade_pouch_dark_woodland",
 				"MMG_mk5_grenade_pouch_erdl",
@@ -290,8 +290,8 @@
 				"MMG_mk5_grenade_pouch_tan",
 				"MMG_mk5_grenade_pouch_ucp",
 				"MMG_mk5_grenade_pouch_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_carrier_backpack_black",
 			"MaxPriceThreshold": 5000,
@@ -300,8 +300,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_carrier_backpack_alpine",
 				"MMG_carrier_backpack_dark_woodland",
 				"MMG_carrier_backpack_erdl",
@@ -313,7 +313,7 @@
 				"MMG_carrier_backpack_ucp",
 				"MMG_carrier_backpack_atacs"
 			]
-        },
+		},
 		{
 			"ClassName": "MMG_supplybag_black",
 			"MaxPriceThreshold": 10000,
@@ -322,8 +322,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_supplybag_alpine",
 				"MMG_supplybag_dark_woodland",
 				"MMG_supplybag_erdl",
@@ -335,7 +335,7 @@
 				"MMG_supplybag_ucp",
 				"MMG_supplybag_atacs"
 			]
-        },
+		},
 		{
 			"ClassName": "MMG_mmps_bag_black",
 			"MaxPriceThreshold": 10000,
@@ -344,8 +344,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_mmps_bag_green",
 				"MMG_mmps_bag_tan",
 				"MMG_mmps_bag_ucp",
@@ -357,7 +357,7 @@
 				"MMG_mmps_bag_alpine",
 				"MMG_mmps_bag_dark_woodland"
 			]
-        },
+		},
 		{
 			"ClassName": "MMG_assault_pack_black",
 			"MaxPriceThreshold": 10000,
@@ -366,8 +366,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_assault_pack_alpine",
 				"MMG_assault_pack_dark_woodland",
 				"MMG_assault_pack_erdl",
@@ -378,8 +378,8 @@
 				"MMG_assault_pack_tan",
 				"MMG_assault_pack_ucp",
 				"MMG_assault_pack_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_camelback_black",
 			"MaxPriceThreshold": 10000,
@@ -388,8 +388,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_camelback_alpine",
 				"MMG_camelback_dark_woodland",
 				"MMG_camelback_erdl",
@@ -400,8 +400,8 @@
 				"MMG_camelback_tan",
 				"MMG_camelback_ucp",
 				"MMG_camelback_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_falcon_b1_belt_black",
 			"MaxPriceThreshold": 2000,
@@ -410,8 +410,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_falcon_b1_belt_alpine",
 				"MMG_falcon_b1_belt_dark_woodland",
 				"MMG_falcon_b1_belt_erdl",
@@ -423,7 +423,7 @@
 				"MMG_falcon_b1_belt_ucp",
 				"MMG_falcon_b1_belt_atacs"
 			]
-        },
+		},
 		{
 			"ClassName": "MMG_tactical_helmet_black",
 			"MaxPriceThreshold": 5000,
@@ -432,8 +432,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 10,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_tactical_helmet_alpine",
 				"MMG_tactical_helmet_dark_woodland",
 				"MMG_tactical_helmet_erdl",
@@ -445,8 +445,8 @@
 				"MMG_tactical_helmet_tan",
 				"MMG_tactical_helmet_ucp",
 				"MMG_tactical_helmet_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_striker_helmet_black",
 			"MaxPriceThreshold": 7500,
@@ -455,8 +455,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 10,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_striker_helmet_alpine",
 				"MMG_striker_helmet_dark_woodland",
 				"MMG_striker_helmet_erdl",
@@ -466,10 +466,10 @@
 				"MMG_striker_helmet_multicamblack",
 				"MMG_striker_helmet_tan",
 				"MMG_striker_helmet_ucp",
-            	"MMG_striker_helmet_rusty",
+				"MMG_striker_helmet_rusty",
 				"MMG_striker_helmet_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "mmg_armored_helmet_black",
 			"MaxPriceThreshold": 10000,
@@ -478,12 +478,12 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 10,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"mmg_armored_helmet_green",
 				"mmg_armored_helmet_tan"
 			]
-        },
+		},
 		{
 			"ClassName": "mmg_armored_helmet_visor_black",
 			"MaxPriceThreshold": 5000,
@@ -492,12 +492,12 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 10,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"mmg_armored_helmet_visor_green",
 				"mmg_armored_helmet_visor_tan"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_ballistic_earcover_black",
 			"MaxPriceThreshold": 5000,
@@ -506,12 +506,12 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 10,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_ballistic_earcover_green",
 				"MMG_ballistic_earcover_tan"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_tactical_visor_black",
 			"MaxPriceThreshold": 5000,
@@ -520,12 +520,12 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 10,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_tactical_visor_green",
 				"MMG_tactical_visor_tan"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_headphones_black",
 			"MaxPriceThreshold": 500,
@@ -534,13 +534,13 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_headphones_green",
 				"MMG_headphones_tan",
 				"MMG_headphones_ucp"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_sheath_black",
 			"MaxPriceThreshold": 500,
@@ -549,8 +549,8 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_sheath_alpine",
 				"MMG_sheath_dark_woodland",
 				"MMG_sheath_erdl",
@@ -561,8 +561,8 @@
 				"MMG_sheath_tan",
 				"MMG_sheath_ucp",
 				"MMG_sheath_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_bottle_black",
 			"MaxPriceThreshold": 15000,
@@ -571,8 +571,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 10,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_bottle_alpine",
 				"MMG_bottle_dark_woodland",
 				"MMG_bottle_erdl",
@@ -584,7 +584,7 @@
 				"MMG_bottle_ucp",
 				"MMG_bottle_atacs"
 			]
-        },
+		},
 		{
 			"ClassName": "MMG_Holster_black",
 			"MaxPriceThreshold": 500,
@@ -593,8 +593,8 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_Holster_alpine",
 				"MMG_Holster_dark_woodland",
 				"MMG_Holster_erdl",
@@ -605,8 +605,8 @@
 				"MMG_Holster_tan",
 				"MMG_Holster_ucp",
 				"MMG_Holster_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_holster_pouch_black",
 			"MaxPriceThreshold": 500,
@@ -615,12 +615,12 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_holster_pouch_green",
 				"MMG_holster_pouch_tank"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "mmg_tac_goggles_red_black",
 			"MaxPriceThreshold": 750,
@@ -629,13 +629,12 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"mmg_tac_goggles_red_green",
 				"mmg_tac_goggles_red_tan"
-				
-            	]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_operatorshirt_black",
 			"MaxPriceThreshold": 5000,
@@ -644,8 +643,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_operatorshirt_alpine",
 				"MMG_operatorshirt_dark_woodland",
 				"MMG_operatorshirt_erdl",
@@ -656,8 +655,8 @@
 				"MMG_operatorshirt_tan",
 				"MMG_operatorshirt_ucp",
 				"MMG_operatorshirt_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_tactical_shirt_black",
 			"MaxPriceThreshold": 5000,
@@ -666,8 +665,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_tactical_shirt_alpine",
 				"MMG_tactical_shirt_dark_wl",
 				"MMG_tactical_shirt_erdl",
@@ -678,8 +677,8 @@
 				"MMG_tactical_shirt_tan",
 				"MMG_tactical_shirt_ucp",
 				"MMG_tactical_shirt_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_combatshirt_black",
 			"MaxPriceThreshold": 5000,
@@ -688,8 +687,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_combatshirt_alpine",
 				"MMG_combatshirt_dark_woodland",
 				"MMG_combatshirt_erdl",
@@ -702,7 +701,7 @@
 				"MMG_combatshirt_ucp",
 				"MMG_combatshirt_atacs"
 			]
-        },
+		},
 		{
 			"ClassName": "MMG_combatpants_black",
 			"MaxPriceThreshold": 5000,
@@ -711,8 +710,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_combatpants_alpine",
 				"MMG_combatpants_dark_woodland",
 				"MMG_combatpants_erdl",
@@ -724,8 +723,8 @@
 				"MMG_combatpants_tan",
 				"MMG_combatpants_ucp",
 				"MMG_combatpants_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "mmg_tactical_pants_black",
 			"MaxPriceThreshold": 5000,
@@ -734,8 +733,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"mmg_tactical_pants_green",
 				"mmg_tactical_pants_tan",
 				"mmg_tactical_pants_ucp",
@@ -746,8 +745,8 @@
 				"mmg_tactical_pants_multicam_tropic",
 				"mmg_tactical_pants_alpine",
 				"mmg_tactical_pants_dark_woodland"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "mmg_tactical_gloves_black",
 			"MaxPriceThreshold": 2000,
@@ -756,8 +755,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"mmg_tactical_gloves_alpine",
 				"mmg_tactical_gloves_dark_woodland",
 				"mmg_tactical_gloves_erdl",
@@ -768,8 +767,8 @@
 				"mmg_tactical_gloves_tan",
 				"mmg_tactical_gloves_ucp",
 				"mmg_tactical_gloves_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_boots_black",
 			"MaxPriceThreshold": 3000,
@@ -778,8 +777,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_boots_alpine",
 				"MMG_boots_dark_woodland",
 				"MMG_boots_erdl",
@@ -790,8 +789,8 @@
 				"MMG_boots_tan",
 				"MMG_boots_ucp",
 				"MMG_boots_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_facemask_black",
 			"MaxPriceThreshold": 3000,
@@ -800,22 +799,22 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_facemask_alpine",
 				"MMG_facemask_dark_woodland",
 				"MMG_facemask_erdl",
 				"MMG_facemask_green",
 				"MMG_facemask_multicam",
 				"MMG_facemask_multicam_tropic",
-				"MMG_facemask_multicamblack",			
+				"MMG_facemask_multicamblack",
 				"MMG_facemask_tan",
 				"MMG_facemask_ucp",
 				"MMG_facemask_atacs",
 				"MMG_facemask_skull",
 				"MMG_facemask_joker"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_balaclava_black",
 			"MaxPriceThreshold": 3000,
@@ -824,8 +823,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_balaclava_alpine",
 				"MMG_balaclava_dark_woodland",
 				"MMG_balaclava_erdl",
@@ -836,8 +835,8 @@
 				"MMG_balaclava_tan",
 				"MMG_balaclava_ucp",
 				"MMG_balaclava_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "mmg_boonie_black",
 			"MaxPriceThreshold": 3000,
@@ -846,8 +845,8 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"mmg_boonie_alpine",
 				"mmg_boonie_dark_woodland",
 				"mmg_boonie_erdl",
@@ -858,8 +857,8 @@
 				"mmg_boonie_tan",
 				"mmg_boonie_ucp",
 				"mmg_boonie_atacs"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_carbine_black",
 			"MaxPriceThreshold": 500,
@@ -868,15 +867,15 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_carbine_red",
 				"MMG_carbine_green",
 				"MMG_carbine_orange",
 				"MMG_carbine_blue",
 				"MMG_carbine_grey"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_nbc_pouch",
 			"MaxPriceThreshold": 500,
@@ -885,9 +884,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "mmg_gp_nvg_black",
 			"MaxPriceThreshold": 25000,
@@ -896,12 +895,12 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"mmg_gp_nvg_tan",
 				"mmg_gp_nvg_green",
 				"mmg_gp_nvg_grey"
-            ]
-        }
-    ]
+			]
+		}
+	]
 }

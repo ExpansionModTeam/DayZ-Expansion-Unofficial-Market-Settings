@@ -10,10 +10,10 @@
       "MaxPriceThreshold": 750000,
       "MinPriceThreshold": 750000,
       "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
-      "SpawnAttachments": [
-      ],
+      "SpawnAttachments": [],
       "Variants": [
         "barsik_barrett_m82a1_gold",
         "barsik_barrett_m82a1_red",
@@ -30,10 +30,10 @@
       "MaxPriceThreshold": 500000,
       "MinPriceThreshold": 500000,
       "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
-      "SpawnAttachments": [
-      ],
+      "SpawnAttachments": [],
       "Variants": [
         "barsik_vssk_red",
         "barsik_vssk_blue",
@@ -49,10 +49,10 @@
       "MaxPriceThreshold": 350000,
       "MinPriceThreshold": 250000,
       "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
-      "SpawnAttachments": [
-      ],
+      "SpawnAttachments": [],
       "Variants": [
         "barsik_pkp_gold",
         "barsik_pkp_rusty"

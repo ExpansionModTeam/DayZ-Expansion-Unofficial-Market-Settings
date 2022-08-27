@@ -1,19 +1,20 @@
 {
-    "m_Version": 9,
-    "DisplayName": "Blackout's Corvette",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
-            "ClassName": "vg7_corvette",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 14000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+	"m_Version": 9,
+	"DisplayName": "Blackout's Corvette",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{
+			"ClassName": "vg7_corvette",
+			"MaxPriceThreshold": 35000,
+			"MinPriceThreshold": 14000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"vg7_wheel",
 				"vg7_wheel",
 				"vg7_wheel",
@@ -33,8 +34,8 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": [
+			],
+			"Variants": [
 				"vg7_corvette_blue",
 				"vg7_corvette_Gold",
 				"vg7_corvette_Green",
@@ -42,16 +43,17 @@
 				"vg7_corvette_Purple",
 				"vg7_corvette_Red"
 			]
-        },
-        {
-            "ClassName": "vg7_corvette_blue",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 14000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+		},
+		{
+			"ClassName": "vg7_corvette_blue",
+			"MaxPriceThreshold": 35000,
+			"MinPriceThreshold": 14000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"vg7_wheel",
 				"vg7_wheel",
 				"vg7_wheel",
@@ -71,18 +73,19 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "vg7_corvette_Gold",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 14000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+			],
+			"Variants": []
+		},
+		{
+			"ClassName": "vg7_corvette_Gold",
+			"MaxPriceThreshold": 35000,
+			"MinPriceThreshold": 14000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"vg7_wheel",
 				"vg7_wheel",
 				"vg7_wheel",
@@ -102,18 +105,19 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "vg7_corvette_Green",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 14000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+			"ClassName": "vg7_corvette_Green",
+			"MaxPriceThreshold": 35000,
+			"MinPriceThreshold": 14000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"vg7_wheel",
 				"vg7_wheel",
 				"vg7_wheel",
@@ -133,18 +137,19 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "vg7_corvette_Maroon",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 14000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+			"ClassName": "vg7_corvette_Maroon",
+			"MaxPriceThreshold": 35000,
+			"MinPriceThreshold": 14000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"vg7_wheel",
 				"vg7_wheel",
 				"vg7_wheel",
@@ -164,18 +169,19 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "vg7_corvette_Purple",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 14000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+			"ClassName": "vg7_corvette_Purple",
+			"MaxPriceThreshold": 35000,
+			"MinPriceThreshold": 14000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"vg7_wheel",
 				"vg7_wheel",
 				"vg7_wheel",
@@ -195,18 +201,19 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "vg7_corvette_Red",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 14000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+			"ClassName": "vg7_corvette_Red",
+			"MaxPriceThreshold": 35000,
+			"MinPriceThreshold": 14000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"vg7_wheel",
 				"vg7_wheel",
 				"vg7_wheel",
@@ -226,8 +233,8 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        }
-    ]
+			],
+			"Variants": []
+		}
+	]
 }

@@ -1,655 +1,710 @@
 {
-    "m_Version": 9,
-    "DisplayName": "DOCS WEAPONS",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 50.0,
-    "Items": [
-        {
-            "ClassName": "AK5C",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Doc_AK12",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Doc_AK47",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "AK103",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Doc_AKM",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Doc_AKMN"
-			]
-        },
-        {
-            "ClassName": "Doc_AKS74U",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Doc_AKS74UN"
-			]
-        },
-        {
-            "ClassName": "Doc_EF88",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_M92",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_OldSVD",
-            "MaxPriceThreshold": 4500,
-            "MinPriceThreshold": 4500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_SVT40",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_AVT40",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "UNC_RPD",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 1000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_SKS45",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 20,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_USAS",
-            "MaxPriceThreshold": 900,
-            "MinPriceThreshold": 900,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_AR10",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_mp9",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 1000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_M240B",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_M60",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_Makarov",
-            "MaxPriceThreshold": 900,
-            "MinPriceThreshold": 900,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Doc_MakarovPM380"
-			]
-        },
-		{
-            "ClassName": "Doc_M9A1",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_TT33",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Doc_TT33_45acp"
-			]
-        },
-		{
-            "ClassName": "Doc_MK23",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_SV98",
-            "MaxPriceThreshold": 6500,
-            "MinPriceThreshold": 6500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_PPSH41",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Doc_PPSH41_45"
-			]
-        },
-		{
-            "ClassName": "Doc_m1a1",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_m1928",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_G3SG1",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_G3A3",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_PKM",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_M14",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Doc_M14_marksman"
-			]
-        },
-		{
-            "ClassName": "Doc_M1A",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Doc_M1A_Green",
-				"Doc_M1A_Tan"
-			]
-        },
-		{
-            "ClassName": "Doc_HK416",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_M3A1",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_Kp31",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "PTRD41",
-            "MaxPriceThreshold": 5500,
-            "MinPriceThreshold": 5500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_M40A1",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_M1903",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_BAR",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Doc_BAR_308"
-			]
-        },
-		{
-            "ClassName": "Doc_G43",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Doc_G43_308"
-			]
-        },
-		{
-            "ClassName": "Doc_Kar98k",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_MG42",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_MG3",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_ASVAL",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_DP28",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_L85A2",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_CA50",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_AK74",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Doc_AK74N",
-				"Doc_AK74M"
-			]
-        },
-		{
-            "ClassName": "Doc_AK105",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_Groza1",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Doc_Groza4"
-			]
-        },
-		{
-            "ClassName": "Doc_LeeEnfieldMk4_54",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Doc_LeeEnfieldMk4_54_2",
-				"Doc_LeeEnfieldMk4_54_3",
-				"Doc_LeeEnfieldMk4_54_4",
-				"Doc_LeeEnfieldMk4_54_5",
-				"Doc_LeeEnfieldMk4_54_black",
-				"Doc_LeeEnfieldMk4_54_olive",
-				"Doc_LeeEnfieldMk4_54_camo"
-			]
-        },
-		{
-            "ClassName": "Doc_LeeEnfieldJungle_54",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Doc_LeeEnfieldJungle_54_1",
-				"Doc_LeeEnfieldJungle_54_2",
-				"Doc_LeeEnfieldJungle_54_3",
-				"Doc_LeeEnfieldJungle_54_4",
-				"Doc_LeeEnfieldJungle_54_5",
-				"Doc_LeeEnfieldJungle_54_black",
-				"Doc_LeeEnfieldJungle_54_olive",
-				"Doc_LeeEnfieldJungle_54_camo"
-			]
-        },
-		{
-            "ClassName": "Doc_VSS",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_AR15",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_MP1522",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Doc_ADAR215",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        }
-    ]
+  "m_Version": 9,
+  "DisplayName": "DOCS WEAPONS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 50.0,
+  "Items": [
+    {
+      "ClassName": "AK5C",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_AK12",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_AK47",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "AK103",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_AKM",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Doc_AKMN"
+      ]
+    },
+    {
+      "ClassName": "Doc_AKS74U",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Doc_AKS74UN"
+      ]
+    },
+    {
+      "ClassName": "Doc_EF88",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_M92",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_OldSVD",
+      "MaxPriceThreshold": 4500,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_SVT40",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_AVT40",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "UNC_RPD",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_SKS45",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 20,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_USAS",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 900,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_AR10",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_mp9",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_M240B",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_M60",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_Makarov",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 900,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Doc_MakarovPM380"
+      ]
+    },
+    {
+      "ClassName": "Doc_M9A1",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_TT33",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Doc_TT33_45acp"
+      ]
+    },
+    {
+      "ClassName": "Doc_MK23",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_SV98",
+      "MaxPriceThreshold": 6500,
+      "MinPriceThreshold": 6500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_PPSH41",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Doc_PPSH41_45"
+      ]
+    },
+    {
+      "ClassName": "Doc_m1a1",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_m1928",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_G3SG1",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_G3A3",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_PKM",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_M14",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Doc_M14_marksman"
+      ]
+    },
+    {
+      "ClassName": "Doc_M1A",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Doc_M1A_Green",
+        "Doc_M1A_Tan"
+      ]
+    },
+    {
+      "ClassName": "Doc_HK416",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_M3A1",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_Kp31",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PTRD41",
+      "MaxPriceThreshold": 5500,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_M40A1",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_M1903",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_BAR",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Doc_BAR_308"
+      ]
+    },
+    {
+      "ClassName": "Doc_G43",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Doc_G43_308"
+      ]
+    },
+    {
+      "ClassName": "Doc_Kar98k",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_MG42",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_MG3",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_ASVAL",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_DP28",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_L85A2",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_CA50",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_AK74",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Doc_AK74N",
+        "Doc_AK74M"
+      ]
+    },
+    {
+      "ClassName": "Doc_AK105",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_Groza1",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Doc_Groza4"
+      ]
+    },
+    {
+      "ClassName": "Doc_LeeEnfieldMk4_54",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Doc_LeeEnfieldMk4_54_2",
+        "Doc_LeeEnfieldMk4_54_3",
+        "Doc_LeeEnfieldMk4_54_4",
+        "Doc_LeeEnfieldMk4_54_5",
+        "Doc_LeeEnfieldMk4_54_black",
+        "Doc_LeeEnfieldMk4_54_olive",
+        "Doc_LeeEnfieldMk4_54_camo"
+      ]
+    },
+    {
+      "ClassName": "Doc_LeeEnfieldJungle_54",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Doc_LeeEnfieldJungle_54_1",
+        "Doc_LeeEnfieldJungle_54_2",
+        "Doc_LeeEnfieldJungle_54_3",
+        "Doc_LeeEnfieldJungle_54_4",
+        "Doc_LeeEnfieldJungle_54_5",
+        "Doc_LeeEnfieldJungle_54_black",
+        "Doc_LeeEnfieldJungle_54_olive",
+        "Doc_LeeEnfieldJungle_54_camo"
+      ]
+    },
+    {
+      "ClassName": "Doc_VSS",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_AR15",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_MP1522",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Doc_ADAR215",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
 }

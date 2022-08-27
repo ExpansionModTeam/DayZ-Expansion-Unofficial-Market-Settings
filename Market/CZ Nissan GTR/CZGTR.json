@@ -1,19 +1,20 @@
 {
-    "m_Version": 9,
-    "DisplayName": "CZ Nissan GTR",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
-            "ClassName": "NissanGTR2015",
-            "MaxPriceThreshold": 55000,
-            "MinPriceThreshold": 75000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+	"m_Version": 9,
+	"DisplayName": "CZ Nissan GTR",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{
+			"ClassName": "NissanGTR2015",
+			"MaxPriceThreshold": 55000,
+			"MinPriceThreshold": 75000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"SparkPlug",
 				"CarBattery",
 				"CarRadiator",
@@ -26,24 +27,25 @@
 				"NissanGTR2015_Wheel_1",
 				"NissanGTR2015_Wheel_1",
 				"NissanGTR2015_Wheel_1"
-            ],
-            "Variants": [
+			],
+			"Variants": [
 				"NissanGTR2015_Green",
 				"NissanGTR2015_Red",
 				"NissanGTR2015_Black",
 				"NissanGTR2015_White",
 				"NissanGTR2015_Blue"
 			]
-        },
+		},
 		{
-            "ClassName": "NissanGTR2015_Green",
-            "MaxPriceThreshold": 55000,
-            "MinPriceThreshold": 75000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+			"ClassName": "NissanGTR2015_Green",
+			"MaxPriceThreshold": 55000,
+			"MinPriceThreshold": 75000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"SparkPlug",
 				"CarBattery",
 				"CarRadiator",
@@ -56,18 +58,19 @@
 				"NissanGTR2015_Wheel_1",
 				"NissanGTR2015_Wheel_1",
 				"NissanGTR2015_Wheel_1"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "NissanGTR2015_Red",
-            "MaxPriceThreshold": 55000,
-            "MinPriceThreshold": 75000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+			"ClassName": "NissanGTR2015_Red",
+			"MaxPriceThreshold": 55000,
+			"MinPriceThreshold": 75000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"SparkPlug",
 				"CarBattery",
 				"CarRadiator",
@@ -80,18 +83,19 @@
 				"NissanGTR2015_Wheel_1",
 				"NissanGTR2015_Wheel_1",
 				"NissanGTR2015_Wheel_1"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "NissanGTR2015_Black",
-            "MaxPriceThreshold": 55000,
-            "MinPriceThreshold": 75000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+			"ClassName": "NissanGTR2015_Black",
+			"MaxPriceThreshold": 55000,
+			"MinPriceThreshold": 75000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"SparkPlug",
 				"CarBattery",
 				"CarRadiator",
@@ -104,18 +108,19 @@
 				"NissanGTR2015_Wheel_1",
 				"NissanGTR2015_Wheel_1",
 				"NissanGTR2015_Wheel_1"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "NissanGTR2015_White",
-            "MaxPriceThreshold": 55000,
-            "MinPriceThreshold": 75000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+			"ClassName": "NissanGTR2015_White",
+			"MaxPriceThreshold": 55000,
+			"MinPriceThreshold": 75000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"SparkPlug",
 				"CarBattery",
 				"CarRadiator",
@@ -128,18 +133,19 @@
 				"NissanGTR2015_Wheel_1",
 				"NissanGTR2015_Wheel_1",
 				"NissanGTR2015_Wheel_1"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "NissanGTR2015_Blue",
-            "MaxPriceThreshold": 55000,
-            "MinPriceThreshold": 75000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+			"ClassName": "NissanGTR2015_Blue",
+			"MaxPriceThreshold": 55000,
+			"MinPriceThreshold": 75000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"SparkPlug",
 				"CarBattery",
 				"CarRadiator",
@@ -152,8 +158,8 @@
 				"NissanGTR2015_Wheel_1",
 				"NissanGTR2015_Wheel_1",
 				"NissanGTR2015_Wheel_1"
-            ],
-            "Variants": []
-        }
-    ]
+			],
+			"Variants": []
+		}
+	]
 }

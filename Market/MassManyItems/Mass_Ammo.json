@@ -1,86 +1,93 @@
 {
-    "m_Version": 9,
-    "DisplayName": "MASS AMMO",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
+	"m_Version": 9,
+	"DisplayName": "MASS AMMO",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{
 			"ClassName": "ammo_338",
 			"MaxPriceThreshold": 20,
 			"MinPriceThreshold": 10,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 500,
 			"MinStockThreshold": 500,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "ammo_408chey",
 			"MaxPriceThreshold": 25,
 			"MinPriceThreshold": 12,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 500,
 			"MinStockThreshold": 500,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "ammobox_338",
 			"MaxPriceThreshold": 400,
 			"MinPriceThreshold": 200,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 500,
 			"MinStockThreshold": 500,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "ammobox_408chey",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 250,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 500,
 			"MinStockThreshold": 500,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "massammobox_556x45_10rnd",
 			"MaxPriceThreshold": 32,
 			"MinPriceThreshold": 16,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 500,
 			"MinStockThreshold": 500,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "ammo_12gabb",
 			"MaxPriceThreshold": 10,
 			"MinPriceThreshold": 5,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 500,
 			"MinStockThreshold": 500,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "ammobox_12gabb",
 			"MaxPriceThreshold": 80,
 			"MinPriceThreshold": 40,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 500,
 			"MinStockThreshold": 500,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        }
-    ]
+			"SpawnAttachments": [],
+			"Variants": []
+		}
+	]
 }

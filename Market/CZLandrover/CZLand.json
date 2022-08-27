@@ -1,19 +1,20 @@
 {
-    "m_Version": 9,
-    "DisplayName": "CZLandrovers",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
-            "ClassName": "CZ_landroverA_GlossyGreen",
-            "MaxPriceThreshold": 55000,
-            "MinPriceThreshold": 75000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+	"m_Version": 9,
+	"DisplayName": "CZLandrovers",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{
+			"ClassName": "CZ_landroverA_GlossyGreen",
+			"MaxPriceThreshold": 55000,
+			"MinPriceThreshold": 75000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"SparkPlug",
 				"CarBattery",
 				"CarRadiator",
@@ -27,22 +28,23 @@
 				"lr_wheel",
 				"lr_wheel",
 				"lr_wheel"
-            ],
-            "Variants": [
+			],
+			"Variants": [
 				"CZ_landroverA_GlossyBlack",
 				"CZ_landroverA_GlossyWhite",
 				"CZ_landroverA"
 			]
-        },
+		},
 		{
-            "ClassName": "CZ_landroverA_GlossyBlack",
-            "MaxPriceThreshold": 55000,
-            "MinPriceThreshold": 75000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+			"ClassName": "CZ_landroverA_GlossyBlack",
+			"MaxPriceThreshold": 55000,
+			"MinPriceThreshold": 75000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"SparkPlug",
 				"CarBattery",
 				"CarRadiator",
@@ -56,18 +58,19 @@
 				"lr_wheel_glossyblack",
 				"lr_wheel_glossyblack",
 				"lr_wheel_glossyblack"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "CZ_landroverA_GlossyWhite",
-            "MaxPriceThreshold": 55000,
-            "MinPriceThreshold": 75000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+			"ClassName": "CZ_landroverA_GlossyWhite",
+			"MaxPriceThreshold": 55000,
+			"MinPriceThreshold": 75000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"SparkPlug",
 				"CarBattery",
 				"CarRadiator",
@@ -81,19 +84,19 @@
 				"lr_wheel_glossywhite",
 				"lr_wheel_glossywhite",
 				"lr_wheel_glossywhite"
-            ],
-            "Variants": []
-        }
-		,
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "CZ_landroverA",
-            "MaxPriceThreshold": 55000,
-            "MinPriceThreshold": 75000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+			"ClassName": "CZ_landroverA",
+			"MaxPriceThreshold": 55000,
+			"MinPriceThreshold": 75000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"SparkPlug",
 				"CarBattery",
 				"CarRadiator",
@@ -107,8 +110,8 @@
 				"lr_wheel_glossywhite",
 				"lr_wheel_glossywhite",
 				"lr_wheel_glossywhite"
-            ],
-            "Variants": []
-        }
-    ]
+			],
+			"Variants": []
+		}
+	]
 }

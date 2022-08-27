@@ -1,111 +1,117 @@
 {
-    "m_Version": 9,
-    "DisplayName": "CZ Nissan GTR Parts",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
-            "ClassName": "NissanGTR2015_Driver",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"NissanGTR2015_Driver_Green",
-				"NissanGTR2015_Driver_Red",
-				"NissanGTR2015_Driver_Black",
-				"NissanGTR2015_Driver_White",
-				"NissanGTR2015_Driver_Blue"
-			]
-        },
-		{
-            "ClassName": "NissanGTR2015_CoDriver",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"NissanGTR2015_CoDriver_Green",
-				"NissanGTR2015_CoDriver_Red",
-				"NissanGTR2015_CoDriver_Black",
-				"NissanGTR2015_CoDriver_White",
-				"NissanGTR2015_CoDriver_Blue"
-			]
-        },
-		{
-            "ClassName": "NissanGTR2015_Trunk",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"NissanGTR2015_Trunk_Green",
-				"NissanGTR2015_Trunk_Red",
-				"NissanGTR2015_Trunk_Black",
-				"NissanGTR2015_Trunk_White",
-				"NissanGTR2015_Trunk_Blue"
-			]
-        },
-		{
-            "ClassName": "NissanGTR2015_Hood",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"NissanGTR2015_Hood_Green",
-				"NissanGTR2015_Hood_Red",
-				"NissanGTR2015_Hood_Black",
-				"NissanGTR2015_Hood_White",
-				"NissanGTR2015_Hood_Blue"
-			]
-        },
-		{
-            "ClassName": "NissanGTR2015_Wheel_1",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"NissanGTR2015_Wheel_1_Blue",
-				"NissanGTR2015_Wheel_1_White",
-				"NissanGTR2015_Wheel_1_Red",
-				"NissanGTR2015_Wheel_1_Orange",
-				"NissanGTR2015_Wheel_1_Green"
-			]
-        },
-		{
-            "ClassName": "NissanGTR2015_Wheel_2",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"NissanGTR2015_Wheel_2_Blue",
-				"NissanGTR2015_Wheel_2_White",
-				"NissanGTR2015_Wheel_2_Red",
-				"NissanGTR2015_Wheel_2_Orange",
-				"NissanGTR2015_Wheel_2_Green"
-			]
-        }
-    ]
+  "m_Version": 9,
+  "DisplayName": "CZ Nissan GTR Parts",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "NissanGTR2015_Driver",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NissanGTR2015_Driver_Green",
+        "NissanGTR2015_Driver_Red",
+        "NissanGTR2015_Driver_Black",
+        "NissanGTR2015_Driver_White",
+        "NissanGTR2015_Driver_Blue"
+      ]
+    },
+    {
+      "ClassName": "NissanGTR2015_CoDriver",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NissanGTR2015_CoDriver_Green",
+        "NissanGTR2015_CoDriver_Red",
+        "NissanGTR2015_CoDriver_Black",
+        "NissanGTR2015_CoDriver_White",
+        "NissanGTR2015_CoDriver_Blue"
+      ]
+    },
+    {
+      "ClassName": "NissanGTR2015_Trunk",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NissanGTR2015_Trunk_Green",
+        "NissanGTR2015_Trunk_Red",
+        "NissanGTR2015_Trunk_Black",
+        "NissanGTR2015_Trunk_White",
+        "NissanGTR2015_Trunk_Blue"
+      ]
+    },
+    {
+      "ClassName": "NissanGTR2015_Hood",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NissanGTR2015_Hood_Green",
+        "NissanGTR2015_Hood_Red",
+        "NissanGTR2015_Hood_Black",
+        "NissanGTR2015_Hood_White",
+        "NissanGTR2015_Hood_Blue"
+      ]
+    },
+    {
+      "ClassName": "NissanGTR2015_Wheel_1",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NissanGTR2015_Wheel_1_Blue",
+        "NissanGTR2015_Wheel_1_White",
+        "NissanGTR2015_Wheel_1_Red",
+        "NissanGTR2015_Wheel_1_Orange",
+        "NissanGTR2015_Wheel_1_Green"
+      ]
+    },
+    {
+      "ClassName": "NissanGTR2015_Wheel_2",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NissanGTR2015_Wheel_2_Blue",
+        "NissanGTR2015_Wheel_2_White",
+        "NissanGTR2015_Wheel_2_Red",
+        "NissanGTR2015_Wheel_2_Orange",
+        "NissanGTR2015_Wheel_2_Green"
+      ]
+    }
+  ]
 }

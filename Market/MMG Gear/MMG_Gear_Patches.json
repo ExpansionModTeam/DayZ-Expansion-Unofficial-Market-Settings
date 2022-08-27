@@ -1,11 +1,11 @@
 {
-    "m_Version": 9,
-    "DisplayName": "Mighty's Military Gear Patches",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75,
-    "Items": [
-    	{
+	"m_Version": 9,
+	"DisplayName": "Mighty's Military Gear Patches",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75,
+	"Items": [
+		{
 			"ClassName": "MMG_patch_rubber_dayz",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 500,
@@ -13,9 +13,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_511",
 			"MaxPriceThreshold": 500,
@@ -24,9 +24,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_medic",
 			"MaxPriceThreshold": 500,
@@ -35,9 +35,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_toxic",
 			"MaxPriceThreshold": 500,
@@ -46,9 +46,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_bushcraft",
 			"MaxPriceThreshold": 500,
@@ -57,9 +57,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_bushcraft1",
 			"MaxPriceThreshold": 500,
@@ -68,9 +68,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_police",
 			"MaxPriceThreshold": 500,
@@ -79,9 +79,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_punisher",
 			"MaxPriceThreshold": 500,
@@ -90,9 +90,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_rangers",
 			"MaxPriceThreshold": 500,
@@ -101,9 +101,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_eod",
 			"MaxPriceThreshold": 500,
@@ -112,9 +112,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_mmg",
 			"MaxPriceThreshold": 500,
@@ -123,9 +123,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_sniper1",
 			"MaxPriceThreshold": 500,
@@ -134,9 +134,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_australia",
 			"MaxPriceThreshold": 500,
@@ -145,9 +145,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_austria",
 			"MaxPriceThreshold": 500,
@@ -156,9 +156,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_austria1",
 			"MaxPriceThreshold": 500,
@@ -167,9 +167,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_germany",
 			"MaxPriceThreshold": 500,
@@ -178,9 +178,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_sweden",
 			"MaxPriceThreshold": 500,
@@ -189,9 +189,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_norway",
 			"MaxPriceThreshold": 500,
@@ -200,9 +200,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_ukraine",
 			"MaxPriceThreshold": 500,
@@ -211,9 +211,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_bulgaria",
 			"MaxPriceThreshold": 500,
@@ -222,9 +222,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_switzerland",
 			"MaxPriceThreshold": 500,
@@ -233,9 +233,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_czech_republic",
 			"MaxPriceThreshold": 500,
@@ -244,9 +244,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_denmark",
 			"MaxPriceThreshold": 500,
@@ -255,9 +255,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_england",
 			"MaxPriceThreshold": 500,
@@ -266,9 +266,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_finland",
 			"MaxPriceThreshold": 500,
@@ -277,9 +277,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_france",
 			"MaxPriceThreshold": 500,
@@ -288,9 +288,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_greece",
 			"MaxPriceThreshold": 500,
@@ -299,9 +299,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_netherlands",
 			"MaxPriceThreshold": 500,
@@ -310,9 +310,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_poland",
 			"MaxPriceThreshold": 500,
@@ -321,9 +321,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_south_africa",
 			"MaxPriceThreshold": 500,
@@ -332,9 +332,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_slovakia",
 			"MaxPriceThreshold": 500,
@@ -343,9 +343,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_uk",
 			"MaxPriceThreshold": 500,
@@ -354,9 +354,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_usa",
 			"MaxPriceThreshold": 500,
@@ -365,9 +365,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_apos",
 			"MaxPriceThreshold": 500,
@@ -376,9 +376,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_bpos",
 			"MaxPriceThreshold": 500,
@@ -387,9 +387,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_abpos",
 			"MaxPriceThreshold": 500,
@@ -398,9 +398,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_0pos",
 			"MaxPriceThreshold": 500,
@@ -409,9 +409,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_aneg",
 			"MaxPriceThreshold": 500,
@@ -420,9 +420,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_bneg",
 			"MaxPriceThreshold": 500,
@@ -431,9 +431,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_abneg",
 			"MaxPriceThreshold": 500,
@@ -442,9 +442,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_0neg",
 			"MaxPriceThreshold": 500,
@@ -453,9 +453,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_fabric_dayz",
 			"MaxPriceThreshold": 500,
@@ -464,9 +464,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_fabric_511",
 			"MaxPriceThreshold": 500,
@@ -475,9 +475,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_fabric_driver",
 			"MaxPriceThreshold": 500,
@@ -486,9 +486,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_fabric_medic",
 			"MaxPriceThreshold": 500,
@@ -497,9 +497,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_fabric_pilot",
 			"MaxPriceThreshold": 500,
@@ -508,9 +508,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_fabric_toxic",
 			"MaxPriceThreshold": 500,
@@ -519,9 +519,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_cherno_special",
 			"MaxPriceThreshold": 500,
@@ -530,9 +530,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_livonia_special",
 			"MaxPriceThreshold": 500,
@@ -541,9 +541,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_namalsk_special",
 			"MaxPriceThreshold": 500,
@@ -552,9 +552,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_bra",
 			"MaxPriceThreshold": 500,
@@ -563,9 +563,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_can",
 			"MaxPriceThreshold": 500,
@@ -574,9 +574,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_chl",
 			"MaxPriceThreshold": 500,
@@ -585,9 +585,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_cro",
 			"MaxPriceThreshold": 500,
@@ -596,9 +596,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_irl",
 			"MaxPriceThreshold": 500,
@@ -607,9 +607,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_nzl",
 			"MaxPriceThreshold": 500,
@@ -618,9 +618,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_rou",
 			"MaxPriceThreshold": 500,
@@ -629,9 +629,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_tur",
 			"MaxPriceThreshold": 500,
@@ -640,9 +640,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_mex",
 			"MaxPriceThreshold": 500,
@@ -651,9 +651,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_por",
 			"MaxPriceThreshold": 500,
@@ -662,9 +662,9 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "MMG_patch_rubber_wales",
 			"MaxPriceThreshold": 500,
@@ -673,8 +673,8 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": []
-        }
-    ]
+			"SpawnAttachments": [],
+			"Variants": []
+		}
+	]
 }

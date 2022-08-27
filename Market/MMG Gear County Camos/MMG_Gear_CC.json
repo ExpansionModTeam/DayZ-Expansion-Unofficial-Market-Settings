@@ -1,11 +1,11 @@
 {
-    "m_Version": 9,
-    "DisplayName": "Mighty's Military Gear Country Camos",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75,
-    "Items": [
-    	{
+	"m_Version": 9,
+	"DisplayName": "Mighty's Military Gear Country Camos",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75,
+	"Items": [
+		{
 			"ClassName": "MMG_JPC_Vest_germany",
 			"MaxPriceThreshold": 15000,
 			"MinPriceThreshold": 15000,
@@ -13,13 +13,13 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_JPC_Vest_sweden",
 				"MMG_JPC_Vest_ukraine",
 				"MMG_JPC_Vest_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_tt_vest_germany",
 			"MaxPriceThreshold": 10000,
@@ -28,13 +28,13 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_tt_vest_sweden",
 				"MMG_tt_vest_ukraine",
 				"MMG_tt_vest_norway"
 			]
-        },
+		},
 		{
 			"ClassName": "mmg_chestrig_germany",
 			"MaxPriceThreshold": 10000,
@@ -43,13 +43,13 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"mmg_chestrig_sweden",
 				"mmg_chestrig_ukraine",
 				"mmg_chestrig_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_MK_III_Armor_germany",
 			"MaxPriceThreshold": 55000,
@@ -58,13 +58,13 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 0,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_MK_III_Armor_sweden",
 				"MMG_MK_III_Armor_ukraine",
 				"MMG_MK_III_Armor_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_MK_V_Armor_germany",
 			"MaxPriceThreshold": 75000,
@@ -73,13 +73,13 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 0,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_MK_V_Armor_sweden",
 				"MMG_MK_V_Armor_ukraine",
 				"MMG_MK_V_Armor_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_Mag_Pouch_germany",
 			"MaxPriceThreshold": 500,
@@ -88,13 +88,13 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_Mag_Pouch_sweden",
 				"MMG_Mag_Pouch_ukraine",
 				"MMG_Mag_Pouch_norway"
-            	]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_triple_magpouch_germany",
 			"MaxPriceThreshold": 500,
@@ -103,13 +103,13 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-            	"MMG_triple_magpouch_sweden",
+			"SpawnAttachments": [],
+			"Variants": [
+				"MMG_triple_magpouch_sweden",
 				"MMG_triple_magpouch_ukraine",
 				"MMG_triple_magpouch_norway"
 			]
-        },
+		},
 		{
 			"ClassName": "MMG_double_magpouch_germany",
 			"MaxPriceThreshold": 500,
@@ -118,13 +118,13 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_double_magpouch_sweden",
 				"MMG_double_magpouch_ukraine",
 				"MMG_double_magpouch_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_Med_Pouch_germany",
 			"MaxPriceThreshold": 500,
@@ -133,13 +133,13 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_Med_Pouch_sweden",
 				"MMG_Med_Pouch_ukraine",
 				"MMG_Med_Pouch_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_ammo_pouch_germany",
 			"MaxPriceThreshold": 500,
@@ -148,13 +148,13 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_ammo_pouch_sweden",
 				"MMG_ammo_pouch_ukraine",
 				"MMG_ammo_pouch_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_tactical_pouch_germany",
 			"MaxPriceThreshold": 500,
@@ -163,13 +163,13 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_tactical_pouch_sweden",
 				"MMG_tactical_pouch_ukraine",
 				"MMG_tactical_pouch_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_mk5_utility_pouch_germany",
 			"MaxPriceThreshold": 500,
@@ -178,13 +178,13 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_mk5_utility_pouch_sweden",
 				"MMG_mk5_utility_pouch_ukraine",
 				"MMG_mk5_utility_pouch_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_mk_v_grenade_pouch_germany",
 			"MaxPriceThreshold": 500,
@@ -193,13 +193,13 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_mk_v_grenade_pouch_sweden",
 				"MMG_mk_v_grenade_pouch_ukraine",
 				"MMG_mk_v_grenade_pouch_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_carrier_backpack_germany",
 			"MaxPriceThreshold": 5000,
@@ -208,13 +208,13 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_carrier_backpack_sweden",
 				"MMG_carrier_backpack_ukraine",
 				"MMG_carrier_backpack_norway"
 			]
-        },
+		},
 		{
 			"ClassName": "MMG_supplybag_germany",
 			"MaxPriceThreshold": 10000,
@@ -223,13 +223,13 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_supplybag_sweden",
 				"MMG_supplybag_ukraine",
 				"MMG_supplybag_norway"
 			]
-        },
+		},
 		{
 			"ClassName": "MMG_assault_pack_germany",
 			"MaxPriceThreshold": 10000,
@@ -238,13 +238,13 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_assault_pack_sweden",
 				"MMG_assault_pack_ukraine",
 				"MMG_assault_pack_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_camelback_germany",
 			"MaxPriceThreshold": 10000,
@@ -253,13 +253,13 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_camelback_sweden",
 				"MMG_camelback_ukraine",
 				"MMG_camelback_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_falcon_b1_belt_germany",
 			"MaxPriceThreshold": 2000,
@@ -268,13 +268,13 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_falcon_b1_belt_sweden",
 				"MMG_falcon_b1_belt_ukraine",
 				"MMG_falcon_b1_belt_norway"
 			]
-        },
+		},
 		{
 			"ClassName": "MMG_tactical_helmet_germany",
 			"MaxPriceThreshold": 5000,
@@ -283,13 +283,13 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 10,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_tactical_helmet_sweden",
 				"MMG_tactical_helmet_ukraine",
 				"MMG_tactical_helmet_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_striker_helmet_germany",
 			"MaxPriceThreshold": 7500,
@@ -298,13 +298,13 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 10,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_striker_helmet_sweden",
 				"MMG_striker_helmet_ukraine",
 				"MMG_striker_helmet_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_sheath_germany",
 			"MaxPriceThreshold": 500,
@@ -313,13 +313,13 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_sheath_sweden",
 				"MMG_sheath_ukraine",
 				"MMG_sheath_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_bottle_germany",
 			"MaxPriceThreshold": 15000,
@@ -328,13 +328,13 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 10,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_bottle_sweden",
 				"MMG_bottle_ukraine",
 				"MMG_bottle_norway"
 			]
-        },
+		},
 		{
 			"ClassName": "MMG_Holster_germany",
 			"MaxPriceThreshold": 500,
@@ -343,13 +343,13 @@
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_Holster_sweden",
 				"MMG_Holster_ukraine",
 				"MMG_Holster_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_operatorshirt_germany",
 			"MaxPriceThreshold": 5000,
@@ -358,13 +358,13 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_operatorshirt_sweden",
 				"MMG_operatorshirt_ukraine",
 				"MMG_operatorshirt_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_tactical_shirt_germany",
 			"MaxPriceThreshold": 5000,
@@ -373,13 +373,13 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_tactical_shirt_sweden",
 				"MMG_tactical_shirt_ukraine",
 				"MMG_tactical_shirt_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_combatshirt_germany",
 			"MaxPriceThreshold": 5000,
@@ -388,13 +388,13 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_combatshirt_sweden",
 				"MMG_combatshirt_ukraine",
 				"MMG_combatshirt_norway"
 			]
-        },
+		},
 		{
 			"ClassName": "MMG_combatpants_germany",
 			"MaxPriceThreshold": 5000,
@@ -403,13 +403,13 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_combatpants_sweden",
 				"MMG_combatpants_ukraine",
 				"MMG_combatpants_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "mmg_tactical_gloves_germany",
 			"MaxPriceThreshold": 2000,
@@ -418,13 +418,13 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"mmg_tactical_gloves_sweden",
 				"mmg_tactical_gloves_ukraine",
 				"mmg_tactical_gloves_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_boots_germany",
 			"MaxPriceThreshold": 3000,
@@ -433,13 +433,13 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_boots_sweden",
 				"MMG_boots_ukraine",
 				"MMG_boots_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_facemask_germany",
 			"MaxPriceThreshold": 3000,
@@ -448,13 +448,13 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_facemask_sweden",
 				"MMG_facemask_ukraine",
 				"MMG_facemask_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "MMG_balaclava_germany",
 			"MaxPriceThreshold": 3000,
@@ -463,13 +463,13 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"MMG_balaclava_sweden",
 				"MMG_balaclava_ukraine",
 				"MMG_balaclava_norway"
-            ]
-        },
+			]
+		},
 		{
 			"ClassName": "mmg_boonie_germany",
 			"MaxPriceThreshold": 3000,
@@ -478,12 +478,12 @@
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 0,
 			"QuantityPercent": 25,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"mmg_boonie_sweden",
 				"mmg_boonie_ukraine",
 				"mmg_boonie_norway"
-            ]
-        }
-    ]
+			]
+		}
+	]
 }

@@ -1,39 +1,41 @@
 {
-    "m_Version": 9,
-    "DisplayName": "Pants",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
+	"m_Version": 9,
+	"DisplayName": "Pants",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{
 			"ClassName": "Blue_Leggings",
 			"MaxPriceThreshold": 1,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"Latex_Leggings",
 				"Latex_White_Leggings",
 				"Adidas_Leggings",
 				"Red_Leggings",
 				"Purple_Leggings"
 			]
-        },
-        {
+		},
+		{
 			"ClassName": "Kneepads_Jeans_Base",
 			"MaxPriceThreshold": 1,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"Kneepads_Jeans_Black"
 			]
-        }	
-    ]
+		}
+	]
 }

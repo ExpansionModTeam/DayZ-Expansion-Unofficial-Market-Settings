@@ -1,25 +1,26 @@
 {
-    "m_Version": 9,
-    "DisplayName": "Windstrider Gloves",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
+	"m_Version": 9,
+	"DisplayName": "Windstrider Gloves",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{
 			"ClassName": "Fingerless_Gloves",
 			"MaxPriceThreshold": 1,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"Fingerless_Gloves_Brown",
 				"Fingerless_Gloves_Wool",
 				"Fingerless_Gloves_Wool_Grey",
 				"Fingerless_Gloves_Wool_Black"
 			]
-        }
-    ]
+		}
+	]
 }

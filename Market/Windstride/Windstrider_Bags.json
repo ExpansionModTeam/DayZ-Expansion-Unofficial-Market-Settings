@@ -1,26 +1,27 @@
 {
-    "m_Version": 9,
-    "DisplayName": "Windstrider Bags",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
+	"m_Version": 9,
+	"DisplayName": "Windstrider Bags",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{
 			"ClassName": "Canvas_Backpack_Base",
 			"MaxPriceThreshold": 800,
 			"MinPriceThreshold": 800,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
+			"SpawnAttachments": [],
+			"Variants": [
 				"Canvas_Backpack_Black",
 				"Canvas_Backpack_White",
 				"Canvas_Backpack_Red",
 				"Canvas_Backpack_Blue",
 				"Canvas_Backpack_Purple"
 			]
-        }
-    ]
+		}
+	]
 }

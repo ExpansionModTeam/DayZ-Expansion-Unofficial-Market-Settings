@@ -1,90 +1,96 @@
 {
-    "m_Version": 9,
-    "DisplayName": "MASS GHILLIE",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
-			"ClassName": "massghilliehood_snowy",
-			"MaxPriceThreshold": 440,
-			"MinPriceThreshold": 220,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 100,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "massghilliehood_woodland",
-                "massghilliehoodmossy"
-            ]
-        },
-        {
-			"ClassName": "massghilliesuitmossy",
-			"MaxPriceThreshold": 2000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 100,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "massghilliesuitsnow",
-                "massghilliesuitwoodland"
-            ]
-        },
-        {
-			"ClassName": "massghillietopmossy",
-			"MaxPriceThreshold": 1200,
-			"MinPriceThreshold": 600,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 100,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "massghillietopsnow",
-                "massghillietopwoodland"
-            ]
-        },
-        {
-			"ClassName": "masswinterghilliewrap",
-			"MaxPriceThreshold": 800,
-			"MinPriceThreshold": 400,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 100,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-			"ClassName": "massghilliesuitboxmossy",
-			"MaxPriceThreshold": 2400,
-			"MinPriceThreshold": 1200,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 100,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "massghilliesuitboxwinter",
-                "massghilliesuitboxwoodland"
-            ]
-        },
-        {
-			"ClassName": "massghillietopboxmossy",
-			"MaxPriceThreshold": 1200,
-			"MinPriceThreshold": 600,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 100,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "massghillietopboxwinter",
-                "massghillietopboxwoodland"
-            ]
-        }
-    ]
+  "m_Version": 9,
+  "DisplayName": "MASS GHILLIE",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "massghilliehood_snowy",
+      "MaxPriceThreshold": 440,
+      "MinPriceThreshold": 220,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "massghilliehood_woodland",
+        "massghilliehoodmossy"
+      ]
+    },
+    {
+      "ClassName": "massghilliesuitmossy",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "massghilliesuitsnow",
+        "massghilliesuitwoodland"
+      ]
+    },
+    {
+      "ClassName": "massghillietopmossy",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 600,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "massghillietopsnow",
+        "massghillietopwoodland"
+      ]
+    },
+    {
+      "ClassName": "masswinterghilliewrap",
+      "MaxPriceThreshold": 800,
+      "MinPriceThreshold": 400,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "massghilliesuitboxmossy",
+      "MaxPriceThreshold": 2400,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "massghilliesuitboxwinter",
+        "massghilliesuitboxwoodland"
+      ]
+    },
+    {
+      "ClassName": "massghillietopboxmossy",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 600,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "massghillietopboxwinter",
+        "massghillietopboxwoodland"
+      ]
+    }
+  ]
 }

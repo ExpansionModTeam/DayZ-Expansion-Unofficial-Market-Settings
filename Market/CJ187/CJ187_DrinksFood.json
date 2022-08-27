@@ -1,342 +1,372 @@
 {
-    "m_Version": 9,
-    "DisplayName": "CJ187 Food and Drinks",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
+	"m_Version": 9,
+	"DisplayName": "CJ187 Food and Drinks",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{
 			"ClassName": "Apple_Red",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "Apple_Yellow",
-                "Apple_Green"
-            ]
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": [
+				"Apple_Yellow",
+				"Apple_Green"
+			]
+		},
+		{
 			"ClassName": "Bottle_Milk",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "Bottle_Cola",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "Bottle_Pepsi",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "Cola",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "Cola_Cherry",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "Cola_Light",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "MonsterEnergy1",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "MonsterEnergy2",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "MonsterEnergy3",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "MonsterEnergy4",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "MonsterEnergy5",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "MonsterEnergy6",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "MonsterEnergy7",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "MonsterEnergy8",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "MTN_Dew",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "MTN_Dew2",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "Pepsi",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "Pepsi2",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "Pepsi_Light",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "Fanta",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "Sprite",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "BlackOlivesCan",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "CookedSpinachCan",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "FavabeansCan",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "FruitcocktailCan",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "GreenbeansCan",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "KidneybeansCan",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "SlicedbeetsCan",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "SlicedpineappleCan",
 			"MaxPriceThreshold": 15,
 			"MinPriceThreshold": 1,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        }
-    ]
+			"SpawnAttachments": [],
+			"Variants": []
+		}
+	]
 }

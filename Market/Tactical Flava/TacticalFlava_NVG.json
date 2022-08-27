@@ -1,22 +1,23 @@
 {
-    "m_Version": 9,
-    "DisplayName": "Tactical Flava NVG",
-    "Icon": "Deliver",
-    "Color": "FFD400",
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
-			"ClassName": "TF_NVGoggles_AVS9",
-			"MaxPriceThreshold": 5000,
-			"MinPriceThreshold": 5000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 100,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [
-                "battery9v"
-            ],
-            "Variants": []
-        }
-    ]
+  "m_Version": 9,
+  "DisplayName": "Tactical Flava NVG",
+  "Icon": "Deliver",
+  "Color": "FFD400",
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "TF_NVGoggles_AVS9",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "battery9v"
+      ],
+      "Variants": []
+    }
+  ]
 }

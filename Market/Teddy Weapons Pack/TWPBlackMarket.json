@@ -1,220 +1,236 @@
 {
-    "m_Version": 9,
-    "DisplayName": "Black Market Weapons",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
-            "ClassName": "TWP_Anzio",
-            "MaxPriceThreshold": 125000,
-            "MinPriceThreshold": 125000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-				"TWP_Anzio_mag_3Rnd"
-			],
-            "Variants": []
-        },
-        {
-            "ClassName": "TWP_BarrettM82",
-            "MaxPriceThreshold": 125000,
-            "MinPriceThreshold": 125000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "TWP_BarrettM82_mag_10Rnd"
-            ],
-            "Variants": [
-				"TWP_BarrettM82Desert",
-				"TWP_BarrettM82Snow"
-			]
-        },
-        {
-            "ClassName": "TWP_M200",
-            "MaxPriceThreshold": 125000,
-            "MinPriceThreshold": 125000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-				"TWP_M200_mag_7Rnd",
-				"TWP_M200Old_mag_7Rnd"
-			],
-            "Variants": [
-				"TWP_M200Old"
-			]
-        },
-        {
-            "ClassName": "TWP_VSSK",
-            "MaxPriceThreshold": 125000,
-            "MinPriceThreshold": 125000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-				"TWP_VSSK_mag_5Rnd"
-			],
-            "Variants": []
-        },
-        {
-            "ClassName": "TWP_Beowulf",
-            "MaxPriceThreshold": 125000,
-            "MinPriceThreshold": 125000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "TWP_Beowulf_mag_10Rnd"
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "TWP_AX50",
-            "MaxPriceThreshold": 125000,
-            "MinPriceThreshold": 125000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-				"TWP_AX50_mag_10Rnd"
-			],
-            "Variants": []
-        },
-        {
-            "ClassName": "TWP_M107",
-            "MaxPriceThreshold": 125000,
-            "MinPriceThreshold": 125000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-				"TWP_M107_mag_15Rnd"
-			],
-            "Variants": []
-        },
-        {
-            "ClassName": "TWP_M200Sand",
-            "MaxPriceThreshold": 125000,
-            "MinPriceThreshold": 125000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "TWP_M200Sand_mag_7Rnd"
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "TWP_M200Mod",
-            "MaxPriceThreshold": 125000,
-            "MinPriceThreshold": 125000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "TWP_M200Mod_mag_10Rnd"
-            ],
-            "Variants": []
-        },
-		{
-            "ClassName": "TWP_DoubleBarrelShotgun",
-            "MaxPriceThreshold": 125000,
-            "MinPriceThreshold": 125000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "TWP_Komrad12",
-            "MaxPriceThreshold": 125000,
-            "MinPriceThreshold": 125000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-				"TWP_Komrad12_mag_10Rnd"
-			],
-            "Variants": []
-        },
-		{
-            "ClassName": "TWP_Toz34",
-            "MaxPriceThreshold": 125000,
-            "MinPriceThreshold": 125000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "TWP_AA12Black",
-            "MaxPriceThreshold": 125000,
-            "MinPriceThreshold": 125000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-				"TWP_AA12Black_mag_32Rnd"
-			],
-            "Variants": []
-        },
-		{
-            "ClassName": "TWP_M134",
-            "MaxPriceThreshold": 1250000,
-            "MinPriceThreshold": 1250000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-				"TWP_M134_mag_500Rnd",
-				"TWP_M134_mag_750Rnd"
-			],
-            "Variants": []
-        },
-		{
-            "ClassName": "TWP_MiniGun",
-            "MaxPriceThreshold": 1250000,
-            "MinPriceThreshold": 1250000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-				"TWP_MiniGun_mag_300Rnd"
-			],
-            "Variants": []
-        },
-		{
-            "ClassName": "TWP_Ash12",
-            "MaxPriceThreshold": 125000,
-            "MinPriceThreshold": 125000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-				"TWP_Ash12_mag_10Rnd"
-			],
-            "Variants": []
-        }
-    ]
+  "m_Version": 9,
+  "DisplayName": "Black Market Weapons",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "TWP_Anzio",
+      "MaxPriceThreshold": 125000,
+      "MinPriceThreshold": 125000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TWP_Anzio_mag_3Rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "TWP_BarrettM82",
+      "MaxPriceThreshold": 125000,
+      "MinPriceThreshold": 125000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TWP_BarrettM82_mag_10Rnd"
+      ],
+      "Variants": [
+        "TWP_BarrettM82Desert",
+        "TWP_BarrettM82Snow"
+      ]
+    },
+    {
+      "ClassName": "TWP_M200",
+      "MaxPriceThreshold": 125000,
+      "MinPriceThreshold": 125000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TWP_M200_mag_7Rnd",
+        "TWP_M200Old_mag_7Rnd"
+      ],
+      "Variants": [
+        "TWP_M200Old"
+      ]
+    },
+    {
+      "ClassName": "TWP_VSSK",
+      "MaxPriceThreshold": 125000,
+      "MinPriceThreshold": 125000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TWP_VSSK_mag_5Rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "TWP_Beowulf",
+      "MaxPriceThreshold": 125000,
+      "MinPriceThreshold": 125000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TWP_Beowulf_mag_10Rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "TWP_AX50",
+      "MaxPriceThreshold": 125000,
+      "MinPriceThreshold": 125000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TWP_AX50_mag_10Rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "TWP_M107",
+      "MaxPriceThreshold": 125000,
+      "MinPriceThreshold": 125000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TWP_M107_mag_15Rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "TWP_M200Sand",
+      "MaxPriceThreshold": 125000,
+      "MinPriceThreshold": 125000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TWP_M200Sand_mag_7Rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "TWP_M200Mod",
+      "MaxPriceThreshold": 125000,
+      "MinPriceThreshold": 125000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TWP_M200Mod_mag_10Rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "TWP_DoubleBarrelShotgun",
+      "MaxPriceThreshold": 125000,
+      "MinPriceThreshold": 125000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TWP_Komrad12",
+      "MaxPriceThreshold": 125000,
+      "MinPriceThreshold": 125000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TWP_Komrad12_mag_10Rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "TWP_Toz34",
+      "MaxPriceThreshold": 125000,
+      "MinPriceThreshold": 125000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TWP_AA12Black",
+      "MaxPriceThreshold": 125000,
+      "MinPriceThreshold": 125000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TWP_AA12Black_mag_32Rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "TWP_M134",
+      "MaxPriceThreshold": 1250000,
+      "MinPriceThreshold": 1250000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TWP_M134_mag_500Rnd",
+        "TWP_M134_mag_750Rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "TWP_MiniGun",
+      "MaxPriceThreshold": 1250000,
+      "MinPriceThreshold": 1250000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TWP_MiniGun_mag_300Rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "TWP_Ash12",
+      "MaxPriceThreshold": 125000,
+      "MinPriceThreshold": 125000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TWP_Ash12_mag_10Rnd"
+      ],
+      "Variants": []
+    }
+  ]
 }

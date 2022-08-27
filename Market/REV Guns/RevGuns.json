@@ -1,361 +1,392 @@
 {
-    "m_Version": 9,
-    "DisplayName": "REV GUNS",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 50.0,
-    "Items": [
-        {
-            "ClassName": "Rev_WA2000",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Rev_ARX160",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Rev_Tac21",
-            "MaxPriceThreshold": 5500,
-            "MinPriceThreshold": 5500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Rev_HoneyBadger300BO_Black",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Rev_M200",
-            "MaxPriceThreshold": 4500,
-            "MinPriceThreshold": 4500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Rev_M200_Black"
-			]
-        },
-        {
-            "ClassName": "Rev_R700",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Rev_AK15",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Rev_AKU15"
-			]
-        },
-        {
-            "ClassName": "Rev_AK12",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Rev_AKU12"
-			]
-        },
-		{
-            "ClassName": "Rev_AK19",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Rev_AKU19"
-			]
-        },
-		{
-            "ClassName": "Rev_RPK16",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Rev_RPK16_762",
-				"Rev_RPK16_556"
-			]
-        },
-		{
-            "ClassName": "Rev_AR15",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Rev_ACR_Tan",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Rev_M110_Black",
-            "MaxPriceThreshold": 4000,
-            "MinPriceThreshold": 4000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Rev_M134",
-            "MaxPriceThreshold": 85000,
-            "MinPriceThreshold": 85000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 20,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Rev_Beowulf",
-            "MaxPriceThreshold": 2500,
-            "MinPriceThreshold": 2500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Rev_SRSA2",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Rev_Spas12",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Rev_SR25_Tan",
-            "MaxPriceThreshold": 4500,
-            "MinPriceThreshold": 4500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Rev_ACR17",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Rev_MG3",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Rev_FALTactical",
-            "MaxPriceThreshold": 900,
-            "MinPriceThreshold": 900,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Rev_M1Garand",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Rev_HT76",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Rev_HK417",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "JebsGuns_GoldenFang",
-            "MaxPriceThreshold": 2500,
-            "MinPriceThreshold": 2500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "JebsGuns_M1A_Sneaks",
-            "MaxPriceThreshold": 4500,
-            "MinPriceThreshold": 4500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "JebsGuns_MBR_Black",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "JebsGuns_L85A2_Black",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "JebsGuns_KrissVector_Black",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "JebsGuns_VSSK",
-            "MaxPriceThreshold": 4500,
-            "MinPriceThreshold": 4500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "Rev_M96",
-            "MaxPriceThreshold": 5500,
-            "MinPriceThreshold": 5500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        }
-    ]
+  "m_Version": 9,
+  "DisplayName": "REV GUNS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 50.0,
+  "Items": [
+    {
+      "ClassName": "Rev_WA2000",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Rev_ARX160",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Rev_Tac21",
+      "MaxPriceThreshold": 5500,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Rev_HoneyBadger300BO_Black",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Rev_M200",
+      "MaxPriceThreshold": 4500,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Rev_M200_Black"
+      ]
+    },
+    {
+      "ClassName": "Rev_R700",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Rev_AK15",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Rev_AKU15"
+      ]
+    },
+    {
+      "ClassName": "Rev_AK12",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Rev_AKU12"
+      ]
+    },
+    {
+      "ClassName": "Rev_AK19",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Rev_AKU19"
+      ]
+    },
+    {
+      "ClassName": "Rev_RPK16",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Rev_RPK16_762",
+        "Rev_RPK16_556"
+      ]
+    },
+    {
+      "ClassName": "Rev_AR15",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Rev_ACR_Tan",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Rev_M110_Black",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 4000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Rev_M134",
+      "MaxPriceThreshold": 85000,
+      "MinPriceThreshold": 85000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 20,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Rev_Beowulf",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Rev_SRSA2",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Rev_Spas12",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Rev_SR25_Tan",
+      "MaxPriceThreshold": 4500,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Rev_ACR17",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Rev_MG3",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Rev_FALTactical",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 900,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Rev_M1Garand",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Rev_HT76",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Rev_HK417",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "JebsGuns_GoldenFang",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "JebsGuns_M1A_Sneaks",
+      "MaxPriceThreshold": 4500,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "JebsGuns_MBR_Black",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "JebsGuns_L85A2_Black",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "JebsGuns_KrissVector_Black",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "JebsGuns_VSSK",
+      "MaxPriceThreshold": 4500,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Rev_M96",
+      "MaxPriceThreshold": 5500,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 50,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
 }

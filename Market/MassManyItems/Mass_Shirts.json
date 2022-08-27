@@ -1,256 +1,278 @@
 {
-    "m_Version": 9,
-    "DisplayName": "MASS SHIRTS",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
+	"m_Version": 9,
+	"DisplayName": "MASS SHIRTS",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{
 			"ClassName": "massbeigejacket",
 			"MaxPriceThreshold": 260,
 			"MinPriceThreshold": 130,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "massblackgorkatop",
 			"MaxPriceThreshold": 280,
 			"MinPriceThreshold": 140,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "massblackjacket",
 			"MaxPriceThreshold": 260,
 			"MinPriceThreshold": 130,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "masscuuquiltedjacket",
 			"MaxPriceThreshold": 240,
 			"MinPriceThreshold": 120,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "massdetectivecoat",
 			"MaxPriceThreshold": 200,
 			"MinPriceThreshold": 100,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "massdetectivecoat_black"
-            ]
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": [
+				"massdetectivecoat_black"
+			]
+		},
+		{
 			"ClassName": "massgdshirt",
 			"MaxPriceThreshold": 22,
 			"MinPriceThreshold": 11,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "massgokushirt",
 			"MaxPriceThreshold": 20,
 			"MinPriceThreshold": 10,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "massgorkainvertflecktarntop",
 			"MaxPriceThreshold": 280,
 			"MinPriceThreshold": 140,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "massgorkainvertwintertop",
-                "massgorkainvertwoodlandtop"
-            ]
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": [
+				"massgorkainvertwintertop",
+				"massgorkainvertwoodlandtop"
+			]
+		},
+		{
 			"ClassName": "massmandraketop",
 			"MaxPriceThreshold": 280,
 			"MinPriceThreshold": 140,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "massoreltopgreen",
 			"MaxPriceThreshold": 80,
 			"MinPriceThreshold": 40,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "masssm90top",
 			"MaxPriceThreshold": 220,
 			"MinPriceThreshold": 110,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "masssm90wtop",
 			"MaxPriceThreshold": 220,
 			"MinPriceThreshold": 110,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "massssww2camotop",
 			"MaxPriceThreshold": 220,
 			"MinPriceThreshold": 110,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "masstropicamtop",
 			"MaxPriceThreshold": 220,
 			"MinPriceThreshold": 110,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "masstuhikingjacket",
 			"MaxPriceThreshold": 240,
 			"MinPriceThreshold": 120,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "massurbancamom65",
 			"MaxPriceThreshold": 230,
 			"MinPriceThreshold": 115,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "massusww2top",
 			"MaxPriceThreshold": 220,
 			"MinPriceThreshold": 110,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "masswinterbdujacket",
 			"MaxPriceThreshold": 230,
 			"MinPriceThreshold": 115,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "masswintercuujacket",
 			"MaxPriceThreshold": 250,
 			"MinPriceThreshold": 125,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "masswinterhuntertop",
 			"MaxPriceThreshold": 180,
 			"MinPriceThreshold": 90,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "masswoodlandcamosweater",
 			"MaxPriceThreshold": 90,
 			"MinPriceThreshold": 45,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "masscamohoodie",
 			"MaxPriceThreshold": 50,
 			"MinPriceThreshold": 25,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        }
-    ]
+			"SpawnAttachments": [],
+			"Variants": []
+		}
+	]
 }

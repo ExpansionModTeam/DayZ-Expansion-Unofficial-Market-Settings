@@ -1,273 +1,297 @@
 {
-    "m_Version": 9,
-    "DisplayName": "ADDITIONAL MEDICAL SUPPLIES",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
-    "Items": [
+	"m_Version": 9,
+	"DisplayName": "ADDITIONAL MEDICAL SUPPLIES",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
 		{
 			"ClassName": "AMS_FirstAidKit",
 			"MaxPriceThreshold": 300,
 			"MinPriceThreshold": 190,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_BandageBox",
 			"MaxPriceThreshold": 300,
 			"MinPriceThreshold": 190,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_Bandage",
 			"MaxPriceThreshold": 50,
 			"MinPriceThreshold": 25,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_Absorbent",
 			"MaxPriceThreshold": 300,
 			"MinPriceThreshold": 190,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_BandageTape",
 			"MaxPriceThreshold": 300,
 			"MinPriceThreshold": 190,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_AntiSept",
 			"MaxPriceThreshold": 300,
 			"MinPriceThreshold": 190,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_Ai2",
 			"MaxPriceThreshold": 300,
 			"MinPriceThreshold": 190,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_Polaris",
 			"MaxPriceThreshold": 300,
 			"MinPriceThreshold": 190,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_Aspirin",
 			"MaxPriceThreshold": 300,
 			"MinPriceThreshold": 190,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_Vikasol",
 			"MaxPriceThreshold": 300,
 			"MinPriceThreshold": 190,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_Energy",
 			"MaxPriceThreshold": 300,
 			"MinPriceThreshold": 190,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_Narcotics",
 			"MaxPriceThreshold": 300,
 			"MinPriceThreshold": 190,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_Tourniquet",
 			"MaxPriceThreshold": 300,
 			"MinPriceThreshold": 190,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_Methadone",
 			"MaxPriceThreshold": 300,
 			"MinPriceThreshold": 190,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_BandAid",
 			"MaxPriceThreshold": 200,
 			"MinPriceThreshold": 190,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_Splint",
 			"MaxPriceThreshold": 300,
 			"MinPriceThreshold": 190,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_MFAK",
 			"MaxPriceThreshold": 450,
 			"MinPriceThreshold": 190,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_NBCPouch",
 			"MaxPriceThreshold": 1500,
 			"MinPriceThreshold": 1000,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_Whistle",
 			"MaxPriceThreshold": 300,
 			"MinPriceThreshold": 190,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_TestKitReport",
 			"MaxPriceThreshold": 300,
 			"MinPriceThreshold": 190,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_WaterStraw",
 			"MaxPriceThreshold": 3000,
 			"MinPriceThreshold": 2000,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_POX",
 			"MaxPriceThreshold": 3500,
 			"MinPriceThreshold": 1750,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_GasMaskGP21",
 			"MaxPriceThreshold": 2500,
 			"MinPriceThreshold": 1900,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+			"SpawnAttachments": [],
+			"Variants": []
+		},
 		{
 			"ClassName": "AMS_GasMaskGP21_Filter",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 250,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        }
+			"SpawnAttachments": [],
+			"Variants": []
+		}
 	]
 }

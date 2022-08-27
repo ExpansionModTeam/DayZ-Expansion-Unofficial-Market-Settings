@@ -1,63 +1,64 @@
 {
-    "m_Version": 9,
-    "DisplayName": "Savage Sherpas",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
-            "ClassName": "SavageSherpa_savage",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 14000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-				"SavageSNO_RearBag",
-				"SavageSNO_RearBag",
-				"HeadlightH7",
-				"HeadlightH7",
-				"CarBattery",
-				"SparkPlug"
-            ],
-            "Variants": [
-				"SavageSherpa_red",
-				"SavageSherpa_purple",
-				"SavageSherpa_mint",
-				"SavageSherpa_green",
-				"SavageSherpa_brown",
-				"SavageSherpa_blue",
-				"SavageSherpa_pink",
-				"SavageSherpa_black",
-				"SavageSherpa_yellow"
-			]
-        },
-        {
-            "ClassName": "SavageSherpa_sport_black",
-            "MaxPriceThreshold": 50000,
-            "MinPriceThreshold": 16000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 5,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-				"HeadlightH7",
-				"HeadlightH7",
-				"CarBattery",
-				"SparkPlug"
-            ],
-            "Variants": [
-				"SavageSherpa_sport_yellow",
-				"SavageSherpa_sport_red",
-				"SavageSherpa_sport_purple",
-				"SavageSherpa_sport_mint",
-				"SavageSherpa_sport_green",
-				"SavageSherpa_sport_brown",
-				"SavageSherpa_sport_blue",
-				"SavageSherpa_sport_pink"
-			]
-        }
-        
-    ]
+  "m_Version": 9,
+  "DisplayName": "Savage Sherpas",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "SavageSherpa_savage",
+      "MaxPriceThreshold": 35000,
+      "MinPriceThreshold": 14000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SavageSNO_RearBag",
+        "SavageSNO_RearBag",
+        "HeadlightH7",
+        "HeadlightH7",
+        "CarBattery",
+        "SparkPlug"
+      ],
+      "Variants": [
+        "SavageSherpa_red",
+        "SavageSherpa_purple",
+        "SavageSherpa_mint",
+        "SavageSherpa_green",
+        "SavageSherpa_brown",
+        "SavageSherpa_blue",
+        "SavageSherpa_pink",
+        "SavageSherpa_black",
+        "SavageSherpa_yellow"
+      ]
+    },
+    {
+      "ClassName": "SavageSherpa_sport_black",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 16000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "HeadlightH7",
+        "HeadlightH7",
+        "CarBattery",
+        "SparkPlug"
+      ],
+      "Variants": [
+        "SavageSherpa_sport_yellow",
+        "SavageSherpa_sport_red",
+        "SavageSherpa_sport_purple",
+        "SavageSherpa_sport_mint",
+        "SavageSherpa_sport_green",
+        "SavageSherpa_sport_brown",
+        "SavageSherpa_sport_blue",
+        "SavageSherpa_sport_pink"
+      ]
+    }
+  ]
 }

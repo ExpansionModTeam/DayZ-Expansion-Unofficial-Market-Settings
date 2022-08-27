@@ -1,129 +1,136 @@
 {
-    "m_Version": 9,
-    "DisplayName": "CZ Volkswagen Golf Parts",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
-            "ClassName": "Golf_Driver",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Golf_Driver_Black",
-				"Golf_Driver_Blue",
-				"Golf_Driver_Redwine",
-				"Golf_Driver_White",
-				"Golf_Driver_Carbon"
-			]
-        },
-		{
-            "ClassName": "Golf_CoDriver",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Golf_CoDriver_Black",
-				"Golf_CoDriver_Blue",
-				"Golf_CoDriver_Redwine",
-				"Golf_CoDriver_White",
-				"Golf_CoDriver_Carbon"
-			]
-        },
-		{
-            "ClassName": "Golf_Doorbackright",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Golf_Doorbackright_Black",
-				"Golf_Doorbackright_Blue",
-				"Golf_Doorbackright_Redwine",
-				"Golf_Doorbackright_White",
-				"Golf_Doorbackright_Carbon"
-			]
-        },
-		{
-            "ClassName": "Golf_Doorbackleft",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Golf_Doorbackleft_Black",
-				"Golf_Doorbackleft_Blue",
-				"Golf_Doorbackleft_Redwine",
-				"Golf_Doorbackleft_White",
-				"Golf_Doorbackleft_Carbon"
-			]
-        },
-		{
-            "ClassName": "Golf_Trunk",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Golf_Trunk_Black",
-				"Golf_Trunk_Blue",
-				"Golf_Trunk_Redwine",
-				"Golf_Trunk_White",
-				"Golf_Trunk_Carbon"
-			]
-        },
-		{
-            "ClassName": "Golf_Hood",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Golf_Hood_Black",
-				"Golf_Hood_Blue",
-				"Golf_Hood_Redwine",
-				"Golf_Hood_White",
-				"Golf_Hood_Carbon"
-			]
-        },
-		{
-            "ClassName": "Golf_Wheel",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"Golf_Wheel_Blue",
-				"Golf_Wheel_Chrome_Red",
-				"Golf_Wheel_Devil_Red",
-				"Golf_Wheel_Devil_Red_1",
-				"Golf_Wheel_Spilled_Red",
-				"Golf_Wheel_Pulsing_Pink"
-			]
-        }
-    ]
+  "m_Version": 9,
+  "DisplayName": "CZ Volkswagen Golf Parts",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Golf_Driver",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Golf_Driver_Black",
+        "Golf_Driver_Blue",
+        "Golf_Driver_Redwine",
+        "Golf_Driver_White",
+        "Golf_Driver_Carbon"
+      ]
+    },
+    {
+      "ClassName": "Golf_CoDriver",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Golf_CoDriver_Black",
+        "Golf_CoDriver_Blue",
+        "Golf_CoDriver_Redwine",
+        "Golf_CoDriver_White",
+        "Golf_CoDriver_Carbon"
+      ]
+    },
+    {
+      "ClassName": "Golf_Doorbackright",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Golf_Doorbackright_Black",
+        "Golf_Doorbackright_Blue",
+        "Golf_Doorbackright_Redwine",
+        "Golf_Doorbackright_White",
+        "Golf_Doorbackright_Carbon"
+      ]
+    },
+    {
+      "ClassName": "Golf_Doorbackleft",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Golf_Doorbackleft_Black",
+        "Golf_Doorbackleft_Blue",
+        "Golf_Doorbackleft_Redwine",
+        "Golf_Doorbackleft_White",
+        "Golf_Doorbackleft_Carbon"
+      ]
+    },
+    {
+      "ClassName": "Golf_Trunk",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Golf_Trunk_Black",
+        "Golf_Trunk_Blue",
+        "Golf_Trunk_Redwine",
+        "Golf_Trunk_White",
+        "Golf_Trunk_Carbon"
+      ]
+    },
+    {
+      "ClassName": "Golf_Hood",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Golf_Hood_Black",
+        "Golf_Hood_Blue",
+        "Golf_Hood_Redwine",
+        "Golf_Hood_White",
+        "Golf_Hood_Carbon"
+      ]
+    },
+    {
+      "ClassName": "Golf_Wheel",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Golf_Wheel_Blue",
+        "Golf_Wheel_Chrome_Red",
+        "Golf_Wheel_Devil_Red",
+        "Golf_Wheel_Devil_Red_1",
+        "Golf_Wheel_Spilled_Red",
+        "Golf_Wheel_Pulsing_Pink"
+      ]
+    }
+  ]
 }

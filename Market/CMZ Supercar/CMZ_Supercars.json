@@ -1,19 +1,20 @@
 {
-    "m_Version": 9,
-    "DisplayName": "CMZ Supercars",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
-            "ClassName": "CrSk_Lamborghini_Veneno",
-            "MaxPriceThreshold": 280000,
-            "MinPriceThreshold": 140000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+	"m_Version": 9,
+	"DisplayName": "CMZ Supercars",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{
+			"ClassName": "CrSk_Lamborghini_Veneno",
+			"MaxPriceThreshold": 280000,
+			"MinPriceThreshold": 140000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"LamboVeneno_koleso",
 				"LamboVeneno_koleso",
 				"LamboVeneno_koleso",
@@ -27,19 +28,20 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "CrSk_McLaren_720S",
-            "MaxPriceThreshold": 280000,
-            "MinPriceThreshold": 140000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "McLaren720s_koleso",
+			"ClassName": "CrSk_McLaren_720S",
+			"MaxPriceThreshold": 280000,
+			"MinPriceThreshold": 140000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"McLaren720s_koleso",
 				"McLaren720s_koleso",
 				"McLaren720s_koleso",
 				"McLaren720s_koleso",
@@ -52,23 +54,24 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": [
+			],
+			"Variants": [
 				"CrSk_McLaren_720S_Gold",
 				"CrSk_McLaren_720S_Chrome",
 				"CrSk_McLaren_720S_Pink"
 			]
-        },
+		},
 		{
-            "ClassName": "CrSk_McLaren_720S_Gold",
-            "MaxPriceThreshold": 280000,
-            "MinPriceThreshold": 140000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "McLaren720s_koleso",
+			"ClassName": "CrSk_McLaren_720S_Gold",
+			"MaxPriceThreshold": 280000,
+			"MinPriceThreshold": 140000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"McLaren720s_koleso",
 				"McLaren720s_koleso",
 				"McLaren720s_koleso",
 				"McLaren720s_koleso",
@@ -81,19 +84,20 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "CrSk_McLaren_720S_Chrome",
-            "MaxPriceThreshold": 280000,
-            "MinPriceThreshold": 140000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "McLaren720s_koleso",
+			"ClassName": "CrSk_McLaren_720S_Chrome",
+			"MaxPriceThreshold": 280000,
+			"MinPriceThreshold": 140000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"McLaren720s_koleso",
 				"McLaren720s_koleso",
 				"McLaren720s_koleso",
 				"McLaren720s_koleso",
@@ -106,19 +110,20 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "CrSk_McLaren_720S_Pink",
-            "MaxPriceThreshold": 280000,
-            "MinPriceThreshold": 140000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "McLaren720s_koleso",
+			"ClassName": "CrSk_McLaren_720S_Pink",
+			"MaxPriceThreshold": 280000,
+			"MinPriceThreshold": 140000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"McLaren720s_koleso",
 				"McLaren720s_koleso",
 				"McLaren720s_koleso",
 				"McLaren720s_koleso",
@@ -131,19 +136,20 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "Crsk_Pagani_Huayra",
-            "MaxPriceThreshold": 280000,
-            "MinPriceThreshold": 140000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "PHuayra_koleso",
+			"ClassName": "Crsk_Pagani_Huayra",
+			"MaxPriceThreshold": 280000,
+			"MinPriceThreshold": 140000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"PHuayra_koleso",
 				"PHuayra_koleso",
 				"PHuayra_koleso",
 				"PHuayra_koleso",
@@ -156,23 +162,24 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": [
+			],
+			"Variants": [
 				"Crsk_Pagani_Huayra_Pink",
 				"Crsk_Pagani_Huayra_Gold",
 				"Crsk_Pagani_Huayra_Chrome"
 			]
-        },
+		},
 		{
-            "ClassName": "Crsk_Pagani_Huayra_Pink",
-            "MaxPriceThreshold": 280000,
-            "MinPriceThreshold": 140000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "PHuayra_koleso",
+			"ClassName": "Crsk_Pagani_Huayra_Pink",
+			"MaxPriceThreshold": 280000,
+			"MinPriceThreshold": 140000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"PHuayra_koleso",
 				"PHuayra_koleso",
 				"PHuayra_koleso",
 				"PHuayra_koleso",
@@ -185,19 +192,20 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "Crsk_Pagani_Huayra_Gold",
-            "MaxPriceThreshold": 280000,
-            "MinPriceThreshold": 140000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "PHuayra_koleso",
+			"ClassName": "Crsk_Pagani_Huayra_Gold",
+			"MaxPriceThreshold": 280000,
+			"MinPriceThreshold": 140000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"PHuayra_koleso",
 				"PHuayra_koleso",
 				"PHuayra_koleso",
 				"PHuayra_koleso",
@@ -210,19 +218,20 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "Crsk_Pagani_Huayra_Chrome",
-            "MaxPriceThreshold": 280000,
-            "MinPriceThreshold": 140000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "PHuayra_koleso",
+			"ClassName": "Crsk_Pagani_Huayra_Chrome",
+			"MaxPriceThreshold": 280000,
+			"MinPriceThreshold": 140000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"PHuayra_koleso",
 				"PHuayra_koleso",
 				"PHuayra_koleso",
 				"PHuayra_koleso",
@@ -235,19 +244,20 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "Crsk_Ferrari_LaFerrari",
-            "MaxPriceThreshold": 280000,
-            "MinPriceThreshold": 140000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "FLaFerrari_koleso",
+			"ClassName": "Crsk_Ferrari_LaFerrari",
+			"MaxPriceThreshold": 280000,
+			"MinPriceThreshold": 140000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"FLaFerrari_koleso",
 				"FLaFerrari_koleso",
 				"FLaFerrari_koleso",
 				"FLaFerrari_koleso",
@@ -262,23 +272,24 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": [
+			],
+			"Variants": [
 				"Crsk_Ferrari_LaFerrari_Pink",
 				"Crsk_Ferrari_LaFerrari_Gold",
 				"Crsk_Ferrari_LaFerrari_Chrome"
 			]
-        },
+		},
 		{
-            "ClassName": "Crsk_Ferrari_LaFerrari_Pink",
-            "MaxPriceThreshold": 280000,
-            "MinPriceThreshold": 140000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "FLaFerrari_koleso",
+			"ClassName": "Crsk_Ferrari_LaFerrari_Pink",
+			"MaxPriceThreshold": 280000,
+			"MinPriceThreshold": 140000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"FLaFerrari_koleso",
 				"FLaFerrari_koleso",
 				"FLaFerrari_koleso",
 				"FLaFerrari_koleso",
@@ -293,19 +304,20 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "Crsk_Ferrari_LaFerrari_Gold",
-            "MaxPriceThreshold": 280000,
-            "MinPriceThreshold": 140000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "FLaFerrari_koleso",
+			"ClassName": "Crsk_Ferrari_LaFerrari_Gold",
+			"MaxPriceThreshold": 280000,
+			"MinPriceThreshold": 140000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"FLaFerrari_koleso",
 				"FLaFerrari_koleso",
 				"FLaFerrari_koleso",
 				"FLaFerrari_koleso",
@@ -320,19 +332,20 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "Crsk_Ferrari_LaFerrari_Chrome",
-            "MaxPriceThreshold": 280000,
-            "MinPriceThreshold": 140000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "FLaFerrari_koleso",
+			"ClassName": "Crsk_Ferrari_LaFerrari_Chrome",
+			"MaxPriceThreshold": 280000,
+			"MinPriceThreshold": 140000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"FLaFerrari_koleso",
 				"FLaFerrari_koleso",
 				"FLaFerrari_koleso",
 				"FLaFerrari_koleso",
@@ -347,19 +360,20 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "Crsk_Mercedes_G65_AMG_13_LMZ",
-            "MaxPriceThreshold": 280000,
-            "MinPriceThreshold": 140000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "G65AMG13_koleso",
+			"ClassName": "Crsk_Mercedes_G65_AMG_13_LMZ",
+			"MaxPriceThreshold": 280000,
+			"MinPriceThreshold": 140000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"G65AMG13_koleso",
 				"G65AMG13_koleso",
 				"G65AMG13_koleso",
 				"G65AMG13_koleso",
@@ -376,8 +390,8 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": [
+			],
+			"Variants": [
 				"Crsk_Mercedes_G65_AMG_13_LMZ_green",
 				"Crsk_Mercedes_G65_AMG_13_LMZ_green1",
 				"Crsk_Mercedes_G65_AMG_13_LMZ_green2",
@@ -385,18 +399,19 @@
 				"Crsk_Mercedes_G65_AMG_13_LMZ_white",
 				"Crsk_Mercedes_G65_AMG_13_LMZ_white2",
 				"Crsk_Mercedes_G65_AMG_13_LMZ_white3"
-				]
-        },
+			]
+		},
 		{
-            "ClassName": "Crsk_Mercedes_G65_AMG_13_LMZ_green",
-            "MaxPriceThreshold": 280000,
-            "MinPriceThreshold": 140000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "G65AMG13_koleso",
+			"ClassName": "Crsk_Mercedes_G65_AMG_13_LMZ_green",
+			"MaxPriceThreshold": 280000,
+			"MinPriceThreshold": 140000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"G65AMG13_koleso",
 				"G65AMG13_koleso",
 				"G65AMG13_koleso",
 				"G65AMG13_koleso",
@@ -413,19 +428,20 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "Crsk_Mercedes_G65_AMG_13_LMZ_green1",
-            "MaxPriceThreshold": 280000,
-            "MinPriceThreshold": 140000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "G65AMG13_koleso",
+			"ClassName": "Crsk_Mercedes_G65_AMG_13_LMZ_green1",
+			"MaxPriceThreshold": 280000,
+			"MinPriceThreshold": 140000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"G65AMG13_koleso",
 				"G65AMG13_koleso",
 				"G65AMG13_koleso",
 				"G65AMG13_koleso",
@@ -442,19 +458,20 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "Crsk_Mercedes_G65_AMG_13_LMZ_green2",
-            "MaxPriceThreshold": 280000,
-            "MinPriceThreshold": 140000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "G65AMG13_koleso",
+			"ClassName": "Crsk_Mercedes_G65_AMG_13_LMZ_green2",
+			"MaxPriceThreshold": 280000,
+			"MinPriceThreshold": 140000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"G65AMG13_koleso",
 				"G65AMG13_koleso",
 				"G65AMG13_koleso",
 				"G65AMG13_koleso",
@@ -471,19 +488,20 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "Crsk_Mercedes_G65_AMG_13_LMZ_pink",
-            "MaxPriceThreshold": 280000,
-            "MinPriceThreshold": 140000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "G65AMG13_koleso",
+			"ClassName": "Crsk_Mercedes_G65_AMG_13_LMZ_pink",
+			"MaxPriceThreshold": 280000,
+			"MinPriceThreshold": 140000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"G65AMG13_koleso",
 				"G65AMG13_koleso",
 				"G65AMG13_koleso",
 				"G65AMG13_koleso",
@@ -500,19 +518,20 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "Crsk_Mercedes_G65_AMG_13_LMZ_white",
-            "MaxPriceThreshold": 280000,
-            "MinPriceThreshold": 140000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "G65AMG13_koleso",
+			"ClassName": "Crsk_Mercedes_G65_AMG_13_LMZ_white",
+			"MaxPriceThreshold": 280000,
+			"MinPriceThreshold": 140000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"G65AMG13_koleso",
 				"G65AMG13_koleso",
 				"G65AMG13_koleso",
 				"G65AMG13_koleso",
@@ -529,19 +548,20 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "Crsk_Mercedes_G65_AMG_13_LMZ_white2",
-            "MaxPriceThreshold": 280000,
-            "MinPriceThreshold": 140000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "G65AMG13_koleso",
+			"ClassName": "Crsk_Mercedes_G65_AMG_13_LMZ_white2",
+			"MaxPriceThreshold": 280000,
+			"MinPriceThreshold": 140000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"G65AMG13_koleso",
 				"G65AMG13_koleso",
 				"G65AMG13_koleso",
 				"G65AMG13_koleso",
@@ -558,19 +578,20 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "Crsk_Mercedes_G65_AMG_13_LMZ_white3",
-            "MaxPriceThreshold": 280000,
-            "MinPriceThreshold": 140000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "G65AMG13_koleso",
+			"ClassName": "Crsk_Mercedes_G65_AMG_13_LMZ_white3",
+			"MaxPriceThreshold": 280000,
+			"MinPriceThreshold": 140000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 4,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
+				"G65AMG13_koleso",
 				"G65AMG13_koleso",
 				"G65AMG13_koleso",
 				"G65AMG13_koleso",
@@ -587,9 +608,8 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        }
-       
-    ]
+			],
+			"Variants": []
+		}
+	]
 }

@@ -1,19 +1,20 @@
 {
-    "m_Version": 9,
-    "DisplayName": "CZ Volkswagen Golf Parts",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
-            "ClassName": "VWGolf",
-            "MaxPriceThreshold": 55000,
-            "MinPriceThreshold": 75000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+	"m_Version": 9,
+	"DisplayName": "CZ Volkswagen Golf Parts",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{
+			"ClassName": "VWGolf",
+			"MaxPriceThreshold": 55000,
+			"MinPriceThreshold": 75000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"SparkPlug",
 				"CarBattery",
 				"CarRadiator",
@@ -30,24 +31,25 @@
 				"Golf_Wheel",
 				"Golf_Wheel",
 				"Golf_Wheel"
-            ],
-            "Variants": [
+			],
+			"Variants": [
 				"VWGolf_Black",
 				"VWGolf_Blue",
 				"VWGolf_Redwine",
 				"VWGolf_White",
 				"VWGolf_Carbon"
 			]
-        },
+		},
 		{
-            "ClassName": "VWGolf_Black",
-            "MaxPriceThreshold": 55000,
-            "MinPriceThreshold": 75000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+			"ClassName": "VWGolf_Black",
+			"MaxPriceThreshold": 55000,
+			"MinPriceThreshold": 75000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"SparkPlug",
 				"CarBattery",
 				"CarRadiator",
@@ -64,18 +66,19 @@
 				"Golf_Wheel",
 				"Golf_Wheel",
 				"Golf_Wheel"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "VWGolf_Blue",
-            "MaxPriceThreshold": 55000,
-            "MinPriceThreshold": 75000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+			"ClassName": "VWGolf_Blue",
+			"MaxPriceThreshold": 55000,
+			"MinPriceThreshold": 75000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"SparkPlug",
 				"CarBattery",
 				"CarRadiator",
@@ -92,18 +95,19 @@
 				"Golf_Wheel",
 				"Golf_Wheel",
 				"Golf_Wheel"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "VWGolf_Redwine",
-            "MaxPriceThreshold": 55000,
-            "MinPriceThreshold": 75000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+			"ClassName": "VWGolf_Redwine",
+			"MaxPriceThreshold": 55000,
+			"MinPriceThreshold": 75000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"SparkPlug",
 				"CarBattery",
 				"CarRadiator",
@@ -120,18 +124,19 @@
 				"Golf_Wheel",
 				"Golf_Wheel",
 				"Golf_Wheel"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "VWGolf_White",
-            "MaxPriceThreshold": 55000,
-            "MinPriceThreshold": 75000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+			"ClassName": "VWGolf_White",
+			"MaxPriceThreshold": 55000,
+			"MinPriceThreshold": 75000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"SparkPlug",
 				"CarBattery",
 				"CarRadiator",
@@ -148,18 +153,19 @@
 				"Golf_Wheel",
 				"Golf_Wheel",
 				"Golf_Wheel"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
-            "ClassName": "VWGolf_Carbon",
-            "MaxPriceThreshold": 55000,
-            "MinPriceThreshold": 75000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
+			"ClassName": "VWGolf_Carbon",
+			"MaxPriceThreshold": 55000,
+			"MinPriceThreshold": 75000,
+			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [
 				"SparkPlug",
 				"CarBattery",
 				"CarRadiator",
@@ -176,8 +182,8 @@
 				"Golf_Wheel",
 				"Golf_Wheel",
 				"Golf_Wheel"
-            ],
-            "Variants": []
-        }
-    ]
+			],
+			"Variants": []
+		}
+	]
 }

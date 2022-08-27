@@ -1,152 +1,161 @@
 {
-    "m_Version": 9,
-    "DisplayName": "Blackout's Corvette Parts",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
-            "ClassName": "vg7_wheel",
-            "MaxPriceThreshold": 350,
-            "MinPriceThreshold": 140,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "vg7_L_Door",
-            "MaxPriceThreshold": 350,
-            "MinPriceThreshold": 140,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"vg7_L_Door_Blue",
-				"vg7_L_Door_Gold",
-				"vg7_L_Door_Green",
-				"vg7_L_Door_Maroon",
-				"vg7_L_Door_Purple",
-				"vg7_L_Door_Red"
-			]
-        },
-		{
-            "ClassName": "vg7_R_Door",
-            "MaxPriceThreshold": 350,
-            "MinPriceThreshold": 140,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"vg7_R_Door_Blue",
-				"vg7_R_Door_Gold",
-				"vg7_R_Door_Green",
-				"vg7_R_Door_Maroon",
-				"vg7_R_Door_Purple",
-				"vg7_R_Door_Red"
-			]
-        },
-		{
-            "ClassName": "vg7_L_Cargo_Door",
-            "MaxPriceThreshold": 350,
-            "MinPriceThreshold": 140,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"vg7_L_Cargo_Door_Blue",
-				"vg7_L_Cargo_Door_Gold",
-				"vg7_L_Cargo_Door_Green",
-				"vg7_L_Cargo_Door_Maroon",
-				"vg7_L_Cargo_Door_Purple",
-				"vg7_L_Cargo_Door_Red"
-			]
-        },
-		{
-            "ClassName": "vg7_R_Cargo_Door",
-            "MaxPriceThreshold": 350,
-            "MinPriceThreshold": 140,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"vg7_R_Cargo_Door_Blue",
-				"vg7_R_Cargo_Door_Gold",
-				"vg7_R_Cargo_Door_Green",
-				"vg7_R_Cargo_Door_Maroon",
-				"vg7_R_Cargo_Door_Purple",
-				"vg7_R_Cargo_Door_Red"
-			]
-        },
-		{
-            "ClassName": "vg7_H_Door",
-            "MaxPriceThreshold": 350,
-            "MinPriceThreshold": 140,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"vg7_H_Door_Blue",
-				"vg7_H_Door_Gold",
-				"vg7_H_Door_Green",
-				"vg7_H_Door_Maroon",
-				"vg7_H_Door_Purple",
-				"vg7_H_Door_Red"
-			]
-        },
-		{
-            "ClassName": "vg7_DryBag_Black",
-            "MaxPriceThreshold": 350,
-            "MinPriceThreshold": 140,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"vg7_DryBag_Red",
-				"vg7_DryBag_White",
-				"vg7_DryBag_Green",
-				"vg7_DryBag_Blue",
-				"vg7_DryBag_Yellow",
-				"vg7_DryBag_Orange",
-				"vg7_DryBag_Pink",
-				"vg7_DryBag_Purple"
-			]
-        },
-		{
-            "ClassName": "vg7_Roof_Rack",
-            "MaxPriceThreshold": 350,
-            "MinPriceThreshold": 140,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "vg7_Roof_Rack_2",
-            "MaxPriceThreshold": 15000,
-            "MinPriceThreshold": 12000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        }
-    ]
+  "m_Version": 9,
+  "DisplayName": "Blackout's Corvette Parts",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "vg7_wheel",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 140,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "vg7_L_Door",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 140,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "vg7_L_Door_Blue",
+        "vg7_L_Door_Gold",
+        "vg7_L_Door_Green",
+        "vg7_L_Door_Maroon",
+        "vg7_L_Door_Purple",
+        "vg7_L_Door_Red"
+      ]
+    },
+    {
+      "ClassName": "vg7_R_Door",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 140,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "vg7_R_Door_Blue",
+        "vg7_R_Door_Gold",
+        "vg7_R_Door_Green",
+        "vg7_R_Door_Maroon",
+        "vg7_R_Door_Purple",
+        "vg7_R_Door_Red"
+      ]
+    },
+    {
+      "ClassName": "vg7_L_Cargo_Door",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 140,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "vg7_L_Cargo_Door_Blue",
+        "vg7_L_Cargo_Door_Gold",
+        "vg7_L_Cargo_Door_Green",
+        "vg7_L_Cargo_Door_Maroon",
+        "vg7_L_Cargo_Door_Purple",
+        "vg7_L_Cargo_Door_Red"
+      ]
+    },
+    {
+      "ClassName": "vg7_R_Cargo_Door",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 140,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "vg7_R_Cargo_Door_Blue",
+        "vg7_R_Cargo_Door_Gold",
+        "vg7_R_Cargo_Door_Green",
+        "vg7_R_Cargo_Door_Maroon",
+        "vg7_R_Cargo_Door_Purple",
+        "vg7_R_Cargo_Door_Red"
+      ]
+    },
+    {
+      "ClassName": "vg7_H_Door",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 140,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "vg7_H_Door_Blue",
+        "vg7_H_Door_Gold",
+        "vg7_H_Door_Green",
+        "vg7_H_Door_Maroon",
+        "vg7_H_Door_Purple",
+        "vg7_H_Door_Red"
+      ]
+    },
+    {
+      "ClassName": "vg7_DryBag_Black",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 140,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "vg7_DryBag_Red",
+        "vg7_DryBag_White",
+        "vg7_DryBag_Green",
+        "vg7_DryBag_Blue",
+        "vg7_DryBag_Yellow",
+        "vg7_DryBag_Orange",
+        "vg7_DryBag_Pink",
+        "vg7_DryBag_Purple"
+      ]
+    },
+    {
+      "ClassName": "vg7_Roof_Rack",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 140,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "vg7_Roof_Rack_2",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 12000,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
 }

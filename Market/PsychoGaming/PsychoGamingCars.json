@@ -1,19 +1,20 @@
 {
-    "m_Version": 9,
-    "DisplayName": "PsychoGaming Cars",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 100.0,
-    "Items": [
-        {
+	"m_Version": 9,
+	"DisplayName": "PsychoGaming Cars",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 100.0,
+	"Items": [
+		{
 			"ClassName": "gglaw_bus",
 			"MaxPriceThreshold": 280000,
 			"MinPriceThreshold": 140000,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [
+			"SpawnAttachments": [
 				"BusPsychoWheel_offroad",
 				"BusPsychoWheel_offroad",
 				"BusPsychoWheel_offroad",
@@ -24,19 +25,20 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
 			"ClassName": "CrSk_Mitsubishi_Lancer_Evo_X",
 			"MaxPriceThreshold": 280000,
 			"MinPriceThreshold": 140000,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [
-                "LancerEvoX_koleso",
+			"SpawnAttachments": [
+				"LancerEvoX_koleso",
 				"LancerEvoX_koleso",
 				"LancerEvoX_koleso",
 				"LancerEvoX_koleso",
@@ -54,19 +56,20 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
 			"ClassName": "CrSk_Nissan_Skyline_GTR_BNR34",
 			"MaxPriceThreshold": 280000,
 			"MinPriceThreshold": 140000,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [
-                "SkylineBNR34_koleso",
+			"SpawnAttachments": [
+				"SkylineBNR34_koleso",
 				"SkylineBNR34_koleso",
 				"SkylineBNR34_koleso",
 				"SkylineBNR34_koleso",
@@ -80,19 +83,20 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
 			"ClassName": "CrSk_Ford_Bronco_Offroad_86",
 			"MaxPriceThreshold": 280000,
 			"MinPriceThreshold": 140000,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [
-                "BroncoOff86_koleso",
+			"SpawnAttachments": [
+				"BroncoOff86_koleso",
 				"BroncoOff86_koleso",
 				"BroncoOff86_koleso",
 				"BroncoOff86_koleso",
@@ -106,19 +110,20 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
 			"ClassName": "CrSk_Chevrolet_Tahoe_08",
 			"MaxPriceThreshold": 280000,
 			"MinPriceThreshold": 140000,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [
-                "ChevyTahoe08_koleso",
+			"SpawnAttachments": [
+				"ChevyTahoe08_koleso",
 				"ChevyTahoe08_koleso",
 				"ChevyTahoe08_koleso",
 				"ChevyTahoe08_koleso",
@@ -135,20 +140,21 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": [
+			],
+			"Variants": [
 				"CrSk_Chevrolet_Tahoe_08_Police"
 			]
-        },
+		},
 		{
 			"ClassName": "CrSk_Chevrolet_Tahoe_08_Police",
 			"MaxPriceThreshold": 280000,
 			"MinPriceThreshold": 140000,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [
+			"SpawnAttachments": [
 				"ChevyTahoe08_koleso",
 				"ChevyTahoe08_koleso",
 				"ChevyTahoe08_koleso",
@@ -166,18 +172,19 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
 			"ClassName": "gglaw_f150Psycho",
 			"MaxPriceThreshold": 280000,
 			"MinPriceThreshold": 140000,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [
+			"SpawnAttachments": [
 				"f150PsychoWheel_offroad",
 				"f150PsychoWheel_offroad",
 				"f150PsychoWheel_offroad",
@@ -193,22 +200,23 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": [
+			],
+			"Variants": [
 				"gglaw_f150Psycho_black",
 				"gglaw_f150Psycho_pink",
 				"gglaw_f150Psycho_green"
-				]
-        },
+			]
+		},
 		{
 			"ClassName": "gglaw_f150Psycho_black",
 			"MaxPriceThreshold": 280000,
 			"MinPriceThreshold": 140000,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [
+			"SpawnAttachments": [
 				"f150PsychoWheel_offroad",
 				"f150PsychoWheel_offroad",
 				"f150PsychoWheel_offroad",
@@ -224,18 +232,19 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
 			"ClassName": "gglaw_f150Psycho_pink",
 			"MaxPriceThreshold": 280000,
 			"MinPriceThreshold": 140000,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [
+			"SpawnAttachments": [
 				"f150PsychoWheel_offroad",
 				"f150PsychoWheel_offroad",
 				"f150PsychoWheel_offroad",
@@ -251,18 +260,19 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
 			"ClassName": "gglaw_f150Psycho_green",
 			"MaxPriceThreshold": 280000,
 			"MinPriceThreshold": 140000,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [
+			"SpawnAttachments": [
 				"f150PsychoWheel_offroad",
 				"f150PsychoWheel_offroad",
 				"f150PsychoWheel_offroad",
@@ -278,19 +288,20 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        },
+			],
+			"Variants": []
+		},
 		{
 			"ClassName": "GGlaw_Buggy",
 			"MaxPriceThreshold": 280000,
 			"MinPriceThreshold": 140000,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [
-                "BuggyPsychoWheel_offroad",
+			"SpawnAttachments": [
+				"BuggyPsychoWheel_offroad",
 				"BuggyPsychoWheel_offroad",
 				"BuggyPsychoWheelDouble_offroad",
 				"BuggyPsychoWheelDouble_offroad",
@@ -299,22 +310,23 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": [
+			],
+			"Variants": [
 				"GGlaw_Buggy_black",
 				"GGlaw_Buggy_pink",
 				"GGlaw_Buggy_green"
 			]
-        },
+		},
 		{
 			"ClassName": "GGlaw_amc",
 			"MaxPriceThreshold": 280000,
 			"MinPriceThreshold": 140000,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [
+			"SpawnAttachments": [
 				"AMCPsychoWheel_offroad",
 				"AMCPsychoWheel_offroad",
 				"AMCPsychoWheel_offroad",
@@ -328,22 +340,23 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": [
+			],
+			"Variants": [
 				"GGlaw_amc_black",
 				"GGlaw_amc_pink",
 				"GGlaw_amc_green"
-				]
-        }, 
+			]
+		},
 		{
 			"ClassName": "GGlaw_amc_black",
 			"MaxPriceThreshold": 280000,
 			"MinPriceThreshold": 140000,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [
+			"SpawnAttachments": [
 				"AMCPsychoWheel_offroad",
 				"AMCPsychoWheel_offroad",
 				"AMCPsychoWheel_offroad",
@@ -357,18 +370,19 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        }, 
+			],
+			"Variants": []
+		},
 		{
 			"ClassName": "GGlaw_amc_pink",
 			"MaxPriceThreshold": 280000,
 			"MinPriceThreshold": 140000,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [
+			"SpawnAttachments": [
 				"AMCPsychoWheel_offroad",
 				"AMCPsychoWheel_offroad",
 				"AMCPsychoWheel_offroad",
@@ -382,18 +396,19 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        }, 
+			],
+			"Variants": []
+		},
 		{
 			"ClassName": "GGlaw_amc_green",
 			"MaxPriceThreshold": 280000,
 			"MinPriceThreshold": 140000,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 4,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-            "SpawnAttachments": [
+			"SpawnAttachments": [
 				"AMCPsychoWheel_offroad",
 				"AMCPsychoWheel_offroad",
 				"AMCPsychoWheel_offroad",
@@ -407,8 +422,8 @@
 				"CarBattery",
 				"CarRadiator",
 				"SparkPlug"
-            ],
-            "Variants": []
-        }
-    ]
+			],
+			"Variants": []
+		}
+	]
 }

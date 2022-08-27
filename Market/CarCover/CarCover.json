@@ -1,42 +1,45 @@
 {
-    "m_Version": 9,
-    "DisplayName": "Car Covers",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
-    "Items": [
-		{
-            "ClassName": "CamonetWinter",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 75,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-{
-            "ClassName": "CamonetDesert",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 75,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-{
-            "ClassName": "CamonetCivil",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 75,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        }		
-    ]
+  "m_Version": 9,
+  "DisplayName": "Car Covers",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "CamonetWinter",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 75,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "CamonetDesert",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 75,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "CamonetCivil",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 75,
+      "SellPricePercent": -1,
+      "m_SellPricePercent": -16512,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
 }

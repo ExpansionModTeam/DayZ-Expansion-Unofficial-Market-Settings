@@ -10,6 +10,7 @@
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 500,
 			"SellPricePercent": -1,
+"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
