@@ -1,0 +1,31 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Dog Houses",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "dog_shed_small_kit",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 9500,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "dog_shed_big_kit",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 12000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

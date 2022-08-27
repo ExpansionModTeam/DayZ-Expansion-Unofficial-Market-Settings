@@ -1,0 +1,130 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Brollic Johnsons Giftboxes",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+       	{
+            "ClassName": "ArrakisDildoPresentPink",
+            "MaxPriceThreshold": 69420,
+            "MinPriceThreshold": 69420,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 69,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 100,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "ArrakisDildoPresentBlack",
+            "MaxPriceThreshold": 69420,
+            "MinPriceThreshold": 69420,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 69,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 100,
+            "SpawnAttachments": [],
+            "Variants": []
+        }, 
+		{
+            "ClassName": "ArrakisDildoPresentBrown",
+            "MaxPriceThreshold": 69420,
+            "MinPriceThreshold": 69420,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 69,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 100,
+            "SpawnAttachments": [],
+            "Variants": []
+        }, 
+		{
+            "ClassName": "ArrakisDildoPresentDoughnut",
+            "MaxPriceThreshold": 69420,
+            "MinPriceThreshold": 69420,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 69,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 100,
+            "SpawnAttachments": [],
+            "Variants": []
+        }, 
+		{
+            "ClassName": "ArrakisDildoPresentOil",
+            "MaxPriceThreshold": 69420,
+            "MinPriceThreshold": 69420,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 69,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 100,
+            "SpawnAttachments": [],
+            "Variants": []
+        }, 
+		{
+            "ClassName": "ArrakisDildoPresentRainbow",
+            "MaxPriceThreshold": 69420,
+            "MinPriceThreshold": 69420,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 69,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 100,
+            "SpawnAttachments": [],
+            "Variants": []
+        }, 
+		{
+            "ClassName": "ArrakisDildoPresentXMas1",
+            "MaxPriceThreshold": 69420,
+            "MinPriceThreshold": 69420,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 69,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 100,
+            "SpawnAttachments": [],
+            "Variants": []
+        }, 
+		{
+            "ClassName": "ArrakisDildoPresentXMas2",
+            "MaxPriceThreshold": 69420,
+            "MinPriceThreshold": 69420,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 69,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 100,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "ArrakisDildoPresentPeppermint",
+            "MaxPriceThreshold": 69420,
+            "MinPriceThreshold": 69420,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 69,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 100,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "ArrakisDildoPresentGold",
+            "MaxPriceThreshold": 1069420,
+            "MinPriceThreshold": 1069420,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 69,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 100,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "ArrakisSoapPresent",
+            "MaxPriceThreshold": 69420,
+            "MinPriceThreshold": 69420,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 69,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 100,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
