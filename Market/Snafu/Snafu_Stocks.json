@@ -1,108 +1,117 @@
 {
 	"m_Version": 9,
-	"DisplayName":"Snafu Stocks",
-	"Icon":"Deliver",
-	"Color":"FBFCFEFF",
-	"InitStockPercent":75.0,
-	"Items":[
+	"DisplayName": "Snafu Stocks",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
 		{
 			"ClassName": "SA58_Stock",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_AK_AR_Stock",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_M4SS_Stock",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_MOE_Stock",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_PRSGen3_Stock",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_SCQR_Stock",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_SADAR_Stock",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_SBA_Stock",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_UBR_Stock",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		}
 	]
 }

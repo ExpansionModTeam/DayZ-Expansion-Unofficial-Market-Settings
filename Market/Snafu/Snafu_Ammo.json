@@ -1,174 +1,190 @@
 {
 	"m_Version": 9,
-	"DisplayName":"Snafu Ammo",
-	"Icon":"Deliver",
-	"Color":"FBFCFEFF",
-	"InitStockPercent":75.0,
-	"Items":[
+	"DisplayName": "Snafu Ammo",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
 		{
 			"ClassName": "GCGN_Ammo_3006",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_Ammo_300ACC",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "GCGN_Ammo_762x51",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_Ammo_46x30",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_Ammo_5_7x28mm",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_Ammo_127x55mm",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_Ammo_45_70mm",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_Ammo_500_SW",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_Ammo_145Cal",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_MD_Ammo_556x45mm_M855A1",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_Ammo_762x25",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_Ammo_44",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "GCGN_Ammo_50Cal",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_Ammo_338",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "GCGN_Ammo_408Chey",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		}
 	]
 }

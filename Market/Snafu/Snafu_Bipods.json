@@ -1,64 +1,69 @@
 {
 	"m_Version": 9,
-	"DisplayName":"Snafu Bipods",
-	"Icon":"Deliver",
-	"Color":"FBFCFEFF",
-	"InitStockPercent":75.0,
-	"Items":[
+	"DisplayName": "Snafu Bipods",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
 		{
 			"ClassName": "SNAFU_Bipod",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_PKPBIPOD",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_NPKPBIPOD",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_AtlasBipod",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		},
 		{
 			"ClassName": "SNAFU_ModBipod",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
+			"m_SellPricePercent": -16512,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
+			"SpawnAttachments": [],
+			"Variants": []
 		}
 	]
 }
