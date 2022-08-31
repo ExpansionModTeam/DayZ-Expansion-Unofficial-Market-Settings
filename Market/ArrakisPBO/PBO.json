@@ -1,0 +1,20 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Repackable Repack",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+       	{
+            "ClassName": "ArrakisPBO",
+            "MaxPriceThreshold": 69420,
+            "MinPriceThreshold": 69420,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 69,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 100,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
