@@ -1,8 +1,8 @@
 {
 	"m_Version": 9,
 	"DisplayName":"Morty Mags",
-	"Icon":"Deliver",
-	"Color":"FBFCFEFF",
+	"Icon":"Gun Bullets",
+	"Color":"e97b40",
 	"InitStockPercent":75.0,
 	"Items":[
 		{
@@ -118,17 +118,6 @@
 			"Variants":[]
 		},
 		{
-			"ClassName": "SNAFU_PL14HQP_Mag",
-			"MaxPriceThreshold": 500,
-			"MinPriceThreshold": 400,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
-		},
-		{
 			"ClassName": "TTC_DMR_556Stanag_30rnd_Digitan",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
@@ -205,7 +194,7 @@
 			"TTC_DMR_556Pmag_40rnd_camo",
 			"TTC_DMR_556Pmag_40rnd_Digitan",
 			"TTC_DMR_556Pmag_40rnd_Tan",
-			"TTC_DMR_556Pmag_40rnd_UPC",
+			"TTC_DMR_556Pmag_40rnd_UPC"
 			]
 		},
 		{

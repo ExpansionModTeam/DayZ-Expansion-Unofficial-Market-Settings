@@ -2,7 +2,7 @@
 	"m_Version": 9,
 	"DisplayName":"Morty Ammo",
 	"Icon":"Deliver",
-	"Color":"FBFCFEFF",
+	"Color":"e97b40",
 	"InitStockPercent":75.0,
 	"Items":[
 		{
@@ -150,17 +150,6 @@
 		},
 		{
 			"ClassName": "TTC_Ammo_3006",
-			"MaxPriceThreshold": 500,
-			"MinPriceThreshold": 400,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
-		},
-		{
-			"ClassName": "TTC_AmmoBox_4570_20Rnd",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,

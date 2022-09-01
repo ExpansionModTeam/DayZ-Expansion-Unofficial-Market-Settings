@@ -1,8 +1,8 @@
 {
 	"m_Version": 9,
-	"DisplayName":"Snafu Weapons",
-	"Icon":"Deliver",
-	"Color":"FBFCFEFF",
+	"DisplayName":"Morty Weapons",
+	"Icon":"Gun",
+	"Color":"e97b40",
 	"InitStockPercent":75.0,
 	"Items":[
 		{
@@ -15,9 +15,6 @@
 			"QuantityPercent": -1,
 			"SpawnAttachments":[],
 			"Variants":[
-				"SNAFUKivaari_Tan_GUN",
-				"SNAFUKivaari_Grey_GUN",
-				"SNAFUKivaari_Snow_GUN"
 			]
 		},
 		{
@@ -165,17 +162,6 @@
 		},
 		{
 			"ClassName": "TTC_SG552_Black",
-			"MaxPriceThreshold": 20000,
-			"MinPriceThreshold": 15000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
-		},
-		{
-			"ClassName": "Tec9_Gun",
 			"MaxPriceThreshold": 20000,
 			"MinPriceThreshold": 15000,
 			"SellPricePercent": -1,
@@ -365,17 +351,6 @@
 			"Variants":["TTC_M82_Tan"]
 		},
 		{
-			"ClassName": "M4_6933_Gun",
-			"MaxPriceThreshold": 20000,
-			"MinPriceThreshold": 15000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
-		},
-		{
 			"ClassName": "TTC_HKG28",
 			"MaxPriceThreshold": 20000,
 			"MinPriceThreshold": 15000,
@@ -533,17 +508,6 @@
 		},
 		{
 			"ClassName": "TTC_HK417",
-			"MaxPriceThreshold": 20000,
-			"MinPriceThreshold": 15000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-			"SpawnAttachments":[],
-			"Variants":[]
-		},
-		{
-			"ClassName": "SCAR_Gun",
 			"MaxPriceThreshold": 20000,
 			"MinPriceThreshold": 15000,
 			"SellPricePercent": -1,
