@@ -1,8 +1,9 @@
 {
-    "m_Version": 9,
+    "m_Version": 12,
     "DisplayName": "Tactical Flava Pouch",
     "Icon": "Deliver",
     "Color": "FFD400",
+    "IsExchange": 0,
     "InitStockPercent": 75.0,
     "Items": [
         {

@@ -1,8 +1,9 @@
 {
-    "m_Version": 9,
+    "m_Version": 12,
     "DisplayName": "BASE BUILDING PLUS",
     "Icon": "Hammer",
     "Color": "FBFCFEFF",
+    "IsExchange": 0,
     "InitStockPercent": 50.0,
     "Items": [
         {

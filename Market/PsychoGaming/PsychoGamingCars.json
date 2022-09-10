@@ -1,8 +1,9 @@
 {
-    "m_Version": 9,
+    "m_Version": 12,
     "DisplayName": "PsychoGaming Cars",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
+    "IsExchange": 0,
     "InitStockPercent": 100.0,
     "Items": [
         {

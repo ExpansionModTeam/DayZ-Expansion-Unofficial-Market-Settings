@@ -1,8 +1,9 @@
 {
-    "m_Version": 9,
+    "m_Version": 12,
     "DisplayName": "Repackable Repack",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
+    "IsExchange": 0,
     "InitStockPercent": 75.0,
     "Items": [
        	{
