@@ -82,6 +82,17 @@
             "SpawnAttachments": [],
             "Variants": []
         },
+        {
+            "ClassName": "mmg_wall_shelf_wood",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
 		{
             "ClassName": "mmg_craftable_tent_kit",
             "MaxPriceThreshold": 15000,
