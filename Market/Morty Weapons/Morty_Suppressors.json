@@ -1,0 +1,241 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Morty Suppressors",
+    "Icon": "Deliver",
+    "Color": "e97b40",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "TTC_Universal_Suppressor_BLACK",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_Universal_Suppressor_CAMO",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_Honey_Suppressor",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_Universal_Suppressor_Tan",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_Universal_Suppressor_Snow",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_DMR_Suppressor",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_DMR_AFG",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_DMR_AFG_Green",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_DMR_AFG_Tan",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_DMR_VFG",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_DMR_VFG_Green",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_DMR_VFG_Tan",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_DMR_Bipod",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_M14Suppressor",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_AKMOD_AFG",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_AKMod_Suppressor",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_PistolSuppressor",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_MCX_Spear_Suppressor",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_Universal_Suppressor_TAVOR",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_Universal_Suppressor_TAVOR_Tan",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_MCX_Spear_Suppressor_Black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
