@@ -95,17 +95,6 @@
             "Variants": []
         },
 		{
-            "ClassName": "TTC_AmmoBox_50AE",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 1000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
             "ClassName": "TTC_AmmoBox_4630_20Rnd",
             "MaxPriceThreshold": 400,
             "MinPriceThreshold": 400,
@@ -120,6 +109,17 @@
             "ClassName": "TTC_AmmoBox_792x33_20Rnd",
             "MaxPriceThreshold": 400,
             "MinPriceThreshold": 400,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TTC_AmmoBox_50AE",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,

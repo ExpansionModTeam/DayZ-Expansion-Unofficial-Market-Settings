@@ -29,7 +29,7 @@
             "Variants": []
         },
 		{
-            "ClassName": "TTC_300Cmag",
+            "ClassName": "TTC_338mag_10rnd",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 200,
             "SellPricePercent": -1,
@@ -40,7 +40,18 @@
             "Variants": []
         },
 		{
-            "ClassName": "TTC_338mag_10rnd",
+            "ClassName": "TTC_300Stanag",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TTC_300Cmag",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 200,
             "SellPricePercent": -1,
@@ -76,6 +87,17 @@
             "ClassName": "TTC_50Beo_mag",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TTC_M82_5rnd_Mag",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -196,17 +218,6 @@
 				]
         },
 		{
-            "ClassName": "TTC_M82_5rnd_Mag",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 600,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
             "ClassName": "TTC_M14_Mag_20rnd",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 200,
@@ -262,7 +273,7 @@
             "Variants": []
         },
 		{
-            "ClassName": "TTC_HK417_Magazine_20rnd",
+            "ClassName": "Mag_Kimber1911_10Rnd",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 200,
             "SellPricePercent": -1,
@@ -273,7 +284,7 @@
             "Variants": []
         },
 		{
-            "ClassName": "Mag_Kimber1911_10Rnd",
+            "ClassName": "TTC_HK417_Magazine_20rnd",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 200,
             "SellPricePercent": -1,
@@ -317,6 +328,17 @@
             "Variants": []
         },
 		{
+            "ClassName": "TTC_AG3_Coupled_Magazine_40rnd",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
             "ClassName": "TTC_FAL_Magazine",
             "MaxPriceThreshold": 400,
             "MinPriceThreshold": 400,
@@ -329,17 +351,6 @@
         },
 		{
             "ClassName": "TTC_Coupled_FAL_Magazine",
-            "MaxPriceThreshold": 900,
-            "MinPriceThreshold": 900,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "TTC_AG3_Coupled_Magazine_40rnd",
             "MaxPriceThreshold": 900,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1,
@@ -471,17 +482,6 @@
             "Variants": []
         },
 		{
-            "ClassName": "TTC_MP7A1_Mag_40rnd",
-            "MaxPriceThreshold": 900,
-            "MinPriceThreshold": 900,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
             "ClassName": "TTC_Mag_SVT40_10rnd",
             "MaxPriceThreshold": 900,
             "MinPriceThreshold": 900,
@@ -493,7 +493,40 @@
             "Variants": []
         },
 		{
+            "ClassName": "TTC_MP7A1_Mag_40rnd",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
             "ClassName": "TTC_STG44_Magazine_30rnd",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TTC_BAR_Magazine_20rnd",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TTC_AWM_Magazine_5rnd",
             "MaxPriceThreshold": 900,
             "MinPriceThreshold": 900,
             "SellPricePercent": -1,
@@ -549,17 +582,6 @@
         },
 		{
             "ClassName": "TTC_P320_17Rnd",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "TTC_AWM_Magazine_5rnd",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 200,
             "SellPricePercent": -1,

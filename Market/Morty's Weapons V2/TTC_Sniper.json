@@ -68,6 +68,17 @@
             "Variants": []
         },
 		{
+            "ClassName": "TTC_AWM",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
             "ClassName": "TTC_GEVAR43",
             "MaxPriceThreshold": 80000,
             "MinPriceThreshold": 80000,
@@ -81,17 +92,6 @@
 				"TTC_GEVAR43_Tan",
 				"TTC_GEVAR43_silver"
 				]
-        },
-		{
-            "ClassName": "TTC_AWM",
-            "MaxPriceThreshold": 80000,
-            "MinPriceThreshold": 80000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
         }
     ]
 }

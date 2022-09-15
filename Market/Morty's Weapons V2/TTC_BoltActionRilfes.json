@@ -61,22 +61,8 @@
             "SpawnAttachments": [],
             "Variants": [
 				"TTC_M24_Bjorn",
-				"TTC_M24_Woodland"
-				]
-        },
-		{
-            "ClassName": "TTC_M24_NEW_Black",
-            "MaxPriceThreshold": 45000,
-            "MinPriceThreshold": 45000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"TTC_M24_NEW_Wood",
-				"TTC_M24_NEW_Camo",
-				"TTC_M24_NEW_CamoW"
+				"TTC_M24_Woodland",
+				"TTC_M24_WoodlandOld"
 				]
         },
 		{
@@ -111,6 +97,21 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+		{
+            "ClassName": "TTC_M24_NEW_Black",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 45000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"TTC_M24_NEW_Wood",
+				"TTC_M24_NEW_Camo",
+				"TTC_M24_NEW_CamoW"
+				]
         },
 		{
             "ClassName": "TTC_M1903",

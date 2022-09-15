@@ -66,11 +66,11 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"TTC_MPXMCX1_Bttstck2",
-				"TTC_MPXMCX2_Bttstck"]
+				"TTC_MPXMCX1_Bttstck2"
+				]
         },
 		{
-            "ClassName": "TTC_Buttstock_CAR15",
+            "ClassName": "TTC_MPXMCXSPEAR_Bttstck",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 300,
             "SellPricePercent": -1,
@@ -81,7 +81,18 @@
             "Variants": []
         },
 		{
-            "ClassName": "TTC_MPXMCXSPEAR_Bttstck",
+            "ClassName": "TTC_MPXMCX2_Bttstck",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TTC_Buttstock_CAR15",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 300,
             "SellPricePercent": -1,

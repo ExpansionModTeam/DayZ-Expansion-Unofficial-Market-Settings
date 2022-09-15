@@ -51,6 +51,17 @@
             "Variants": []
         },
 		{
+            "ClassName": "TTC_SVT40_Optic",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
             "ClassName": "TTC_Razor",
             "MaxPriceThreshold": 5000,
             "MinPriceThreshold": 5000,

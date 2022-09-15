@@ -60,17 +60,6 @@
             "Variants": []
         },
 		{
-            "ClassName": "TTC_M16A4",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 20000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
             "ClassName": "TTC_AEK973",
             "MaxPriceThreshold": 20000,
             "MinPriceThreshold": 20000,
@@ -82,7 +71,7 @@
             "Variants": []
         },
 		{
-            "ClassName": "TTC_SCARHBlack",
+            "ClassName": "TTC_SCARH",
             "MaxPriceThreshold": 20000,
             "MinPriceThreshold": 20000,
             "SellPricePercent": -1,
@@ -90,7 +79,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"TTC_SCARHBlack"
+				]
         },
 		{
             "ClassName": "TTC_SCARL",
@@ -107,6 +98,17 @@
 				]
         },
 		{
+            "ClassName": "TTC_M16A4",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
             "ClassName": "TTC_M4Tac",
             "MaxPriceThreshold": 20000,
             "MinPriceThreshold": 20000,
@@ -117,6 +119,20 @@
             "SpawnAttachments": [],
             "Variants": [
 				"TTC_M4Tac_Black"
+				]
+        },
+		{
+            "ClassName": "TTC_M14",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"TTC_M14_Camo",
+				"TTC_M14_Snow"
 				]
         },
 		{
@@ -144,34 +160,9 @@
             "Variants": []
         },
 		{
-            "ClassName": "TTC_M14",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 20000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"TTC_M14_Camo",
-				"TTC_M14_Snow"
-				]
-        },
-		{
             "ClassName": "TTC_HK417",
             "MaxPriceThreshold": 20000,
             "MinPriceThreshold": 20000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "TTC_M9",
-            "MaxPriceThreshold": 25000,
-            "MinPriceThreshold": 25000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -236,17 +227,6 @@
             "Variants": []
         },
 		{
-            "ClassName": "TTC_AVS36",
-            "MaxPriceThreshold": 45000,
-            "MinPriceThreshold": 45000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
             "ClassName": "TTC_CAR15",
             "MaxPriceThreshold": 45000,
             "MinPriceThreshold": 45000,
@@ -271,6 +251,17 @@
 				]
         },
 		{
+            "ClassName": "TTC_AKM",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 45000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
             "ClassName": "TTC_MCX_300blk",
             "MaxPriceThreshold": 45000,
             "MinPriceThreshold": 45000,
@@ -282,17 +273,6 @@
             "Variants": [
 				"TTC_MCX_Tan_300blk"
 				]
-        },
-		{
-            "ClassName": "TTC_AKM",
-            "MaxPriceThreshold": 45000,
-            "MinPriceThreshold": 45000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
         },
 		{
             "ClassName": "TTC_STG44",
@@ -385,21 +365,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
-        },
-		{
-            "ClassName": "TTC_M1A_Black",
-            "MaxPriceThreshold": 45000,
-            "MinPriceThreshold": 45000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"TTC_M1A_Green",
-				"TTC_M1A_Tan",
-				"TTC_M1A_Snow"
-				]
         },
 		{
             "ClassName": "TTC_VHS",

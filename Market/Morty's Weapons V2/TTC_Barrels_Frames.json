@@ -6,10 +6,10 @@
     "IsExchange": 0,
     "InitStockPercent": 75.0,
     "Items": [
-        {
-            "ClassName": "TTC_DMR_Barrel_556",
-            "MaxPriceThreshold": 10000,
-            "MinPriceThreshold": 10000,
+		{
+            "ClassName": "TTC_DMR_RifleFrame",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -29,7 +29,18 @@
             "Variants": []
         },
 		{
-            "ClassName": "TTC_DMR_RifleFrame",
+            "ClassName": "TTC_DMR_Barrel_556",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TTC_AKMod_RifleFrame",
             "MaxPriceThreshold": 20000,
             "MinPriceThreshold": 20000,
             "SellPricePercent": -1,
@@ -54,17 +65,6 @@
             "ClassName": "TTC_AKMod_Barrel_76254",
             "MaxPriceThreshold": 11000,
             "MinPriceThreshold": 11000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "TTC_AKMod_RifleFrame",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 20000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,

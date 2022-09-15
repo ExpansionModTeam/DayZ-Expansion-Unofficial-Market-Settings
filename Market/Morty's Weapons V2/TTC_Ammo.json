@@ -18,7 +18,7 @@
             "Variants": []
         },
 		{
-            "ClassName": "TTC_Ammo_300blk",
+            "ClassName": "TTC_Ammo_338",
             "MaxPriceThreshold": 400,
             "MinPriceThreshold": 400,
             "SellPricePercent": -1,
@@ -29,7 +29,7 @@
             "Variants": []
         },
 		{
-            "ClassName": "TTC_Ammo_338",
+            "ClassName": "TTC_Ammo_300blk",
             "MaxPriceThreshold": 400,
             "MinPriceThreshold": 400,
             "SellPricePercent": -1,
