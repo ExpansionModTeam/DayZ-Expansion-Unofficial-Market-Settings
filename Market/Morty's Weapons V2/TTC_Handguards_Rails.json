@@ -108,7 +108,7 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
-        }
+        },
         {
             "ClassName": "TTC_DMR_Hndguard",
             "MaxPriceThreshold": 250,
