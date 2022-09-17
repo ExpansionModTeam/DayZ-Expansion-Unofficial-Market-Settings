@@ -30,8 +30,8 @@
         },
         {
 			"ClassName": "Button_Pin_Radioactive",
-			"MaxPriceThreshold": 500,
-			"MinPriceThreshold": 500,
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
 			"ClassName": "Sheriff_Badge",
-			"MaxPriceThreshold": 500,
-			"MinPriceThreshold": 500,
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 5000,
 			"SellPricePercent": -1,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
