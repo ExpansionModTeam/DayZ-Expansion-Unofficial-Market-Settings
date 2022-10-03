@@ -143,6 +143,52 @@
 			]
         },
 		{
+            "ClassName": "mmg_equipment_locker_green_kit",
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"mmg_equipment_locker_black_kit",
+				"mmg_equipment_locker_grey_kit"
+			]
+        },
+		{
+            "ClassName": "mmg_locker02_blue_kit",
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"mmg_locker02_green_kit",
+				"mmg_locker02_tan_kit"
+			]
+        },
+		{
+            "ClassName": "mmg_solo_locker_yellow_kit",
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"mmg_solo_locker_blue_kit",
+				"mmg_solo_locker_red_kit",
+				"mmg_solo_locker_grey_kit",
+				"mmg_solo_locker_purple_kit",
+				"mmg_solo_locker_medic_kit",
+				"mmg_solo_locker_green_kit"
+			]
+        },
+		{
             "ClassName": "mmg_lockable_gun_rack_kit_grey",
             "MaxPriceThreshold": 30000,
             "MinPriceThreshold": 15000,
@@ -193,6 +239,17 @@
         },
 		{
             "ClassName": "mmg_Raidsaw",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "mmg_gear_stand_kit",
             "MaxPriceThreshold": 15000,
             "MinPriceThreshold": 7500,
             "SellPricePercent": -1,
