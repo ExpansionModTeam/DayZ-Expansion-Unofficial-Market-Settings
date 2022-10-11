@@ -1,0 +1,96 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Morty Weapons",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+		{
+            "ClassName": "TTC_M4DMR",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"TTC_M4DMROD",
+				"TTC_M4DMRDesert",
+				"TTC_M4DMRSNOW"
+				]
+        },
+		{
+            "ClassName": "TTC_ModDMR_556",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"TTC_ModDMRTan_556",
+				"TTC_ModDMRTwotone_556",
+				"TTC_ModDMRCamo_556",
+				"TTC_ModDMRDigiTan_556",
+				"TTC_ModDMRUPC_556",
+				"TTC_ModDMRSnow_556"
+				]
+        },
+		{
+            "ClassName": "TTC_ModDMR_762",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"TTC_ModDMRTan_762",
+				"TTC_ModDMRTwotone_762",
+				"TTC_ModDMRCamo_762",
+				"TTC_ModDMRDigiTan_762",
+				"TTC_ModDMRUPC_762",
+				"TTC_ModDMRSnow_762"
+				]
+        },
+		{
+            "ClassName": "TTC_HKG28",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TTC_M110",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"TTC_M110_Black"
+				]
+        },
+		{
+            "ClassName": "TTC_TAVOR_DMR",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
