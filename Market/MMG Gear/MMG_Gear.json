@@ -250,6 +250,20 @@
             ]
         },
 		{
+            "ClassName": "MMG_holster_pouch_black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_holster_pouch_green",
+                "MMG_holster_pouch_tan"
+            ]
+        },
+		{
 			"ClassName": "MMG_mk5_utility_pouch_black",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 500,
