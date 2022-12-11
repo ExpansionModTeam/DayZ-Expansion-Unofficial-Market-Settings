@@ -1,0 +1,710 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Tactical Flava Weapons",
+    "Icon": "Deliver",
+    "Color": "FFD400",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+			"ClassName": "TF_AN94",
+			"MaxPriceThreshold": 4000,
+			"MinPriceThreshold": 2000,
+			"SellPricePercent":  50,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_AN94_PlasticBttstck",
+                "TF_Mag_AK74_45Rnd"
+            ],
+            "Variants": []
+        },
+        {
+			"ClassName": "TF_AN94M",
+			"MaxPriceThreshold": 4500,
+			"MinPriceThreshold": 2000,
+			"SellPricePercent":  50,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_AN94_PlasticBttstck",
+                "TF_Mag_AK74_45Rnd"
+            ],
+            "Variants": []
+        },
+        {
+			"ClassName": "TF_Anzio20",
+			"MaxPriceThreshold": 10000,
+			"MinPriceThreshold": 8000,
+			"SellPricePercent":  50,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_Mag_Anzio20_3Rnd"
+            ],
+            "Variants": []
+        },
+        {
+			"ClassName": "TF_FiveSeven",
+			"MaxPriceThreshold": 275,
+			"MinPriceThreshold": 275,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_Mag_FiveSeven_20Rnd"
+            ],
+            "Variants": []
+        },
+        {
+			"ClassName": "TF_M14_DMR",
+			"MaxPriceThreshold": 6000,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent":  50,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_M14_Adapter",
+                "TF_Mag_M14_20Rnd"
+            ],
+            "Variants": []
+        },
+        {
+			"ClassName": "TF_M14_EBR",
+			"MaxPriceThreshold": 6000,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent":  50,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_Mag_M14_20Rnd"
+            ],
+            "Variants": []
+        },
+        {
+			"ClassName": "TF_M14_STD",
+			"MaxPriceThreshold": 6000,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent":  50,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_M14_Adapter",
+                "TF_Mag_M14_20Rnd"
+            ],
+            "Variants": []
+        },
+        {
+			"ClassName": "TF_M1A_Black",
+			"MaxPriceThreshold": 6000,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent":  50,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_Mag_M14_10Rnd"
+            ],
+            "Variants": [
+                "TF_M1A_OD",
+                "TF_M1A_Tan"
+            ]
+        },
+        {
+			"ClassName": "TF_MAR10",
+			"MaxPriceThreshold": 9000,
+			"MinPriceThreshold": 8000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_M4CraneBttstck",
+                "TF_Mag_MAR10_10Rnd",
+                "M68Optic",
+                "TF_MAR10_Suppressor"
+                "TF_Harris_Bipod"
+            ],
+            "Variants": []
+        },
+        {
+			"ClassName": "TF_SCAR_20_FDE",
+			"MaxPriceThreshold": 12000,
+			"MinPriceThreshold": 11000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_SCAR_Mk20Bttstck_Black",
+                "TF_AFG_RIS_Grip_FDE",
+                "TF_Mag_SCAR_H_25Rnd_FDE"
+            ],
+            "Variants": [
+                "TF_SCAR_20_Black",
+                "TF_SCAR_20_Shd"
+            ]
+        },
+        {
+			"ClassName": "TF_SCAR_L_FDE",
+			"MaxPriceThreshold": 8000,
+			"MinPriceThreshold": 7000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_SCAR_StndHndgrd",
+                "TF_SCAR_StndBttstck_Black",
+                "TF_Mag_M4_PMAG30Rnd_FDE"
+           ],
+            "Variants": [
+                "TF_SCAR_L_Black"
+           ]
+        },
+        {
+			"ClassName": "TF_SCAR_L_CQC_FDE",
+			"MaxPriceThreshold": 8000,
+			"MinPriceThreshold": 7000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_SCAR_StndHndgrd",
+                "TF_SCAR_StndBttstck_Black",
+                "TF_Mag_M4_PMAG30Rnd_FDE"
+           ],
+            "Variants": [
+                "TF_SCAR_L_CQC_Black"
+            ]
+        },
+        {
+			"ClassName": "TF_SCAR_H_FDE",
+			"MaxPriceThreshold": 10000,
+			"MinPriceThreshold": 9000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_SCAR_StndHndgrd",
+                "TF_SCAR_StndBttstck_Black",
+                "TF_Mag_SCAR_H_25Rnd_FDE"
+           ],
+            "Variants": [
+                "TF_SCAR_H_Black"
+            ]
+        },
+        {
+			"ClassName": "TF_SCAR_H_CQC_FDE",
+			"MaxPriceThreshold": 10000,
+			"MinPriceThreshold": 9000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_SCAR_StndHndgrd",
+                "TF_SCAR_StndBttstck_Black",
+                "TF_Mag_SCAR_H_25Rnd_FDE"
+           ],
+            "Variants": [
+                "TF_SCAR_H_CQC_Black"
+            ]
+        },
+        {
+			"ClassName": "TF_OTs_12_Tiss",
+			"MaxPriceThreshold": 7000,
+			"MinPriceThreshold": 6000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "AKS74U_Bttstck",
+                "TF_AKS74U_WoodHndgrd",
+                "TF_Mag_OTs_14_Groza_20Rnd"
+           ],
+            "Variants": []
+        },
+        {
+			"ClassName": "TF_OTs_14_Groza",
+			"MaxPriceThreshold": 9000,
+			"MinPriceThreshold": 8000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_OTs_14_Groza_Barrel_Grip",
+                "TF_Mag_OTs_14_Groza_20Rnd",
+                "TF_OTs_14_Groza_Suppressor",
+                "TF_OTs_14_GrozaOptic"
+            ],
+            "Variants": []
+        },
+        {
+			"ClassName": "TF_MakarovPB",
+			"MaxPriceThreshold": 700,
+			"MinPriceThreshold": 700,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_MakarovPB_Suppressor",
+                "Mag_IJ70_8Rnd"
+            ],
+            "Variants": []
+        },
+        {
+			"ClassName": "TF_M79_AOR1",
+			"MaxPriceThreshold": 15000,
+			"MinPriceThreshold": 14000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_DeltaPointOptic_Black"
+            ],
+            "Variants": []
+        },
+        {
+			"ClassName": "TF_AK101",
+			"MaxPriceThreshold": 3000,
+			"MinPriceThreshold": 3000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "AK_PlasticBttstck",
+                "AK_PlasticHndgrd",
+                "TF_Mag_AK101_Plastic30Rnd"
+           ],
+            "Variants": []
+        },
+        {
+			"ClassName": "TF_AK102",
+			"MaxPriceThreshold": 4000,
+			"MinPriceThreshold": 3000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "AK_PlasticBttstck",
+                "AK_PlasticHndgrd",
+                "TF_Mag_AK101_Plastic30Rnd"
+           ],
+            "Variants": []
+        },
+       {
+			"ClassName": "TF_AK103",
+			"MaxPriceThreshold": 4000,
+			"MinPriceThreshold": 3000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "AK_PlasticBttstck",
+                "AK_PlasticHndgrd",
+                "TF_Mag_AKM_Plastic30Rnd"
+           ],
+            "Variants": []
+        },
+       {
+			"ClassName": "TF_AK104",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 4000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "AK_PlasticBttstck",
+                "AK_PlasticHndgrd",
+                "TF_Mag_AKM_Plastic30Rnd"
+           ],
+            "Variants": []
+        },
+       {
+			"ClassName": "TF_AK105",
+			"MaxPriceThreshold": 6000,
+			"MinPriceThreshold": 4000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "AK_PlasticBttstck",
+                "AK_PlasticHndgrd",
+                "TF_Mag_AK74_Plastic30Rnd"
+           ],
+            "Variants": [
+                "TF_AK105_Bullpup"
+            ]			
+        },
+       {
+			"ClassName": "TF_AK105_Bullpup",
+			"MaxPriceThreshold": 6000,
+			"MinPriceThreshold": 4000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_AFG_RIS_Grip_Black",
+                "TF_AK_6p20Compensator",
+                "TF_Mag_AK74_Plastic30Rnd"
+           ],
+            "Variants": []
+       },			
+       {
+			"ClassName": "TF_AK74M",
+			"MaxPriceThreshold": 6000,
+			"MinPriceThreshold": 4000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "AK_PlasticBttstck",
+                "AK_PlasticHndgrd",
+                "TF_Mag_AK74_Plastic30Rnd",
+                "TF_AK_6p20Compensator"
+           ],
+            "Variants": []
+        },
+       {
+			"ClassName": "TF_AKM",
+			"MaxPriceThreshold": 6000,
+			"MinPriceThreshold": 4000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "AK_WoodBttstck",
+                "AK_WoodHndgrd",
+                "TF_Mag_AKM_30Rnd",
+                "TF_AK_6p20Compensator"
+           ],
+            "Variants": []
+        },
+       {
+			"ClassName": "TF_AKMN",
+			"MaxPriceThreshold": 6000,
+			"MinPriceThreshold": 4000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "AK_WoodBttstck",
+                "AK_WoodHndgrd",
+                "TF_Mag_AKM_30Rnd",
+                "TF_AK_6p20Compensator"
+           ],
+            "Variants": []
+        },
+       {
+			"ClassName": "TF_VPO136",
+			"MaxPriceThreshold": 6000,
+			"MinPriceThreshold": 4000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "AK_WoodBttstck",
+                "AK_WoodHndgrd",
+                "TF_Mag_AKM_10Rnd",
+                "TF_AK_6p20Compensator"
+           ],
+            "Variants": []
+        },
+       {
+			"ClassName": "TF_AKS74U",
+			"MaxPriceThreshold": 6000,
+			"MinPriceThreshold": 4000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "AKS74U_Bttstck",
+                "TF_AKS74U_WoodHndgrd",
+                "TF_Mag_AK74_Bakelit30Rnd",
+                "TF_AK_6p20Compensator"
+           ],
+            "Variants": []
+        },
+       {
+			"ClassName": "TF_M4A1",
+			"MaxPriceThreshold": 9000,
+			"MinPriceThreshold": 7000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "M4_OEBttstck",
+                "M4_PlasticHndgrd",
+                "M4_CarryHandleOptic",
+                "TF_Mag_M4_PMAG20Rnd"
+           ],
+            "Variants": []
+        },
+       {
+			"ClassName": "TF_ADAR2_15",
+			"MaxPriceThreshold": 9000,
+			"MinPriceThreshold": 6000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_M4_ADARBttstck",
+                "TF_M4_ADARWoodHndgrd",
+                "TF_M4_ColtA2Optic",
+                "TF_Mag_M4_PMAG10Rnd"
+           ],
+            "Variants": []
+        },
+       {
+			"ClassName": "TF_M4A1_CQBR",
+			"MaxPriceThreshold": 3000,
+			"MinPriceThreshold": 3000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "M4_OEBttstck",
+                "M4_PlasticHndgrd",
+                "M4_CarryHandleOptic",
+                "TF_Mag_M4_PMAG20Rnd"
+           ],
+            "Variants": []
+        },
+       {
+			"ClassName": "TF_MK47_CQBR",
+			"MaxPriceThreshold": 8000,
+			"MinPriceThreshold": 6000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_M4_CMMG_RIPBttstck",
+                "TF_AR10_CMMG9Hndgrd_MLOCK",
+                "ReflexOptic",
+                "TF_Mag_AKM_PMAG30Rnd"
+           ],
+            "Variants": []
+        },
+       {
+			"ClassName": "TF_MK47",
+			"MaxPriceThreshold": 8000,
+			"MinPriceThreshold": 6000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_M4_CMMG_RIPBttstck",
+                "TF_AR10_CMMG15Hndgrd_MLOCK",
+                "ReflexOptic",
+                "TF_Mag_AKM_PMAG30Rnd"
+           ],
+            "Variants": []
+        },
+       {
+			"ClassName": "TF_MP443",
+			"MaxPriceThreshold": 270,
+			"MinPriceThreshold": 270,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_Mag_MP443_18Rnd"
+           ],
+            "Variants": []
+        },
+       {
+			"ClassName": "TF_VPO190",
+			"MaxPriceThreshold": 1200,
+			"MinPriceThreshold": 1200,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "HuntingOptic",
+                "TF_Mag_VPO190_4Rnd"
+            ],
+            "Variants": []
+        },
+       {
+			"ClassName": "TF_AEK999",
+			"MaxPriceThreshold": 15000,
+			"MinPriceThreshold": 8000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "KashtanOptic",
+                "TF_PKP_PlasticBttstck",
+                "TF_AEK999_Suppressor",
+                "TF_Mag_PKM_100Rnd"
+           ],
+            "Variants": []
+        },
+       {
+			"ClassName": "TF_M16A4",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 3000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_M16_Bttstck",
+                "TF_M16_KACHndgrd_RIS",
+                "M4_CarryHandleOptic",
+                "TF_Mag_M4_PMAG20Rnd"
+           ],
+            "Variants": []
+        },
+       {
+			"ClassName": "TF_M240",
+			"MaxPriceThreshold": 12000,
+			"MinPriceThreshold": 8000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "M68Optic",
+                "TF_Mag_M240_50Rnd"
+           ],
+            "Variants": []
+        },
+       {
+			"ClassName": "TF_M249",
+			"MaxPriceThreshold": 17000,
+			"MinPriceThreshold": 10000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "M68Optic",
+                "TF_Mag_M249_200Rnd"
+           ],
+            "Variants": []
+        },
+       {
+			"ClassName": "TF_PKM",
+			"MaxPriceThreshold": 12000,
+			"MinPriceThreshold": 700,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_PKP_PlasticBttstck",
+                "TF_PKM_6ch43Compensator",
+                "TF_Mag_PKM_100Rnd"
+           ],
+            "Variants": []
+        },
+       {
+			"ClassName": "TF_PKP",
+			"MaxPriceThreshold": 12000,
+			"MinPriceThreshold": 7000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_PKP_PlasticBttstck",
+                "TF_PKM_6ch43Compensator",
+                "TF_Mag_PKM_100Rnd"
+           ],
+            "Variants": []
+        },
+       {
+			"ClassName": "TF_SVCh308",
+			"MaxPriceThreshold": 3000,
+			"MinPriceThreshold": 3000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "M68Optic",
+                "TF_Mag_SVCh308_10Rnd"
+           ],
+            "Variants": []
+        },
+      {
+			"ClassName": "TF_SVCh",
+			"MaxPriceThreshold": 7000,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "M68Optic",
+                "Mag_SVD_10Rnd"
+           ],
+            "Variants": []
+        },
+      {
+			"ClassName": "TF_SR25",
+			"MaxPriceThreshold": 10000,
+			"MinPriceThreshold": 7000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_M4CraneBttstck",
+                "TF_AR10_KACHndgrd_RIS",
+                "ACOGOptic",
+                "TF_AFG_RIS_Grip_Black",
+                "TF_M4_MOEPistolGrip_Black",
+                "TF_Mag_SR25_20Rnd"
+           ],
+            "Variants": []
+        },		
+        {
+			"ClassName": "TF_M79",
+			"MaxPriceThreshold": 6000,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_DeltaPointOptic_Black"
+            ],
+            "Variants": []
+        }
+    ]
+}

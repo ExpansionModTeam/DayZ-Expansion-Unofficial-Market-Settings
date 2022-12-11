@@ -1,0 +1,26 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#Tactical Flava Coats And Jackets",
+    "Icon": "Deliver",
+    "Color": "FFD400",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "TF_6sh122Jacket_Spring",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"TF_6sh122Jacket_Autumn",
+				"TF_6sh122Jacket_Winter",
+				"TF_6sh122Jacket_Syrian_EMR",
+				"TF_6sh122Jacket_Syrian"
+            ]
+        }
+    ]
+}

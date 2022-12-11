@@ -1,0 +1,24 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#Tactical Flava Shirts And Tshirts",
+    "Icon": "Deliver",
+    "Color": "FFD400",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "TF_G3CombatShirt_RG",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"TF_G3CombatShirt_MC",
+				"TF_G3CombatShirt_WD"
+            ]
+        }
+    ]
+}
