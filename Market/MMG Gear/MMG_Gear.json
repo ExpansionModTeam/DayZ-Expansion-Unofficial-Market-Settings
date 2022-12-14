@@ -917,6 +917,34 @@
 				"mmg_gp_nvg_green",
 				"mmg_gp_nvg_grey"
             ]
+        },
+		{
+			"ClassName": "mmg_cargobelt_black",
+			"MaxPriceThreshold": 2000,
+			"MinPriceThreshold": 2000,
+			"SellPricePercent": 10,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 0,
+			"QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": [
+				"mmg_cargobelt_green",
+				"mmg_cargobelt_tan"
+			]
+        },
+		{
+			"ClassName": "mmg_dump_pouch_black",
+			"MaxPriceThreshold": 2000,
+			"MinPriceThreshold": 2000,
+			"SellPricePercent": 10,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 0,
+			"QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": [
+				"mmg_dump_pouch_green",
+				"mmg_dump_pouch_tan"
+			]
         }
     ]
 }

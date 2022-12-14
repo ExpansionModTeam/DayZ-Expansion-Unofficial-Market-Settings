@@ -676,6 +676,50 @@
 			"QuantityPercent": 25,
             "SpawnAttachments": [],
             "Variants": []
+        },
+		{
+			"ClassName": "MMG_patch_rubber_deerisle_special",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": 10,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+			"ClassName": "MMG_patch_rubber_ocean",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": 10,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+			"ClassName": "MMG_patch_rubber_lithuania",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": 10,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+			"ClassName": "MMG_patch_rubber_scotland",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": 10,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }
