@@ -250,6 +250,20 @@
             ]
         },
 		{
+            "ClassName": "MMG_holster_pouch_black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_holster_pouch_green",
+                "MMG_holster_pouch_tan"
+            ]
+        },
+		{
 			"ClassName": "MMG_mk5_utility_pouch_black",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 500,
@@ -903,6 +917,34 @@
 				"mmg_gp_nvg_green",
 				"mmg_gp_nvg_grey"
             ]
+        },
+		{
+			"ClassName": "mmg_cargobelt_black",
+			"MaxPriceThreshold": 2000,
+			"MinPriceThreshold": 2000,
+			"SellPricePercent": 10,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 0,
+			"QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": [
+				"mmg_cargobelt_green",
+				"mmg_cargobelt_tan"
+			]
+        },
+		{
+			"ClassName": "mmg_dump_pouch_black",
+			"MaxPriceThreshold": 2000,
+			"MinPriceThreshold": 2000,
+			"SellPricePercent": 10,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 0,
+			"QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": [
+				"mmg_dump_pouch_green",
+				"mmg_dump_pouch_tan"
+			]
         }
     ]
 }
