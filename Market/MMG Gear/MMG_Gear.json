@@ -623,20 +623,6 @@
             ]
         },
 		{
-			"ClassName": "MMG_holster_pouch_black",
-			"MaxPriceThreshold": 500,
-			"MinPriceThreshold": 500,
-			"SellPricePercent": 10,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-				"MMG_holster_pouch_green",
-				"MMG_holster_pouch_tank"
-            ]
-        },
-		{
 			"ClassName": "mmg_tac_goggles_red_black",
 			"MaxPriceThreshold": 750,
 			"MinPriceThreshold": 750,
