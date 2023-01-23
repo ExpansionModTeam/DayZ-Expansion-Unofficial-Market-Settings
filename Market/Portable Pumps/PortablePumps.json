@@ -1,0 +1,32 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Portable Pumps",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "BLR_WELL",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BLR_FUEL",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
