@@ -1,0 +1,65 @@
+{
+    "m_Version": 12,
+    "DisplayName": "ER7 Gauss Rifle",
+    "Icon": "Battery Full",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "ER7_Gauss",
+            "MaxPriceThreshold": 5000000,
+            "MinPriceThreshold": 5000000,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 10,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "ER7_Gauss_Battery",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "ER7_Scope",
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 25000,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 30,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "ER7_Gauss_Magazine",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 20,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "Ammo_ER7RFW",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 100,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
