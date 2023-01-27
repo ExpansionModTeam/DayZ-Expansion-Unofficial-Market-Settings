@@ -1,0 +1,87 @@
+{
+    "m_Version": 12,
+    "DisplayName": "AJ's Items - Patches",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "CDAJ_Vest_Patch_FOG",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CDAJ_Vest_Patch_Cowabunga",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CDAJ_Vest_Patch_EOD",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CDAJ_Vest_Patch_Medic1",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CDAJ_Vest_Patch_Reaperswing",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CDAJ_Vest_Patch_US_Flag",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CDAJ_Vest_Patch_Redman",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
