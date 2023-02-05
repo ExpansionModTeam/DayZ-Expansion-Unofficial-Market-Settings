@@ -1,8 +1,8 @@
 {
     "m_Version": 12,
     "DisplayName": "AJ's Items - Clothing",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
+    "Icon": "Backpack",
+    "Color": "FF0000FF",
     "IsExchange": 0,
     "InitStockPercent": 75.0,
     "Items": [
@@ -335,7 +335,17 @@
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": 25,
-            "SpawnAttachments": [],
+            "SpawnAttachments": [
+				"bandagedressing",
+                "bloodtestkit",
+                "salinebagiv",
+                "epinephrine",
+				"epinephrine",
+				"morphine",
+				"tetracyclineantibiotics",
+				"vitaminbottle",
+				"painkillertablets"
+			],
             "Variants": [
                 "CDAJ_OCV2_WB_IFAK_Black",
                 "CDAJ_OCV2_WB_IFAK_AOR1",
@@ -417,7 +427,10 @@
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": 10,
-            "SpawnAttachments": [],
+            "SpawnAttachments": [
+				"epinephrine",
+				"morphine"
+			],
             "Variants": [
                 "CDAJ_medkit_ERDL",
                 "CDAJ_medkit_Brown",
@@ -487,7 +500,17 @@
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [],
+            "SpawnAttachments": [
+				"bandagedressing",
+                "bloodtestkit",
+                "salinebagiv",
+                "epinephrine",
+				"epinephrine",
+				"morphine",
+				"tetracyclineantibiotics",
+				"vitaminbottle",
+				"painkillertablets"
+			],
             "Variants": [
                 "CDAJ_AFAK_EMR",
                 "CDAJ_AFAK_Black",
@@ -529,7 +552,13 @@
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [],
+            "SpawnAttachments": [
+				"bandagedressing",
+                "bloodtestkit",
+                "salinebagiv",
+                "epinephrine",
+				"morphine"
+			],
             "Variants": [
                 "CDAJ_Pouch_TraumaRoll_MCB",
                 "CDAJ_Pouch_TraumaRoll_Black",
@@ -1072,6 +1101,22 @@
                 "CDAJ_Vans_Hightop_Middlefingers",
                 "CDAJ_Vans_Hightop_ERDL_Purple",
                 "CDAJ_Vans_Hightop_ERDL"
+            ]
+        },
+		{
+            "ClassName": "CDAJ_Thermal_Balaclava_Black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "CDAJ_Thermal_Balaclava_Grey",
+                "CDAJ_Thermal_Balaclava_MC",
+                "CDAJ_Thermal_Balaclava_ERDL",
+                "CDAJ_Thermal_Balaclava_TS"
             ]
         }
     ]

@@ -1,0 +1,235 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MMG Civilian Clothing",
+    "Icon": "Backpack",
+    "Color": "FF0000FF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "mm_uni_sling_green",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mm_uni_sling_black",
+                "mm_uni_sling_tan",
+                "mm_uni_sling_tropic"
+            ]
+        },
+        {
+            "ClassName": "mm_commando_bag_green",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mm_commando_bag_khaki",
+                "mm_commando_bag_black",
+                "mm_commando_bag_ucp",
+				"mm_commando_bag_nwu",
+                "mm_commando_bag_tropic",
+                "mm_commando_bag_desert"
+            ]
+        },
+        {
+            "ClassName": "mm_weapon_bag_custom_green",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mm_weapon_bag_custom_black"
+            ]
+        },
+        {
+            "ClassName": "mm_maska_helmet_green",
+            "MaxPriceThreshold": 5500,
+            "MinPriceThreshold": 5500,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mm_maska_helmet_black"
+            ]
+        },
+        {
+            "ClassName": "mm_shemagh1_green",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mm_shemagh1_red",
+                "mm_shemagh1_blackgold",
+                "mm_shemagh1_black",
+				"mm_shemagh1_khaki"
+            ]
+        },
+        {
+            "ClassName": "mm_shemagh2_green",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mm_shemagh2_red",
+                "mm_shemagh2_grey",
+                "mm_shemagh2_khaki"
+            ]
+        },
+        {
+            "ClassName": "mm_neck_gaiter_green",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mm_neck_gaiter_red",
+                "mm_neck_gaiter_grey",
+                "mm_neck_gaiter_khaki"
+            ]
+        },
+		{
+            "ClassName": "mm_fingerless_gloves_green",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mm_fingerless_gloves_black",
+                "mm_fingerless_gloves_grey"
+            ]
+        },
+        {
+            "ClassName": "mm_survival_pants_black",
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 750,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mm_survival_pants_blue"
+            ]
+        },
+        {
+            "ClassName": "mm_padded_jeans_black",
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 750,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mm_padded_jeans_blue"
+            ]
+        },
+        {
+            "ClassName": "mm_longsleeve_green",
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 750,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mm_longsleeve_black",
+                "mm_longsleeve_blue",
+                "mm_longsleeve_red",
+                "mm_longsleeve_white",
+                "mm_longsleeve_blue_yellow",
+				"mm_longsleeve_red_white",
+				"mm_longsleeve_white_blue"
+            ]
+        },
+        {
+            "ClassName": "mm_hoodie_green",
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 750,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mm_hoodie_yellow",
+                "mm_hoodie_blue",
+                "mm_hoodie_black"
+            ]
+        },
+        {
+            "ClassName": "mm_hoodie_hooded_green",
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 750,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mm_hoodie_hooded_yellow",
+                "mm_hoodie_hooded_blue",
+                "mm_hoodie_hooded_black"
+            ]
+        },
+        {
+            "ClassName": "mm_winter_jacket_green",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mm_winter_jacket_black",
+                "mm_winter_jacket_yellow",
+                "mm_winter_jacket_red",
+				"mm_winter_jacket_blue"
+            ]
+        },
+		{
+            "ClassName": "mm_combat_vest_green",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mm_combat_vest_grey",
+                "mm_combat_vest_black",
+                "mm_combat_vest_tan"
+            ]
+        }
+    ]
+}
