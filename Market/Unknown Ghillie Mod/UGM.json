@@ -1,0 +1,85 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Unknown Ghillie Mod",
+    "Icon": "Skull 3",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 25.0,
+    "Items": [
+        {
+            "ClassName": "GhillieSuit_Black",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "GhillieSuit_White",
+                "GhillieSuit_Brown",
+				"GhillieSuit_Gold"
+            ]
+        },
+        {
+            "ClassName": "GhillieBushrag_Black",
+            "MaxPriceThreshold": 4500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "GhillieBushrag_White",
+                "GhillieBushrag_Brown",
+				"GhillieBushrag_Gold"
+            ]
+        },
+        {
+            "ClassName": "GhillieTop_Black",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "GhillieTop_White",
+                "GhillieTop_Brown",
+				"GhillieTop_Gold"
+            ]
+        },
+        {
+            "ClassName": "GhillieHood_Black",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "GhillieHood_White",
+                "GhillieHood_Brown",
+				"GhillieHood_Gold"
+            ]
+        },
+		{
+            "ClassName": "ghillieatt_black",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ghillieatt_white",
+                "ghillieatt_brown",
+				"ghillieatt_gold"
+            ]
+        }
+    ]
+}

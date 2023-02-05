@@ -1,8 +1,8 @@
 {
     "m_Version": 12,
     "DisplayName": "Mighty's Military Gear Country Camos",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
+    "Icon": "Backpack",
+    "Color": "FF0000FF",
     "IsExchange": 0,
     "InitStockPercent": 0.0,
     "Items": [
