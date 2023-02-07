@@ -34,7 +34,6 @@
                 "CDAJ_Opscore_Carrier_Multicam",
                 "CDAJ_Opscore_Carrier_Grey",
                 "CDAJ_Opscore_Carrier_Black",
-                "CDAJ_Opscore_Carrier_Arid",
                 "CDAJ_Opscore_Carrier_Moon",
                 "CDAJ_Opscore_Carrier_Jay"
             ]
@@ -379,8 +378,8 @@
                 "CDAJ_OCV2_WB_DropPouch_Tan"
             ]
         },
-        {
-            "ClassName": "CDAJ_MagPouches_Camo",
+		{
+            "ClassName": "CDAJ_QuadMag_Pouch_Camo",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
             "SellPricePercent": 10.0,
@@ -389,76 +388,84 @@
             "QuantityPercent": 25,
             "SpawnAttachments": [],
             "Variants": [
-                "CDAJ_MagPouches_ERDL",
-                "CDAJ_MagPouches_Brown",
-                "CDAJ_MagPouches_Multicam",
-                "CDAJ_MagPouches_Grey",
-                "CDAJ_MagPouches_Black",
-                "CDAJ_MagPouches_Arid",
-                "CDAJ_MagPouches_Moon",
-                "CDAJ_MagPouches_Jay"
+                "CDAJ_QuadMag_Pouch_ERDL",
+                "CDAJ_QuadMag_Pouch_Brown",
+                "CDAJ_QuadMag_Pouch_Multicam",
+                "CDAJ_QuadMag_Pouch_Grey",
+                "CDAJ_QuadMag_Pouch_Black",
+                "CDAJ_QuadMag_Pouch_RG",
+                "CDAJ_QuadMag_Pouch_Moon",
+                "CDAJ_QuadMag_Pouch_Jay"
             ]
         },
-        {
-            "ClassName": "CDAJ_bigpouche_Camo",
+		{
+            "ClassName": "CDAJ_Utility_Pouch_Camo",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
             "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "QuantityPercent": 10,
+            "QuantityPercent": 25,
             "SpawnAttachments": [],
             "Variants": [
-                "CDAJ_bigpouche_ERDL",
-                "CDAJ_bigpouche_Brown",
-                "CDAJ_bigpouche_Multicam",
-                "CDAJ_bigpouche_Black",
-                "CDAJ_bigpouche_Grey",
-                "CDAJ_bigpouche_Arid",
-                "CDAJ_bigpouche_Moon",
-                "CDAJ_bigpouche_Jay"
+                "CDAJ_Utility_Pouch_ERDL",
+                "CDAJ_Utility_Pouch_Brown",
+                "CDAJ_Utility_Pouch_Multicam",
+                "CDAJ_Utility_Pouch_Black",
+                "CDAJ_Utility_Pouch_Grey",
+                "CDAJ_Utility_Pouch_RG",
+                "CDAJ_Utility_Pouch_Moon",
+                "CDAJ_Utility_Pouch_Jay"
             ]
         },
-        {
-            "ClassName": "CDAJ_medkit_Camo",
+		{
+            "ClassName": "CDAJ_LargeUtility_Pouch_Camo",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
             "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "QuantityPercent": 10,
+            "QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": [
+                "CDAJ_LargeUtility_Pouch_ERDL",
+                "CDAJ_LargeUtility_Pouch_Brown",
+                "CDAJ_LargeUtility_Pouch_Multicam",
+                "CDAJ_LargeUtility_Pouch_Black",
+                "CDAJ_LargeUtility_Pouch_Grey",
+                "CDAJ_LargeUtility_Pouch_RG",
+                "CDAJ_LargeUtility_Pouch_Moon",
+                "CDAJ_LargeUtility_Pouch_Jay"
+            ]
+        },
+		{
+            "ClassName": "CDAJ_Medkit_Pouch_Camo",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 25,
             "SpawnAttachments": [
+				"bandagedressing",
+                "bloodtestkit",
+                "salinebagiv",
+                "epinephrine",
 				"epinephrine",
-				"morphine"
+				"morphine",
+				"tetracyclineantibiotics",
+				"vitaminbottle",
+				"painkillertablets"
 			],
             "Variants": [
-                "CDAJ_medkit_ERDL",
-                "CDAJ_medkit_Brown",
-                "CDAJ_medkit_Multicam",
-                "CDAJ_medkit_Black",
-                "CDAJ_medkit_Grey",
-                "CDAJ_medkit_Arid",
-                "CDAJ_medkit_Moon",
-                "CDAJ_medkit_Jay"
-            ]
-        },
-        {
-            "ClassName": "CDAJ_prc152_Camo",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": 10.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": 10,
-            "SpawnAttachments": [],
-            "Variants": [
-                "CDAJ_prc152_ERDL",
-                "CDAJ_prc152_Brown",
-                "CDAJ_prc152_Multicam",
-                "CDAJ_prc152_Black",
-                "CDAJ_prc152_Grey",
-                "CDAJ_prc152_Arid",
-                "CDAJ_prc152_Jay"
+                "CDAJ_Medkit_Pouch_ERDL",
+                "CDAJ_Medkit_Pouch_Brown",
+                "CDAJ_Medkit_Pouch_Multicam",
+                "CDAJ_Medkit_Pouch_Black",
+                "CDAJ_Medkit_Pouch_Grey",
+                "CDAJ_Medkit_Pouch_RG",
+                "CDAJ_Medkit_Pouch_Moon",
+                "CDAJ_Medkit_Pouch_Jay"
             ]
         },
         {
@@ -1117,6 +1124,22 @@
                 "CDAJ_Thermal_Balaclava_MC",
                 "CDAJ_Thermal_Balaclava_ERDL",
                 "CDAJ_Thermal_Balaclava_TS"
+            ]
+        },
+		{
+            "ClassName": "CDAJ_Ballistic_Mask_ERDL",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "CDAJ_Ballistic_Mask_RedTiger",
+                "CDAJ_Ballistic_Mask_Black",
+                "CDAJ_Ballistic_Mask_Sammy",
+                "CDAJ_Ballistic_Mask_YellowERDL"
             ]
         }
     ]
