@@ -1,0 +1,25 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG Gloves",
+  "Icon": "Open Hand",
+  "Color": "E9151AFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "fog_tactical_fingerless_gloves_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_tactical_fingerless_gloves_green",
+        "fog_tactical_fingerless_gloves_mc",
+        "fog_tactical_fingerless_gloves_tan"
+      ]
+    }
+  ]
+}

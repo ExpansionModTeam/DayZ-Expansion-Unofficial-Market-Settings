@@ -1,0 +1,69 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG Pants",
+  "Icon": "Soldier",
+  "Color": "E9151AFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "fog_gorka_pants_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_gorka_pants_khaki"
+      ]
+    },
+    {
+      "ClassName": "fog_mtf_pants_cb",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_mtf_pants_erdl",
+        "fog_mtf_pants_fk",
+        "fog_mtf_pants_grey",
+        "fog_mtf_pants_mc",
+        "fog_mtf_pants_mcb",
+        "fog_mtf_pants_rg",
+        "fog_mtf_pants_ts"
+      ]
+    },
+    {
+      "ClassName": "fog_pants_crye_g3_aor1",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_pants_crye_g3_aor2",
+        "fog_pants_crye_g3_black",
+        "fog_pants_crye_g3_cb",
+        "fog_pants_crye_g3_dtgr",
+        "fog_pants_crye_g3_grey",
+        "fog_pants_crye_g3_gtiger",
+        "fog_pants_crye_g3_m81",
+        "fog_pants_crye_g3_marpat",
+        "fog_pants_crye_g3_mc",
+        "fog_pants_crye_g3_mca",
+        "fog_pants_crye_g3_mcal",
+        "fog_pants_crye_g3_mcb",
+        "fog_pants_crye_g3_mct",
+        "fog_pants_crye_g3_rdbs",
+        "fog_pants_crye_g3_rg"
+      ]
+    }
+  ]
+}

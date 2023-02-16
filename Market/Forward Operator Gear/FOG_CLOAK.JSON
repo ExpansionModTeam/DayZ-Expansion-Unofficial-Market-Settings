@@ -1,0 +1,24 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG Cloak",
+  "Icon": "Soldier",
+  "Color": "E9151AFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "fog_hooded_cloak_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_hooded_cloak_grey",
+        "fog_hooded_cloak_rg"
+      ]
+    }
+  ]
+}
