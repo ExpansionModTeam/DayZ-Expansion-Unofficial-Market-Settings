@@ -1,0 +1,79 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG Comms",
+  "Icon": "Walkie Talkie",
+  "Color": "E9151AFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "fog_comtac_iv_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_comtac_iv_cb",
+        "fog_comtac_iv_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_comtac3_headphones_aj",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_comtac3_headphones_black",
+        "fog_comtac3_headphones_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_fastmt_mandable_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_fastmt_mandable_mc",
+        "fog_fastmt_mandable_tan"
+      ]
+    },
+    {
+      "ClassName": "fog_fastmt_rac_tan",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_sf_batterypack_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_sf_batterypack_mc",
+        "fog_sf_batterypack_mcb",
+        "fog_sf_batterypack_rg",
+        "fog_sf_batterypack_tan"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG Misc",
+  "Icon": "Deliver",
+  "Color": "E9151AFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "fog_airframe_cover_alp",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_airframe_cover_aor1",
+        "fog_airframe_cover_aor2",
+        "fog_airframe_cover_black",
+        "fog_airframe_cover_cb",
+        "fog_airframe_cover_mc",
+        "fog_airframe_cover_mcb",
+        "fog_airframe_cover_rg"
+      ]
+    }
+  ]
+}

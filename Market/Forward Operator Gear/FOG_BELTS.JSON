@@ -1,0 +1,34 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG Belts",
+  "Icon": "Soldier",
+  "Color": "E9151AFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "fog_belt_rtgfb_alp",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "fog_rtgfb_holster_alp",
+        "fog_rtgfb_holster_black",
+        "fog_rtgfb_holster_mc",
+        "fog_rtgfb_holster_rg",
+        "fog_rtgfb_holster_tan"
+      ],
+      "Variants": [
+        "fog_belt_rtgfb_aor1",
+        "fog_belt_rtgfb_aor2",
+        "fog_belt_rtgfb_black",
+        "fog_belt_rtgfb_cb",
+        "fog_belt_rtgfb_mc",
+        "fog_belt_rtgfb_rg"
+      ]
+    }
+  ]
+}

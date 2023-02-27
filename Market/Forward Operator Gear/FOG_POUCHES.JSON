@@ -1,0 +1,285 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG Pouches",
+  "Icon": "Soldier",
+  "Color": "E9151AFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "fog_big_patch_crimeco",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_big_patch_fog_cc",
+        "fog_big_patch_redman",
+        "fog_big_patch_us_colored"
+      ]
+    },
+    {
+      "ClassName": "fog_jpc_panel_aor1_flag_us",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_jpc_panel_aor2_flag_us",
+        "fog_jpc_panel_black_flag_us",
+        "fog_jpc_panel_cb_flag_us",
+        "fog_jpc_panel_mc_flag_us",
+        "fog_jpc_panel_rg_flag_us"
+      ]
+    },
+    {
+      "ClassName": "fog_pouch_admin_small_alp",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_pouch_admin_small_aor1",
+        "fog_pouch_admin_small_aor2",
+        "fog_pouch_admin_small_black",
+        "fog_pouch_admin_small_cb",
+        "fog_pouch_admin_small_mc",
+        "fog_pouch_admin_small_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_pouch_belly_aor2",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_pouch_belly_black",
+        "fog_pouch_belly_cb",
+        "fog_pouch_belly_mc",
+        "fog_pouch_belly_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_pouch_grenade_rg",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_pouch_grenade_mc",
+        "fog_pouch_grenade_grey",
+        "fog_pouch_grenade_cb",
+        "fog_pouch_grenade_black"
+      ]
+    },
+    {
+      "ClassName": "fog_pouch_ifak_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_pouch_ifak_brown",
+        "fog_pouch_ifak_cb",
+        "fog_pouch_ifak_grey",
+        "fog_pouch_ifak_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_pouch_mag_avs_alp",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_pouch_mag_avs_aor1",
+        "fog_pouch_mag_avs_aor2",
+        "fog_pouch_mag_avs_black",
+        "fog_pouch_mag_avs_cb",
+        "fog_pouch_mag_avs_mc",
+        "fog_pouch_mag_avs_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_pouch_mag_bluefor_alp",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_pouch_mag_bluefor_aor1",
+        "fog_pouch_mag_bluefor_aor2",
+        "fog_pouch_mag_bluefor_black",
+        "fog_pouch_mag_bluefor_cb",
+        "fog_pouch_mag_bluefor_mc",
+        "fog_pouch_mag_bluefor_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_pouch_mag_kangaroo_alp",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_pouch_mag_kangaroo_aor1",
+        "fog_pouch_mag_kangaroo_aor2",
+        "fog_pouch_mag_kangaroo_black",
+        "fog_pouch_mag_kangaroo_cb",
+        "fog_pouch_mag_kangaroo_mc",
+        "fog_pouch_mag_kangaroo_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_tv110t_adminpouch_au",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_tv110t_adminpouch_black",
+        "fog_tv110t_adminpouch_cb",
+        "fog_tv110t_adminpouch_fg",
+        "fog_tv110t_adminpouch_mc",
+        "fog_tv110t_adminpouch_rg",
+        "fog_tv110t_adminpouch_tan"
+      ]
+    },
+    {
+      "ClassName": "fog_tv110t_fastmag_au",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_tv110t_fastmag_black",
+        "fog_tv110t_fastmag_cb",
+        "fog_tv110t_fastmag_fg",
+        "fog_tv110t_fastmag_mc",
+        "fog_tv110t_fastmag_rg",
+        "fog_tv110t_fastmag_tan"
+      ]
+    },
+    {
+      "ClassName": "fog_tv110t_grenadepouch_au",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_tv110t_grenadepouch_black",
+        "fog_tv110t_grenadepouch_cb",
+        "fog_tv110t_grenadepouch_fg",
+        "fog_tv110t_grenadepouch_mc",
+        "fog_tv110t_grenadepouch_rg",
+        "fog_tv110t_grenadepouch_tan"
+      ]
+    },
+    {
+      "ClassName": "fog_tv110t_magpouches_au",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_tv110t_magpouches_black",
+        "fog_tv110t_magpouches_cb",
+        "fog_tv110t_magpouches_fg",
+        "fog_tv110t_magpouches_mc",
+        "fog_tv110t_magpouches_rg",
+        "fog_tv110t_magpouches_tan"
+      ]
+    },
+    {
+      "ClassName": "fog_tv110t_medkit_au",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_tv110t_medkit_black",
+        "fog_tv110t_medkit_cb",
+        "fog_tv110t_medkit_fg",
+        "fog_tv110t_medkit_mc",
+        "fog_tv110t_medkit_rg",
+        "fog_tv110t_medkit_tan"
+      ]
+    },
+    {
+      "ClassName": "fog_tv110t_utilitypouch_au",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_tv110t_utilitypouch_black",
+        "fog_tv110t_utilitypouch_cb",
+        "fog_tv110t_utilitypouch_fg",
+        "fog_tv110t_utilitypouch_mc",
+        "fog_tv110t_utilitypouch_rg",
+        "fog_tv110t_utilitypouch_tan"
+      ]
+    },
+    {
+      "ClassName": "fog_vest_phonecase1_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_vest_phonecase1_grey",
+        "fog_vest_phonecase1_rg",
+        "fog_vest_phonecase1_tan"
+      ]
+    }
+  ]
+}
