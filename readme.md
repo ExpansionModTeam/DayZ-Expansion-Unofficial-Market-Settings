@@ -19,6 +19,8 @@ You can also click on "market" to see and download individual files
                                                             
 ```
 
+https://github.com/salutesh/DayZ-Expansion-Scripts/wiki
+
 ```
  __ __ __    ________  ___   ___   ________      ______   __  __   __     _________  
 /_//_//_/\  /_______/\/___/\/__/\ /_______/\    /_____/\ /_/\/_/\ /_/\   /________/\ 
