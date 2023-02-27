@@ -6,7 +6,7 @@ https://github.com/ExpansionModTeam/DayZ-Expansion-Unnoficial-Market-Settings/ar
 You can also click on "market" to see and download individual files
 
 
-#  PRAISE BE THE SACRED TEXTS 
+# $${\large\color{red}Praise \ Be \ The \ Sacred \ Texts}$$
 
 ```
  (                                                          
@@ -31,3 +31,4 @@ https://github.com/salutesh/DayZ-Expansion-Scripts/wiki
    \:\\:\\:\ \/__\::\__/\\: \ )  \ \/__\::\__/\    \:\_\ \ \\:\_\:\ \\:\/___/\\::\ \ 
     \_______\/\________\/ \__\/\__\/\________\/     \_____\/ \_____\/ \_____\/ \__\/ 
 ```               
+# $${\large\color{red}Praise \ Be \ The \ Divine \ Ones}$$
