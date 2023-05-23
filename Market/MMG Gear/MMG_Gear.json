@@ -140,6 +140,20 @@
             ]
         },
         {
+            "ClassName": "MMG_multiple_magpouch_black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_multiple_magpouch_green",
+                "MMG_multiple_magpouch_tan"
+            ]
+        },
+        {
             "ClassName": "MMG_double_magpouch_black",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
