@@ -1,0 +1,305 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG Shirts",
+  "Icon": "Soldier",
+  "Color": "E9151AFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "fog_511_shirt_flanel",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_511_shirt_flanel_black",
+        "fog_511_shirt_flanel_blue",
+        "fog_511_shirt_flanel_green",
+        "fog_511_shirt_flanel_red"
+      ]
+    },
+    {
+      "ClassName": "fog_cronen_shirt_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_cronen_shirt_cb",
+        "fog_cronen_shirt_mc",
+        "fog_cronen_shirt_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_crye_g3_shirt_6cd",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_crye_g3_shirt_aor1",
+        "fog_crye_g3_shirt_aor2",
+        "fog_crye_g3_shirt_black",
+        "fog_crye_g3_shirt_cb",
+        "fog_crye_g3_shirt_dcu",
+        "fog_crye_g3_shirt_dtgr",
+        "fog_crye_g3_shirt_grey",
+        "fog_crye_g3_shirt_m81",
+        "fog_crye_g3_shirt_marpat",
+        "fog_crye_g3_shirt_mc",
+        "fog_crye_g3_shirt_mca",
+        "fog_crye_g3_shirt_mcal",
+        "fog_crye_g3_shirt_mcb",
+        "fog_crye_g3_shirt_mct",
+        "fog_crye_g3_shirt_rdbs",
+        "fog_crye_g3_shirt_rg",
+        "fog_crye_g3_shirt_tgr"
+      ]
+    },
+    {
+      "ClassName": "fog_enhanced_pcu_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_enhanced_pcu_grey",
+        "fog_enhanced_pcu_mc",
+        "fog_enhanced_pcu_rg",
+        "fog_enhanced_pcu_tan"
+      ]
+    },
+    {
+      "ClassName": "fog_gorka_jacket_autumn",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_gorka_jacket_black",
+        "fog_gorka_jacket_green",
+        "fog_gorka_jacket_khaki",
+        "fog_gorka_jacket_partizan",
+        "fog_gorka_jacket_summer"
+      ]
+    },
+    {
+      "ClassName": "fog_heavyriders_jacket_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_heavyriders_jacket_green",
+        "fog_heavyriders_jacket_rb",
+        "fog_heavyriders_jacket_red",
+        "fog_heavyriders_jacket_teal"
+      ]
+    },
+    {
+      "ClassName": "fog_hoodie_jacket_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_hoodie_jacket_cdaj",
+        "fog_hoodie_jacket_erdl",
+        "fog_hoodie_jacket_fog",
+        "fog_hoodie_jacket_mc",
+        "fog_hoodie_jacket_mlg",
+        "fog_hoodie_jacket_nike_g",
+        "fog_hoodie_jacket_patagonia",
+        "fog_hoodie_jacket_perdl",
+        "fog_hoodie_jacket_rolled_black",
+        "fog_hoodie_jacket_rolled_cdaj",
+        "fog_hoodie_jacket_rolled_erdl",
+        "fog_hoodie_jacket_rolled_fog",
+        "fog_hoodie_jacket_rolled_mc",
+        "fog_hoodie_jacket_rolled_mlg",
+        "fog_hoodie_jacket_rolled_nike_g",
+        "fog_hoodie_jacket_rolled_patagonia",
+        "fog_hoodie_jacket_rolled_perdl",
+        "fog_hoodie_jacket_rolled_supreme",
+        "fog_hoodie_jacket_rolled_thrasher",
+        "fog_hoodie_jacket_supreme",
+        "fog_hoodie_jacket_thrasher"
+      ]
+    },
+    {
+      "ClassName": "fog_jacket_softshell_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_jacket_softshell_erdl",
+        "fog_jacket_softshell_mc",
+        "fog_jacket_softshell_rg",
+        "fog_jacket_softshell_tan"
+      ]
+    },
+    {
+      "ClassName": "fog_mtf_shirt_cb",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_mtf_shirt_erdl",
+        "fog_mtf_shirt_fk",
+        "fog_mtf_shirt_grey",
+        "fog_mtf_shirt_mc",
+        "fog_mtf_shirt_mcb",
+        "fog_mtf_shirt_rg",
+        "fog_mtf_shirt_ts"
+      ]
+    },
+    {
+      "ClassName": "fog_shirt_isof_jacket_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_shirt_isof_jacket_m81",
+        "fog_shirt_isof_jacket_mc"
+      ]
+    },
+    {
+      "ClassName": "fog_shirt_polo_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_shirt_polo_blue",
+        "fog_shirt_polo_navyblue",
+        "fog_shirt_polo_od",
+        "fog_shirt_polo_trident"
+      ]
+    },
+    {
+      "ClassName": "fog_shirt_tactical_coat_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_tactical_fleece_arctic",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_tactical_fleece_black",
+        "fog_tactical_fleece_cb",
+        "fog_tactical_fleece_grey",
+        "fog_tactical_fleece_mc",
+        "fog_tactical_fleece_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_tactical_hoodie_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_tactical_hoodie_erdl",
+        "fog_tactical_hoodie_mc",
+        "fog_tactical_hoodie_mcb",
+        "fog_tactical_hoodie_rg",
+        "fog_tactical_hoodie_uwu"
+      ]
+    },
+    {
+      "ClassName": "fog_tshirt_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_tshirt_black_canoe",
+        "fog_tshirt_black_crimeco",
+        "fog_tshirt_black_fog_reaper",
+        "fog_tshirt_black_fog1",
+        "fog_tshirt_black_fog2",
+        "fog_tshirt_black_mlg",
+        "fog_tshirt_black_raider",
+        "fog_tshirt_black_sfartaetc",
+        "fog_tshirt_black_thrasher",
+        "fog_tshirt_cb",
+        "fog_tshirt_red",
+        "fog_tshirt_rg",
+        "fog_tshirt_white_pinup",
+        "fog_tshirt_white_star"
+      ]
+    },
+    {
+      "ClassName": "fog_ufj_shirt_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_ufj_shirt_cb",
+        "fog_ufj_shirt_erdl",
+        "fog_ufj_shirt_erdl_rg",
+        "fog_ufj_shirt_grey",
+        "fog_ufj_shirt_rg"
+      ]
+    }
+  ]
+}

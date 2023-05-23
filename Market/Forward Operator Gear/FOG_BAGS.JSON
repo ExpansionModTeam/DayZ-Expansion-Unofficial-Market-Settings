@@ -1,0 +1,142 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG Bags",
+  "Icon": "Backpack",
+  "Color": "E9151AFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "fog_bag_6shbagt_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_bag_6shbagt_cb",
+        "fog_bag_6shbagt_green",
+        "fog_bag_6shbagt_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_bag_blackjack_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_bag_blackjack_cb",
+        "fog_bag_blackjack_erdl",
+        "fog_bag_blackjack_mc",
+        "fog_bag_blackjack_mcb",
+        "fog_bag_blackjack_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_bag_drawbridge_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_bag_drawbridge_cb",
+        "fog_bag_drawbridge_grey",
+        "fog_bag_drawbridge_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_bag_f4terminator",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_bag_f4terminator_black",
+        "fog_bag_f4terminator_cb",
+        "fog_bag_f4terminator_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_bag_mrasap_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_bag_mrasap_cb",
+        "fog_bag_mrasap_grey",
+        "fog_bag_mrasap_mc",
+        "fog_bag_mrasap_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_bag_sso_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_bag_sso_cb",
+        "fog_bag_sso_mc",
+        "fog_bag_sso_mcb",
+        "fog_bag_sso_tan",
+        "fog_bag_sso_toxic"
+      ]
+    },
+    {
+      "ClassName": "fog_bag_trizip_atacsfg",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_bag_trizip_black",
+        "fog_bag_trizip_cb",
+        "fog_bag_trizip_dcu",
+        "fog_bag_trizip_erdl",
+        "fog_bag_trizip_marpat",
+        "fog_bag_trizip_mc",
+        "fog_bag_trizip_puke",
+        "fog_bag_trizip_rg",
+        "fog_bag_trizip_rgcb"
+      ]
+    },
+    {
+      "ClassName": "fog_bergen_rucksack_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_bergen_rucksack_erdl",
+        "fog_bergen_rucksack_green",
+        "fog_bergen_rucksack_multicam",
+        "fog_bergen_rucksack_woodland"
+      ]
+    }
+  ]
+}
