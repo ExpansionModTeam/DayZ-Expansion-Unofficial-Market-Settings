@@ -1,0 +1,349 @@
+{
+  "m_Version": 12,
+  "DisplayName": "SCWS Attachments",
+  "Icon": "Gun",
+  "Color": "FF9400",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+        "ClassName": "SCWS_BipodU",
+        "MaxPriceThreshold": 500,
+        "MinPriceThreshold": 500,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+          "SpawnAttachments": [],
+          "Variants": [
+            "SCWS_BipodF"
+          ]
+    },
+    {
+        "ClassName": "SCWS_AngledGrip",
+        "MaxPriceThreshold": 300,
+        "MinPriceThreshold": 300,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_StubbyGrip",
+        "MaxPriceThreshold": 300,
+        "MinPriceThreshold": 300,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_Anpeq",
+        "MaxPriceThreshold": 700,
+        "MinPriceThreshold": 700,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_ATACR",
+        "MaxPriceThreshold": 1000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_AWMScope",
+        "MaxPriceThreshold": 1500,
+        "MinPriceThreshold": 1500,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_BENDERScope",
+        "MaxPriceThreshold": 1500,
+        "MinPriceThreshold": 1500,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_Bravo",
+        "MaxPriceThreshold": 800,
+        "MinPriceThreshold": 800,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_colimdot",
+        "MaxPriceThreshold": 700,
+        "MinPriceThreshold": 700,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_DeltaReflex",
+        "MaxPriceThreshold": 800,
+        "MinPriceThreshold": 800,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_EOTECH",
+        "MaxPriceThreshold": 1000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_HAMROptic",
+        "MaxPriceThreshold": 1750,
+        "MinPriceThreshold": 1750,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_Holosun",
+        "MaxPriceThreshold": 900,
+        "MinPriceThreshold": 900,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_M14_scope",
+        "MaxPriceThreshold": 1200,
+        "MinPriceThreshold": 1200,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_CS5Scope",
+        "MaxPriceThreshold": 1200,
+        "MinPriceThreshold": 1200,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_MRO",
+        "MaxPriceThreshold": 1100,
+        "MinPriceThreshold": 1100,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_uhScope",
+        "MaxPriceThreshold": 1100,
+        "MinPriceThreshold": 1100,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_46v2x",
+        "MaxPriceThreshold": 1400,
+        "MinPriceThreshold": 1400,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_UH1",
+        "MaxPriceThreshold": 1500,
+        "MinPriceThreshold": 1500,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_Suppressor_Legion",
+        "MaxPriceThreshold": 5000,
+        "MinPriceThreshold": 5000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "SCWS_Suppressor_Legion_Black"
+        ]
+    },
+    {
+        "ClassName": "SCWS_Uni_Suppressor_Black",
+        "MaxPriceThreshold": 3000,
+        "MinPriceThreshold": 3000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "SCWS_Uni_Suppressor_Tank",
+            "SCWS_Uni_Suppressor_Gold"
+        ]
+    },
+    {
+        "ClassName": "SCWS_408_Suppressor",
+        "MaxPriceThreshold": 5000,
+        "MinPriceThreshold": 5000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_50_Suppressor",
+        "MaxPriceThreshold": 8000,
+        "MinPriceThreshold": 8000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_9mm_Suppressor",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 2000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_SPR_Stock",
+        "MaxPriceThreshold": 1250,
+        "MinPriceThreshold": 1250,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_SPR_Rail",
+        "MaxPriceThreshold": 800,
+        "MinPriceThreshold": 800,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_AK47G_Stock",
+        "MaxPriceThreshold": 750,
+        "MinPriceThreshold": 750,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_AK47G_Handguard",
+        "MaxPriceThreshold": 800,
+        "MinPriceThreshold": 800,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "SCWS_AK47G_HandguardTan"
+        ]
+    },
+    {
+        "ClassName": "SCWS_MCX_Stock",
+        "MaxPriceThreshold": 900,
+        "MinPriceThreshold": 900,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_CZ_Stock",
+        "MaxPriceThreshold": 900,
+        "MinPriceThreshold": 900,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    }
+  ]
+}
