@@ -1,0 +1,308 @@
+{
+  "m_Version": 12,
+  "DisplayName": "SCWS Weapons",
+  "Icon": "Gun",
+  "Color": "FFD400",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+        "ClassName": "SCWS_AK400",
+        "MaxPriceThreshold": 5000,
+        "MinPriceThreshold": 5000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_APC9",
+        "MaxPriceThreshold": 3000,
+        "MinPriceThreshold": 3000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_AR10",
+        "MaxPriceThreshold": 6500,
+        "MinPriceThreshold": 6500,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_AUGA3",
+        "MaxPriceThreshold": 7000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "SCWS_AUGA3Tan",
+            "SCWS_AUGA3Fall"
+        ]
+    },
+    {
+        "ClassName": "SCWS_CZ",
+        "MaxPriceThreshold": 6000,
+        "MinPriceThreshold": 6000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "SCWS_CZ_Pink",
+            "SCWS_CZ_Red"
+        ]
+    },
+    {
+        "ClassName": "SCWS_DT408",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 10000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_FAMASF1",
+        "MaxPriceThreshold": 7000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "SCWS_FAMASF1TAN",
+            "SCWS_FAMASF1FALL"
+        ]
+    },
+    {
+        "ClassName": "SCWS_GM6LYNX",
+        "MaxPriceThreshold": 50000,
+        "MinPriceThreshold": 50000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "SCWS_GM6LYNXK"
+        ]
+    },
+    {
+        "ClassName": "SCWS_M14",
+        "MaxPriceThreshold": 7000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_M249",
+        "MaxPriceThreshold": 25000,
+        "MinPriceThreshold": 25000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_M82A1",
+        "MaxPriceThreshold": 65000,
+        "MinPriceThreshold": 65000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "SCWS_M82A1FALL"
+        ]
+    },
+    {
+        "ClassName": "SCWS_MCX",
+        "MaxPriceThreshold": 8000,
+        "MinPriceThreshold": 8000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_MDR",
+        "MaxPriceThreshold": 9000,
+        "MinPriceThreshold": 9000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "SCWS_MDRBLACK"
+        ]
+    },
+    {
+        "ClassName": "SCWS_MK18",
+        "MaxPriceThreshold": 9000,
+        "MinPriceThreshold": 9000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "SCWS_MK18TAN"
+        ]
+    },
+    {
+        "ClassName": "SCWS_MP7A1",
+        "MaxPriceThreshold": 6000,
+        "MinPriceThreshold": 6000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "SCWS_MP7A1_Fall"
+        ]
+    },
+    {
+        "ClassName": "SCWS_P90",
+        "MaxPriceThreshold": 7500,
+        "MinPriceThreshold": 7500,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "SCWS_P90_Fall"
+        ]
+    },
+    {
+        "ClassName": "SCWS_SCARH",
+        "MaxPriceThreshold": 8000,
+        "MinPriceThreshold": 8000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_SPEAR",
+        "MaxPriceThreshold": 7500,
+        "MinPriceThreshold": 7500,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "SCWS_SPEAR_Fall"
+        ]
+    },
+    {
+        "ClassName": "SCWS_STI",
+        "MaxPriceThreshold": 8000,
+        "MinPriceThreshold": 8000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "SCWS_M200",
+        "MaxPriceThreshold": 85000,
+        "MinPriceThreshold": 85000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "SCWS_M200Fall"
+        ]
+    },
+    {
+        "ClassName": "SCWS_SPR",
+        "MaxPriceThreshold": 60000,
+        "MinPriceThreshold": 60000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "SCWS_SPRFall"
+        ]
+    },
+    {
+        "ClassName": "SCWS_TIMBERWOLF",
+        "MaxPriceThreshold": 70000,
+        "MinPriceThreshold": 70000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "SCWS_TIMBERWOLFCAMO",
+            "SCWS_TIMBERWOLFANIME"
+        ]
+    },
+    {
+        "ClassName": "SCWS_AAC",
+        "MaxPriceThreshold": 8000,
+        "MinPriceThreshold": 8000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "SCWS_AAC_Fall"
+        ]
+    },
+    {
+        "ClassName": "SCWS_AK47G",
+        "MaxPriceThreshold": 7500,
+        "MinPriceThreshold": 7500,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "SCWS_AK47G_Tan"
+        ]
+    }
+  ]
+}
