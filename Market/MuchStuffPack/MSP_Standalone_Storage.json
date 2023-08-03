@@ -1,0 +1,210 @@
+{
+  "m_Version": 12,
+  "DisplayName": "MSP - Standalone Storage",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Msp_LargeAmmoBox",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_GrenadeBox",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_TackleBox",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_TackleBox_Black"
+      ]
+    },
+    {
+      "ClassName": "Msp_CoolerBox",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_CoolerBox_Black"
+      ]
+    },
+    {
+      "ClassName": "Msp_Basket_Rectangular",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_Basket_Wicker",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_MedievalChest",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_TreasureChest",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_AmericanAppleCrate",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_AppleCrate",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_PlasticCrate",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_AmmoCrate",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_MilitaryCrate_Brown",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_MilitaryCrate_Green",
+        "Msp_MilitaryCrate_Grey",
+        "Msp_MilitaryCrate_Olive",
+        "Msp_MilitaryCrate_Tan"
+      ]
+    },
+    {
+      "ClassName": "Msp_MedCase",
+      "MaxPriceThreshold": 250,
+      "MinPriceThreshold": 225,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_ParamedicBag_Red",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 120,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_ParamedicBag_Green",
+        "Msp_ParamedicBag_Blue",
+        "Msp_ParamedicBag_NBC"
+      ]
+    },
+    {
+      "ClassName": "Msp_Mailbox",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_TrashCan",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
