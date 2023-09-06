@@ -1,0 +1,34 @@
+{
+  "m_Version": 12,
+  "DisplayName": "MSP - Tents",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "WG_AdventurerTent_Kit",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "WG_CampingTent_Blue_Kit",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "WG_CampingTent_Gray_Kit"
+      ]
+    }
+  ]
+}

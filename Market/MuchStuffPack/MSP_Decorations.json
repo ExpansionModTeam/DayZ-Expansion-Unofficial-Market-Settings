@@ -1,0 +1,126 @@
+{
+  "m_Version": 12,
+  "DisplayName": "MSP - Base Decorations",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Msp_Shelf_Kit",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_SleepingBag_Green",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_SleepingBag_Blue",
+        "Msp_SleepingBag_LimeGreen",
+        "Msp_SleepingBag_Orange",
+        "Msp_SleepingBag_Purple",
+        "Msp_SleepingBag_Red"
+      ]
+    },
+    {
+      "ClassName": "Msp_Mattress_Blue",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_Mattress_Green",
+        "Msp_Mattress_Pink",
+        "Msp_Mattress_Yellow"
+      ]
+    },
+    {
+      "ClassName": "Msp_DeskClock",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_WoodenTable_Kit",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_WoodenChair",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_RoomDivider_Kit",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_HousePlant_Philodendron",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_HousePlant_FicusTree",
+        "Msp_HousePlant_RubberFig",
+        "Msp_HousePlant_Succulent"
+      ]
+    },
+    {
+      "ClassName": "Msp_Trophy_Gold",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_Trophy_Bronze", 
+        "Msp_Trophy_Silver"
+      ]
+    }
+  ]
+}

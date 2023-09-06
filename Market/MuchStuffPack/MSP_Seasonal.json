@@ -1,0 +1,249 @@
+{
+  "m_Version": 12,
+  "DisplayName": "MSP - Seasonal",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Msp_SantaPants",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_SantaJacket",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PolarBear",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_Bunny",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_Rabbit",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_Egg_Blue",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_Egg_Pink",
+        "Msp_Egg_Red",
+        "Msp_Egg_Green",
+        "Msp_Egg_Purple",
+        "Msp_Egg_Yellow"
+      ]
+    },
+    {
+      "ClassName": "Msp_BeachBall",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_BeachChair_Kit",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_BeachUmbrella",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_BeachUmbrella_Stripes"
+      ]
+    },
+    {
+      "ClassName": "Msp_Floaties",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_Floatie_Wheel",
+        "Msp_Floatie_Unicorn",
+        "Msp_Floatie_Unicorn_Rainbow",
+        "Msp_Floatie_Unicorn_BlueRainbow",
+        "Msp_Floatie_Unicorn_GreenRainbow",
+        "Msp_Floatie_Unicorn_PurpleRainbow",
+        "Msp_Floatie_Flamingo"
+      ]
+    },
+    {
+      "ClassName": "Msp_KiddiePool_Kit",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_KiddiePool_Pink_Kit",
+        "Msp_KiddiePool_Yellow_Kit"
+      ]
+    },
+    {
+      "ClassName": "Msp_VolleyballNet_Kit",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_Volleyball",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_Water_Gun",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_Water_Gun_Mag",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_WitchHat",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "MSP_WitchCauldron",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_CoffinBox",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_MedievalGibbet_Kit",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_MedievalGibbetWithMount_Kit",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

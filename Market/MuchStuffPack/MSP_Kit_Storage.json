@@ -1,0 +1,231 @@
+{
+  "m_Version": 12,
+  "DisplayName": "MSP - Kit Storage",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Msp_StorageBox_Kit",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_MilitaryLocker_Kit",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_Locker_Kit",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_SoloLocker_Kit",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_SoloLocker_Black_Kit",
+        "Msp_SoloLocker_White_Kit",
+        "Msp_SoloLocker_Green_Kit",
+        "Msp_SoloLocker_Red_Kit",
+        "Msp_SoloLocker_RedRusty_Kit",
+        "Msp_SoloLocker_Yellow_Kit",
+        "Msp_SoloLocker_YellowRusty_Kit"
+      ]
+    },
+    {
+      "ClassName": "Msp_OldLocker_Kit",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_OldLocker_Green_Kit"
+      ]
+    },
+    {
+      "ClassName": "Msp_FourDoor_MilitaryLocker_Kit",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_FourDoor_MilitaryLocker_Green_Kit"
+      ]
+    },
+    {
+      "ClassName": "Msp_RifleSafe_Kit",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_RifleSafe_Grey_Kit",
+        "Msp_RifleSafe_Green_Kit",
+        "Msp_RifleSafe_Purple_Kit",
+        "Msp_RifleSafe_Tan_Kit"
+      ]
+    },
+    {
+      "ClassName": "Msp_Safe",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_ToolsBench_Blue_Kit",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_ToolsBench_Grey_Kit",
+        "Msp_ToolsBench_Red_Kit"
+      ]
+    },
+    {
+      "ClassName": "Msp_Bookcase_Kit",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_MedicalBox_Kit",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_Wardrobe_Brown_Kit",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_Wardrobe_Green_Kit",
+        "Msp_Wardrobe_White_Kit"
+      ]
+    },
+    {
+      "ClassName": "Msp_GunCabinet_Kit",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_GunRack_Kit",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_DoubleGunRack_Kit",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_FishingRodsRack_Kit",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_WoodenGunRack_Kit",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_Gunwall_Kit",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
