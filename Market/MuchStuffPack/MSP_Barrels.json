@@ -1,0 +1,73 @@
+{
+  "m_Version": 12,
+  "DisplayName": "MSP - Barrels",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Msp_WaterBarrel_Stand",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_WaterBarrel_Stand_Darkwood"
+      ]
+    },
+    {
+      "ClassName": "Msp_WaterBarrel",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_WaterBarrel_Plastic",
+        "Msp_WaterBarrel_Plastic_Yellow",
+        "Msp_WaterBarrel_Plastic_Green",
+        "Msp_WaterBarrel_Plastic_Red",
+        "Msp_WaterBarrel_Plastic_Black",
+        "Msp_WaterBarrel_Plastic_White",
+        "Msp_WaterBarrel_Darkwood"
+      ]
+    },
+    {
+      "ClassName": "Msp_WaterBarrel_Valve",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 120,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_WaterBarrel_Valve_Darkwood",
+        "Msp_WaterBarrel_Valve_Faucet"
+      ]
+    },
+    {
+      "ClassName": "Msp_Barrel_Donation",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_Barrel_Donation_Ammo",
+        "Msp_Barrel_Donation_Guns",
+        "Msp_Barrel_Donation_Food",
+        "Msp_Barrel_Donation_Medical",
+        "Msp_Barrel_Donation_BloodONegative"
+      ]
+    }
+  ]
+}

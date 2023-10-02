@@ -1,0 +1,46 @@
+{
+  "m_Version": 12,
+  "DisplayName": "MSP - Fridges",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Msp_MoskvaFridge_Blue_Kit",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_MoskvaFridge_Cream_Kit",
+        "Msp_MoskvaFridge_Red_Kit"
+      ]
+    },
+    {
+      "ClassName": "Msp_SovietOkaFridge_Kit",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_SnowballFridge_Kit",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
