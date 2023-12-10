@@ -6,27 +6,27 @@ If you have the server hoster role in the Expansion Discord and need pictures, g
 
 At the top of the webapge, there is the forks button with a drop down. Click the drop down and create new fork. This will ultimately add a clone of the main repository to your github page. You can edit this clone. 
 
-[<img alt="Expansion Discord" width="900px" src="https://github.com/CommanderBeelo/Beelos-DayZ-Files/blob/main/guide/Fork.png" />]
+<img alt="Expansion Discord" width="900px" src="https://github.com/CommanderBeelo/Beelos-DayZ-Files/blob/main/guide/Fork.png" />
 
 ## Step 2 - Add your files.
 
 There are a couple ways to do this. You can use the webpage to add them, or use something like Github Desktop (https://desktop.github.com/ ) to manipulate your additions. Either way, you will need to add your new files to your fork first. This way Github can see your fork has something the main fork does not. 
 
-[<img alt="Expansion Discord" width="900px" src="https://github.com/CommanderBeelo/Beelos-DayZ-Files/blob/main/guide/CommitAhead.png" />]
+<img alt="Expansion Discord" width="900px" src="https://github.com/CommanderBeelo/Beelos-DayZ-Files/blob/main/guide/CommitAhead.png" />
 
 ## Step 3 - Open a pull request.
 
 Once you've added your new files accordingly in your own repo on Github, you can click the link where it says "This Repository is ## commits ahead of main." Click create pull request. Put a short description of what your adding or changing, and submit. 
 
-[<img alt="Expansion Discord" width="900px" src="https://github.com/CommanderBeelo/Beelos-DayZ-Files/blob/main/guide/Create.png" />]
+<img alt="Expansion Discord" width="900px" src="https://github.com/CommanderBeelo/Beelos-DayZ-Files/blob/main/guide/Create.png" />
 
-[<img alt="Expansion Discord" width="900px" src="https://github.com/CommanderBeelo/Beelos-DayZ-Files/blob/main/guide/create%202.png" />]
+<img alt="Expansion Discord" width="900px" src="https://github.com/CommanderBeelo/Beelos-DayZ-Files/blob/main/guide/create%202.png" />
 
 ## Step 4 - Wait
 
 If your additions are valid and done properly, they will get added to the repository once someone has time to review them. 
 
-[<img alt="Expansion Discord" width="900px" src="https://github.com/CommanderBeelo/Beelos-DayZ-Files/blob/main/guide/Finished.png" />]
+<img alt="Expansion Discord" width="900px" src="https://github.com/CommanderBeelo/Beelos-DayZ-Files/blob/main/guide/Finished.png" />
 
 ## Step 5 - Praise the Wiki
 
