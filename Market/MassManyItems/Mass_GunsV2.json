@@ -1,0 +1,251 @@
+<!-- Please note, massppskn was crashing my client when exiting the weapons trader so i removed it 12/10/2023 -->
+<!-- Here is what was removed -->
+<!--{
+<!--  "ClassName": "massppskn",
+<!--  "MaxPriceThreshold": 20000,
+<!--  "MinPriceThreshold": 20000,
+<!--  "SellPricePercent": -1,
+<!--  "MaxStockThreshold": 100,
+<!--  "MinStockThreshold": 1,
+<!--  "SpawnAttachments": [],
+<!--  "Variants": []
+<!--}
+
+{
+  "m_Version": 12,
+  "DisplayName": "MASS GUNS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "mass357m1911",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "massar15",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "massar15dmr",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [
+        "massar15adjbttstck"
+      ],
+      "Variants": [
+        "massar15dmr_desert"
+      ]
+    },
+    {
+      "ClassName": "massarmsan",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "massb52",
+      "MaxPriceThreshold": 4500,
+      "MinPriceThreshold": 3750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "massg18",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "massg18_green"
+      ]
+    },
+    {
+      "ClassName": "masskivaari",
+      "MaxPriceThreshold": 39000,
+      "MinPriceThreshold": 24500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "massm110",
+      "MaxPriceThreshold": 34500,
+      "MinPriceThreshold": 22250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "massm16",
+      "MaxPriceThreshold": 4500,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "massm19",
+      "MaxPriceThreshold": 2800,
+      "MinPriceThreshold": 1400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "massm19_wood"
+      ]
+    },
+    {
+      "ClassName": "massm24",
+      "MaxPriceThreshold": 42000,
+      "MinPriceThreshold": 36000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "massm300",
+      "MaxPriceThreshold": 44000,
+      "MinPriceThreshold": 37000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "massm300_camo",
+        "m300bl"
+      ]
+    },
+    {
+      "ClassName": "massmini14",
+      "MaxPriceThreshold": 3800,
+      "MinPriceThreshold": 2400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "massmp153",
+      "MaxPriceThreshold": 2900,
+      "MinPriceThreshold": 1450,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "massppsh41",
+      "MaxPriceThreshold": 5500,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "massppsh41_green",
+        "massppsh41_black",
+        "massppsh41_camo"
+      ]
+    },
+    {
+      "ClassName": "massscout556",
+      "MaxPriceThreshold": 4200,
+      "MinPriceThreshold": 2100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "massstevens301",
+      "MaxPriceThreshold": 4500,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "massstevens301_green",
+        "massstevens301_tan"
+      ]
+    },
+    {
+      "ClassName": "masssvt40",
+      "MaxPriceThreshold": 16000,
+      "MinPriceThreshold": 16000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "masstmp153",
+      "MaxPriceThreshold": 3200,
+      "MinPriceThreshold": 1600,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "masstype81",
+      "MaxPriceThreshold": 2200,
+      "MinPriceThreshold": 1100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "massyhm_1022",
+      "MaxPriceThreshold": 1100,
+      "MinPriceThreshold": 550,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
