@@ -1,0 +1,710 @@
+{
+    "m_Version": 12,
+    "DisplayName": "RaG Base Items",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+      {
+        "ClassName": "rag_baseitems_medieval_fireplace_kit",
+        "MaxPriceThreshold": 1000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_gazebo_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_furnace_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_big_drawer_cabinet_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_toolbench_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_tools_drawer_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_fridge_twodoor_old_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_jd_fridge_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "rag_baseitems_retro_fridge_kit"
+        ]
+      },
+      {
+        "ClassName": "rag_baseitems_greenhouse_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "rag_baseitems_greenhouse_big_kit"
+        ]
+      },
+      {
+        "ClassName": "rag_baseitems_gunwall_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "rag_baseitems_gunwall_nostand_kit"
+        ]
+      },
+      {
+        "ClassName": "rag_baseitems_gunrack_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_mesh_locker_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_military_locker_big_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "rag_baseitems_military_locker_small_kit"
+        ]
+      },
+      {
+        "ClassName": "rag_baseitems_single_locker_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "rag_baseitems_single_locker_black_kit",
+            "rag_baseitems_single_locker_green_kit",
+            "rag_baseitems_single_locker_purple_kit",
+            "rag_baseitems_single_locker_red_kit",
+            "rag_baseitems_single_locker_yellow_kit"
+        ]
+      },
+      {
+        "ClassName": "rag_baseittems_triple_locker_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "rag_baseittems_triple_locker_black_kit",
+            "rag_baseittems_triple_locker_green_kit",
+            "rag_baseittems_triple_locker_purple_kit",
+            "rag_baseittems_triple_locker_red_kit",
+            "rag_baseittems_triple_locker_yellow_kit"
+        ]
+      },
+      {
+        "ClassName": "rag_baseitems_globe_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_firstaid_cabinet_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_medic_box_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_improvised_bed_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_grammophone_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_grammophone_disk",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "rag_baseitems_grammophone_2_disk",
+            "rag_baseitems_grammophone_3_disk"
+        ]
+      },
+      {
+        "ClassName": "rag_baseitems_sofa_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "rag_baseitems_sofa_brown_leather_kit",
+            "rag_baseitems_sofa_black_leather_kit"
+        ]
+      },
+      {
+        "ClassName": "rag_baseitems_brazier_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "rag_baseitems_brazier_small_kit"
+        ]
+      },
+      {
+        "ClassName": "rag_baseitems_odin_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_totem_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_warrior_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_basket_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_roomdivider_beach_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "rag_baseitems_roomdivider_dayz1_kit",
+            "rag_baseitems_roomdivider_dayz2_kit",
+            "rag_baseitems_roomdivider_japan_kit",
+            "rag_baseitems_roomdivider_sunset_kit"
+        ]
+      },
+      {
+        "ClassName": "rag_baseitems_big_safe_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_small_iron_safe_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_celtic_shelter_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_beach_chair_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_volleyball_net_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_beach_umbrella_beige_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "rag_baseitems_beach_umbrella_blue_kit",
+            "rag_baseitems_beach_umbrella_multi_kit",
+            "rag_baseitems_beach_umbrella_green_kit"
+        ]
+      },
+      {
+        "ClassName": "rag_baseitems_beachball",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_volleyball",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_flamingo",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_small_pool_blue_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "rag_baseitems_small_pool_green_kit",
+            "rag_baseitems_small_pool_pink_kit",
+            "rag_baseitems_small_pool_red_kit",
+            "rag_baseitems_small_pool_yellow_kit",
+            "rag_baseitems_small_pool_rainbow_kit"
+        ]
+      },
+      {
+        "ClassName": "rag_baseitems_wardrobe_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_woodenshelf_big_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "rag_baseitems_woodenshelf_lightwood_big_kit",
+            "rag_baseitems_woodenshelf_small_kit",
+            "rag_baseitems_crateshelf_kit"
+        ]
+      },
+      {
+        "ClassName": "rag_baseitems_workbench_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_workbench_blueprint",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_lantern_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_lantern_wall_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_small_safe_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_wallpicture_unpainted",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_spaycan_paint",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_spaycan_white",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_plantseedspack",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_bed_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_gun_cabinet_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_dinner_table_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_victorian_table_wood_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "rag_baseitems_victorian_table_white_kit"
+        ]
+      },
+      {
+        "ClassName": "rag_baseitems_side_table_wood_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "rag_baseitems_side_table_white_kit"
+        ]
+      },
+      {
+        "ClassName": "rag_baseitems_wall_clock_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_tackle_box",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_fishing_rod_rack_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_tv_vintage_kit",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "rag_baseitems_waterbarrel",
+        "MaxPriceThreshold": 10000,
+        "MinPriceThreshold": 7000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      }
+    ]
+}
