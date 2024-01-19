@@ -1,0 +1,55 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON TACTICAL CLOTHES GOGGLES",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 1,
+  "Items": [
+    {
+      "ClassName": "paragon_bgoggles_black",
+      "MaxPriceThreshold": 111,
+      "MinPriceThreshold": 111,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_bgoggles_pink",
+        "paragon_bgoggles_blue",
+        "paragon_bgoggles_red"
+      ]
+    },
+    {
+      "ClassName": "paragon_dgoggles_black",
+      "MaxPriceThreshold": 111,
+      "MinPriceThreshold": 111,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_dgoggles_pink",
+        "paragon_dgoggles_blue",
+        "paragon_dgoggles_red"
+      ]
+    },
+    {
+      "ClassName": "paragon_ggoggles_black",
+      "MaxPriceThreshold": 111,
+      "MinPriceThreshold": 111,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_ggoggles_pink",
+        "paragon_ggoggles_blue",
+        "paragon_ggoggles_red"
+      ]
+    }
+  ]
+}

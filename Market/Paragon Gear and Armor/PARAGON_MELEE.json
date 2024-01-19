@@ -1,0 +1,41 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON MELEE weapon",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 1,
+  "Items": [
+    {
+      "ClassName": "paragon_katt_black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_katt_desert",
+        "paragon_katt_green"
+      ]
+    },
+    {
+      "ClassName": "paragon_karambit_black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_karambit_bry",
+        "paragon_karambit_by",
+        "paragon_karambit_rainbow",
+        "paragon_karambit_purple",
+        "paragon_karambit_white"
+      ]
+    }
+  ]
+}
