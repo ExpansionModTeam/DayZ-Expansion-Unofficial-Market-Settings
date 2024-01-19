@@ -1,0 +1,33 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON TACTICAL CLOTHES MASKS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 1,
+  "Items": [
+    {
+      "ClassName": "paragon_balaclava_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_balaclava_digital_flora",
+        "paragon_balaclava_digital_desert",
+        "paragon_balaclava_black_wl",
+        "paragon_balaclava_blue",
+        "paragon_balaclava_desert",
+        "paragon_balaclava_desert_camo",
+        "paragon_balaclava_green",
+        "paragon_balaclava_navy",
+        "paragon_balaclava_fatigue",
+        "paragon_balaclava_wl",
+        "paragon_balaclava_white"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON TACTICAL CLOTHES PANTS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 1,
+  "Items": [
+    {
+      "ClassName": "paragon_tacpants_black",
+      "MaxPriceThreshold": 1111,
+      "MinPriceThreshold": 1111,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_tacpants_digital_flora",
+        "paragon_tacpants_digital_desert",
+        "paragon_tacpants_blue",
+        "paragon_tacpants_desert",
+        "paragon_tacpants_green",
+        "paragon_tacpants_white",
+        "paragon_tacpants_camo",
+        "paragon_tacpants_fatigue",
+        "paragon_tacpants_navy",
+        "paragon_tacpants_black_wl"
+      ]
+    },
+    {
+      "ClassName": "paragon_combatpants_black",
+      "MaxPriceThreshold": 1111,
+      "MinPriceThreshold": 1111,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_combatpants_digital_flora",
+        "paragon_combatpants_digital_desert",
+        "paragon_combatpants_blue",
+        "paragon_combatpants_desert",
+        "paragon_combatpants_green",
+        "paragon_combatpants_white",
+        "paragon_combatpants_wl",
+        "paragon_combatpants_fatigue",
+        "paragon_combatpants_navy",
+        "paragon_combatpants_black_wl"
+      ]
+    }
+  ]
+}

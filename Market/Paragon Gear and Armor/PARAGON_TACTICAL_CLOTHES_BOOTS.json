@@ -1,0 +1,31 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON TACTICAL CLOTHES BOOTS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 1,
+  "Items": [
+    {
+      "ClassName": "paragon_tacboots_black",
+      "MaxPriceThreshold": 1111,
+      "MinPriceThreshold": 1111,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_tacboots_digital_flora",
+        "paragon_tacboots_digital_desert",
+        "paragon_tacboots_desert",
+        "paragon_tacboots_green",
+        "paragon_tacboots_blue",
+        "paragon_tacboots_fatigue",
+        "paragon_tacboots_navy",
+        "paragon_tacboots_wl",
+        "paragon_tacboots_black_wl"
+      ]
+    }
+  ]
+}

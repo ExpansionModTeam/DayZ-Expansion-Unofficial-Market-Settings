@@ -1,0 +1,32 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON TACTICAL CLOTHES GLOVES",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 1,
+  "Items": [
+    {
+      "ClassName": "paragon_tacticalgloves_black",
+      "MaxPriceThreshold": 1111,
+      "MinPriceThreshold": 1111,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_tacticalgloves_digital_flora",
+        "paragon_tacticalgloves_digital_desert",
+        "paragon_tacticalgloves_black_wl",
+        "paragon_tacticalgloves_blue",
+        "paragon_tacticalgloves_desert",
+        "paragon_tacticalgloves_green",
+        "paragon_tacticalgloves_navy",
+        "paragon_tacticalgloves_fatigue",
+        "paragon_tacticalgloves_wl",
+        "paragon_tacticalgloves_white"
+      ]
+    }
+  ]
+}
