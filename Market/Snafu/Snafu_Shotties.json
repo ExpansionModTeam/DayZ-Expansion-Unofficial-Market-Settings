@@ -1,15 +1,15 @@
 {
   "m_Version": 12,
-  "DisplayName": "Snafu_Bipods",
+  "DisplayName": "Snafu_Shotties",
   "Icon": "Deliver",
   "Color": "FBFCFEFF",
   "IsExchange": 0,
   "InitStockPercent": 75,
   "Items": [
     {
-      "ClassName": "SNAFU_Bipod",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
+      "ClassName": "AA12_Gun",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 1900,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -18,9 +18,9 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_PKPBIPOD",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
+      "ClassName": "VR80_Gun",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 15000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -29,9 +29,9 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_NPKPBIPOD",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
+      "ClassName": "SNAFU_Trenchgun",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 1900,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -40,9 +40,9 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_AtlasBipod",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
+      "ClassName": "SN_Auto_Shotgun",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 1900,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -51,9 +51,9 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_ModBipod",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
+      "ClassName": "SN_M870",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 1900,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -62,9 +62,9 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_VSSKbipod",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
+      "ClassName": "Spas12_Gun",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 1900,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -73,20 +73,9 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_M249Bipod",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "SNAFU_M200B_BK",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
+      "ClassName": "GCGN_BenelliM4",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 1900,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,

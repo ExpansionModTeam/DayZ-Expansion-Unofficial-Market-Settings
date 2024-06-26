@@ -1,15 +1,15 @@
 {
   "m_Version": 12,
-  "DisplayName": "Snafu_Bipods",
+  "DisplayName": "Snafu_Rifle",
   "Icon": "Deliver",
   "Color": "FBFCFEFF",
   "IsExchange": 0,
   "InitStockPercent": 75,
   "Items": [
     {
-      "ClassName": "SNAFU_Bipod",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
+      "ClassName": "GCGN_M700",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 7000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -18,9 +18,9 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_PKPBIPOD",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
+      "ClassName": "SNAFU_CALI_GUN",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 7000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -29,9 +29,9 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_NPKPBIPOD",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
+      "ClassName": "SNAFU_M14",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 7000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -40,9 +40,9 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_AtlasBipod",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
+      "ClassName": "SNAFU_SKS",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 7000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -51,9 +51,23 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_ModBipod",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
+      "ClassName": "SNAFUM1A_Black",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 7000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SNAFUM1A_Green",
+        "SNAFUM1A_Tan"
+      ]
+    },
+    {
+      "ClassName": "SNAFUMarlin1895",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 7000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -62,31 +76,9 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_VSSKbipod",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "SNAFU_M249Bipod",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "SNAFU_M200B_BK",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
+      "ClassName": "SNAFU_M48",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 7000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,

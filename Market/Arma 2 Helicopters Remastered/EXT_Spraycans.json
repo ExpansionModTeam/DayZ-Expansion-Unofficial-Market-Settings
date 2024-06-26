@@ -1,16 +1,16 @@
 {
   "m_Version": 12,
-  "DisplayName": "Snafu_Scopes",
-  "Icon": "Deliver",
+  "DisplayName": "Arma 2 Helicopters Spraycans",
+  "Icon": "Helicopter",
   "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
   "IsExchange": 0,
-  "InitStockPercent": 75,
   "Items": [
     {
-      "ClassName": "SNAFU_HuntingOptic",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_ah64d_baf",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -18,10 +18,10 @@
       "Variants": []
     },
     {
-      "ClassName": "GCGN_M84_Optic",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_ah64d_usmc",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -29,10 +29,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_AKHuntingOptic",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_aw159_baf",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -40,10 +40,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_HHuntingOptic",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_aw159_marine",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -51,10 +51,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_MHuntingOptic",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_aw159_un",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -62,10 +62,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_M14Optic",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_ch_47f_baf",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -73,10 +73,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_Nightforce",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_ch_47f_usmc",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -84,10 +84,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_AKNightforce",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_ka52_black",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -95,10 +95,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_HNightforce",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_ka52_woodland",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -106,10 +106,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_MNightforce",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mh6_blueline",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -117,10 +117,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_Leupold_Mark8",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mh6_digital",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -128,10 +128,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_AKLeupold_Mark8",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mh6_elliptical",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -139,10 +139,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_HLeupold_Mark8",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mh6_furious",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -150,10 +150,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_MLeupold_Mark8",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mh6_graywatcher",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -161,10 +161,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_Kahles",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mh6_green",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -172,10 +172,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_AKKahles",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mh6_jeans",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -183,10 +183,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_HKahles",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mh6_mango",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -194,10 +194,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_MKahles",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mh6_resistance",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -205,10 +205,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_Aimpoint_ACO",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mh6_shadow",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -216,10 +216,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_HAimpoint_ACO",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mh6_sheriff",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -227,10 +227,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_AKAimpoint_ACO",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mh6_speedy",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -238,10 +238,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_MAimpoint_ACO",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mh6_sunset",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -249,10 +249,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_AKAimpoint_M5",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mh6_vrana",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -260,10 +260,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_HAimpoint_M5",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mh6_wasp",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -271,10 +271,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_MAimpoint_M5",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mh6_wip",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -282,10 +282,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_Elcan",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mi24_acr",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -293,10 +293,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_AKElcan",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mi24_chernarus",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -304,10 +304,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_HElcan",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mi24_ion",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -315,10 +315,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_MElcan",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mi24_takistan",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -326,10 +326,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_EOTech_EXPS3",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mi24_un",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -337,10 +337,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_AKEOTech_EXPS3",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mi8_acr",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -348,10 +348,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_HEOTech_EXPS3",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mi8_attack_acr",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -359,10 +359,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_MEOTech_EXPS3",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mi8_attack_chedaki",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -370,10 +370,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_Trijicon",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mi8_attack_chernarus",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -381,10 +381,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_AKTrijicon",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mi8_attack_civilian",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -392,10 +392,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_Trijicon_Docter",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mi8_attack_raf",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -403,10 +403,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_AKTrijicon_Docter",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mi8_attack_takistan",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -414,10 +414,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_HTrijicon",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mi8_attack_unitednations",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -425,10 +425,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_HTrijicon_Docter",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mi8_chedaki",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -436,10 +436,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_MTrijicon",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mi8_chernarus",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -447,10 +447,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_MTrijicon_Docter",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mi8_civilian",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -458,10 +458,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_Walther",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mi8_raf",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -469,10 +469,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_AKWalther",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mi8_takistan",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -480,10 +480,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_HWalther",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_mi8_unitednations",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -491,10 +491,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_MWalther",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_uh1h_takistan",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -502,10 +502,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_Docter",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_uh1y_acr",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -513,55 +513,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_Tango6T_Black",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "SNAFU_Tango6T_Tan",
-        "SNAFU_Tango6T_Wood",
-        "SNAFU_Tango6T_Snow"
-      ]
-    },
-    {
-      "ClassName": "SNAFU_AKTango6T_Black",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "SNAFU_AKTango6T_Tan",
-        "SNAFU_AKTango6T_Wood",
-        "SNAFU_AKTango6T_Snow"
-      ]
-    },
-    {
-      "ClassName": "SNAFU_MTango6T_Black",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "SNAFU_MTango6T_Tan",
-        "SNAFU_MTango6T_Wood",
-        "SNAFU_MTango6T_Snow"
-      ]
-    },
-    {
-      "ClassName": "SNAFU_Kobra",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_uh1y_sar",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -569,10 +524,10 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_IRONMODOptic",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_uh1y_usmc",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -580,10 +535,21 @@
       "Variants": []
     },
     {
-      "ClassName": "SNAFU_Aimpoint_M5",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 400,
-      "SellPricePercent": -1,
+      "ClassName": "ext_spraycan_uh60m_green",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_uh60m_mev",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
