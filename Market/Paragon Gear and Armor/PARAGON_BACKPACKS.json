@@ -1,0 +1,149 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON BACKPACKS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 1,
+  "Items": [
+    {
+      "ClassName": "paragon_raidbag_black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_raidbag_blue",
+        "paragon_raidbag_desert",
+        "paragon_raidbag_green",
+        "paragon_raidbag_wl"
+      ]
+    },
+    {
+      "ClassName": "paragon_gunbag_black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_gunbag_blue",
+        "paragon_gunbag_desert",
+        "paragon_gunbag_green"
+      ]
+    },
+    {
+      "ClassName": "paragon_us_military_black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_us_military_blue",
+        "paragon_us_military_desert",
+        "paragon_us_military_green"
+      ]
+    },
+    {
+      "ClassName": "paragon_rubicon_black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_rubicon_blue",
+        "paragon_rubicon_desert",
+        "paragon_rubicon_green"
+      ]
+    },
+    {
+      "ClassName": "paragon_duffle_bag_black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_duffle_bag_blue",
+        "paragon_duffle_bag_desert",
+        "paragon_duffle_bag_green"
+      ]
+    },
+    {
+      "ClassName": "paragon_deployment_bag_black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_deployment_bag_wl",
+        "paragon_deployment_bag_desert",
+        "paragon_deployment_bag_desert_camo",
+        "paragon_deployment_bag_green"
+      ]
+    },
+    {
+      "ClassName": "paragon_tactical_bag_black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_tactical_bag_red",
+        "paragon_tactical_bag_tan",
+        "paragon_tactical_bag_blue",
+        "paragon_tactical_bag_green"
+      ]
+    },
+    {
+      "ClassName": "paragon_compact_black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_compact_blue",
+        "paragon_compact_desert",
+        "paragon_compact_green",
+        "paragon_compact_grey"
+      ]
+    },
+    {
+      "ClassName": "paragon_rush_24_bag_black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_rush_24_bag_blue",
+        "paragon_rush_24_bag_desert",
+        "paragon_rush_24_bag_green"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON HELMETS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 1,
+  "Items": [
+    {
+      "ClassName": "paragon_killa_black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_killa_blue",
+        "paragon_killa_green",
+        "paragon_killa_desert",
+        "paragon_killa_white"
+      ]
+    },
+    {
+      "ClassName": "paragon_ballistic_h_black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_ballistic_h_blue",
+        "paragon_ballistic_h_green",
+        "paragon_ballistic_h_desert",
+        "paragon_ballistic_h_grey"
+      ]
+    },
+    {
+      "ClassName": "paragon_altyn_black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_altyn_blue",
+        "paragon_altyn_desert",
+        "paragon_altyn_green",
+        "paragon_altyn_fatigue",
+        "paragon_altyn_navy",
+        "paragon_altyn_black_wl"
+      ]
+    },
+    {
+      "ClassName": "paragon_armored_h_black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_armored_h_desert",
+        "paragon_armored_h_green",
+        "paragon_armored_h_blue",
+        "paragon_armored_h_wl",
+        "paragon_armored_h_fatigue",
+        "paragon_armored_h_navy",
+        "paragon_armored_h_black_wl"
+      ]
+    },
+    {
+      "ClassName": "paragon_space_helmet_black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_space_helmet_blue",
+        "paragon_space_helmet_desert",
+        "paragon_space_helmet_green",
+        "paragon_space_helmet_white"
+      ]
+    },
+    {
+      "ClassName": "paragon_scifi_h_black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_scifi_h_blue",
+        "paragon_scifi_h_green",
+        "paragon_scifi_h_desert",
+        "paragon_scifi_h_purple",
+        "paragon_scifi_h_red"
+      ]
+    },
+    {
+      "ClassName": "paragon_combat_h_black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_combat_h_blue",
+        "paragon_combat_h_green",
+        "paragon_combat_h_desert"
+      ]
+    },
+    {
+      "ClassName": "paragon_maska_black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_maska_desert",
+        "paragon_maska_green",
+        "paragon_maska_blue",
+        "paragon_maska_navy",
+        "paragon_maska_black_wl"
+      ]
+    },
+    {
+      "ClassName": "paragon_mando_black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_mando_desert",
+        "paragon_mando_green",
+        "paragon_mando_blue",
+        "paragon_mando_wl",
+        "paragon_mando_fatigue",
+        "paragon_mando_navy",
+        "paragon_mando_black_wl"
+      ]
+    },
+    {
+      "ClassName": "paragon_tac_h_black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "paragon_tac_h_desert",
+        "paragon_tac_h_green",
+        "paragon_tac_h_blue",
+        "paragon_tac_h_wl",
+        "paragon_tac_h_fatigue",
+        "paragon_tac_h_navy",
+        "paragon_tac_h_black_wl"
+      ]
+    }
+  ]
+}
