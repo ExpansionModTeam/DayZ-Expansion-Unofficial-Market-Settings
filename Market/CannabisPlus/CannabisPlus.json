@@ -117,39 +117,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
-        },
-		{
-            "ClassName": "DP_CocaBrick",
-            "MaxPriceThreshold": 30000,
-            "MinPriceThreshold": 30000,
-            "SellPricePercent": 100.0,
-            "MaxStockThreshold": 0,
-            "MinStockThreshold": 0,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "PsilocybeMushroom",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 100,
-            "SellPricePercent": 100.0,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "DP_CocaBag",
-            "MaxPriceThreshold": 900,
-            "MinPriceThreshold": 900,
-            "SellPricePercent": 50.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": 2,
-            "SpawnAttachments": [],
-            "Variants": []
         }
     ]
 }
