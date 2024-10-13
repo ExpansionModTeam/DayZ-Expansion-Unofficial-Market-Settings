@@ -1,0 +1,107 @@
+{
+  "m_Version": 12,
+  "DisplayName": "DINGO_PARTS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "dingodoors_cargo1",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 780,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "dingodoors_cargo1_cz",
+        "dingodoors_cargo1_cz_Desert"
+      ]
+    },
+    {
+      "ClassName": "dingodoors_cargo2",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 780,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "dingodoors_cargo2_cz",
+        "dingodoors_cargo2_cz_Desert"
+      ]
+    },
+    {
+      "ClassName": "dingodoors_codriver",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 780,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "dingodoors_codriver_cz",
+        "dingodoors_codriver_cz_desert"
+      ]
+    },
+    {
+      "ClassName": "dingodoors_driver",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 780,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "dingodoors_driver_cz",
+        "dingodoors_driver_cz_desert"
+      ]
+    },
+    {
+      "ClassName": "dingohood",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 780,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "dingohood_cz",
+        "dingohood_cz_desert"
+      ]
+    },
+    {
+      "ClassName": "dingotrunk",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 780,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "dingotrunk_cz",
+        "dingotrunk_cz_desert"
+      ]
+    },
+    {
+      "ClassName": "dingowheel",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 780,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "dingowheel_cz_desert"
+      ]
+    }
+  ]
+}
