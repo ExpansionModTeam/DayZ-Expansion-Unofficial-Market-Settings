@@ -1,0 +1,96 @@
+{
+  "m_Version": 12,
+  "DisplayName": "KAMAZ_PARTS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "kamazdoors_codriver",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 780,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "kamazdoors_codriver_winter",
+        "kamazdoors_codriver_civ_orange",
+        "kamazdoors_codriver_civ_red",
+        "kamazdoors_codriver_civ_blue",
+        "kamazdoors_codriver_civ_yellow",
+        "kamazdoors_codriver_shell",
+        "kamazdoors_codriver_fuel_white",
+        "kamazdoors_codriver_fuel_orange"
+      ]
+    },
+    {
+      "ClassName": "kamazdoors_driver",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 780,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "kamazdoors_driver_winter",
+        "kamazdoors_driver_civ_orange",
+        "kamazdoors_driver_civ_red",
+        "kamazdoors_driver_civ_blue",
+        "kamazdoors_driver_civ_yellow",
+        "kamazdoors_driver_shell",
+        "kamazdoors_driver_fuel_white",
+        "kamazdoors_driver_fuel_orange"
+      ]
+    },
+    {
+      "ClassName": "kamazHood",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 780,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "kamazhood_winter",
+        "kamazhood_civ_orange",
+        "kamazhood_civ_red",
+        "kamazhood_civ_blue",
+        "kamazhood_civ_yellow",
+        "kamazhood_shell",
+        "kamazhood_fuel_white",
+        "kamazhood_fuel_orange"
+      ]
+    },
+    {
+      "ClassName": "kamaztrunk",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 780,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "kamaztrunk_winter",
+        "kamaztrunk_civ_orange_blue",
+        "kamaztrunk_civ_green"
+      ]
+    },
+    {
+      "ClassName": "kamazwheel",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 780,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
