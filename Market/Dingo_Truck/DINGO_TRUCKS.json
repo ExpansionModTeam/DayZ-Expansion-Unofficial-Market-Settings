@@ -1,0 +1,97 @@
+{
+    "m_Version": 12,
+    "DisplayName": "DINGO_TRUCKS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75,
+    "IsExchange": 0,
+    "Items": [
+      {
+        "ClassName": "dingo",
+        "MaxPriceThreshold": 160000,
+        "MinPriceThreshold": 160000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [
+          "dingodoors_cargo1",
+          "dingodoors_cargo2",
+          "dingodoors_codriver",
+          "dingodoors_driver",
+          "dingohood",
+          "dingotrunk",
+          "dingowheel",
+          "dingowheel",
+          "dingowheel",
+          "dingowheel",
+          "dingowheel",
+          "carbattery",
+          "carradiator",
+          "sparkplug",
+          "headlighth7",
+          "headlighth7"
+        ],
+        "Variants": [
+          "dingo_cz",
+          "dingo_cz_desert"
+        ]
+      },
+      {
+        "ClassName": "dingo_cz",
+        "MaxPriceThreshold": 160000,
+        "MinPriceThreshold": 160000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [
+          "dingodoors_cargo1_cz",
+          "dingodoors_cargo2_cz",
+          "dingodoors_codriver_cz",
+          "dingodoors_driver_cz",
+          "dingohood_cz",
+          "dingotrunk_cz",
+          "dingowheel",
+          "dingowheel",
+          "dingowheel",
+          "dingowheel",
+          "dingowheel",
+          "carbattery",
+          "carradiator",
+          "sparkplug",
+          "headlighth7",
+          "headlighth7"
+        ],
+        "Variants": []
+      },
+      {
+        "ClassName": "dingo_cz_desert",
+        "MaxPriceThreshold": 160000,
+        "MinPriceThreshold": 160000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [
+          "dingodoors_cargo1_cz_desert",
+          "dingodoors_cargo2_cz_desert",
+          "dingodoors_codriver_cz_desert",
+          "dingodoors_driver_cz_desert",
+          "dingohood_cz_desert",
+          "dingotrunk_cz_desert",
+          "dingowheel_cz_desert",
+          "dingowheel_cz_desert",
+          "dingowheel_cz_desert",
+          "dingowheel_cz_desert",
+          "dingowheel_cz_desert",
+          "carbattery",
+          "carradiator",
+          "sparkplug",
+          "headlighth7",
+          "headlighth7"
+        ],
+        "Variants": []
+      }
+    ]
+  }
