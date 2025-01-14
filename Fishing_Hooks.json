@@ -1,0 +1,33 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Fishing Hooks",
+  "Icon": "Fishing",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "bonehook",
+      "MaxPriceThreshold": 2,
+      "MinPriceThreshold": 2,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hook",
+      "MaxPriceThreshold": 10,
+      "MinPriceThreshold": 10,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ],
+  "SortByDisplayName": false
+}
