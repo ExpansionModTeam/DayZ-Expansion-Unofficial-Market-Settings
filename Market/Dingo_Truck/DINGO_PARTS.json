@@ -17,7 +17,8 @@
       "SpawnAttachments": [],
       "Variants": [
         "dingodoors_cargo1_cz",
-        "dingodoors_cargo1_cz_Desert"
+        "dingodoors_cargo1_cz_Desert",
+        "dingodoors_cargo1_cz_Winter"
       ]
     },
     {
@@ -31,7 +32,8 @@
       "SpawnAttachments": [],
       "Variants": [
         "dingodoors_cargo2_cz",
-        "dingodoors_cargo2_cz_Desert"
+        "dingodoors_cargo2_cz_Desert",
+        "dingodoors_cargo2_cz_Winter"
       ]
     },
     {
@@ -45,7 +47,8 @@
       "SpawnAttachments": [],
       "Variants": [
         "dingodoors_codriver_cz",
-        "dingodoors_codriver_cz_desert"
+        "dingodoors_codriver_cz_desert",
+        "dingodoors_codriver_cz_winter"
       ]
     },
     {
@@ -59,7 +62,8 @@
       "SpawnAttachments": [],
       "Variants": [
         "dingodoors_driver_cz",
-        "dingodoors_driver_cz_desert"
+        "dingodoors_driver_cz_desert",
+        "dingodoors_driver_cz_winter"
       ]
     },
     {
@@ -73,7 +77,8 @@
       "SpawnAttachments": [],
       "Variants": [
         "dingohood_cz",
-        "dingohood_cz_desert"
+        "dingohood_cz_desert",
+        "dingohood_cz_winter"
       ]
     },
     {
@@ -87,7 +92,8 @@
       "SpawnAttachments": [],
       "Variants": [
         "dingotrunk_cz",
-        "dingotrunk_cz_desert"
+        "dingotrunk_cz_desert",
+        "dingotrunk_cz_winter"
       ]
     },
     {
@@ -100,7 +106,8 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "dingowheel_cz_desert"
+        "dingowheel_cz_desert",
+        "dingowheel_cz_winter"
       ]
     }
   ]
