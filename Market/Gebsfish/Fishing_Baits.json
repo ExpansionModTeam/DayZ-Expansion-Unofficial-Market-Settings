@@ -1,0 +1,164 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Fishing Baits",
+  "Icon": "Fishing",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "geb_Lure1",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "geb_Lure2",
+        "geb_Lure3",
+        "geb_Lure4"
+      ]
+    },
+	    {
+      "ClassName": "geb_Lure2",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "geb_Lure2",
+        "geb_Lure3",
+        "geb_Lure4"
+      ]
+    },
+	    {
+      "ClassName": "geb_Lure3",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "geb_Lure2",
+        "geb_Lure3",
+        "geb_Lure4"
+      ]
+    },
+	    {
+      "ClassName": "geb_Lure4",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "geb_Lure2",
+        "geb_Lure3",
+        "geb_Lure4"
+      ]
+    },
+    {
+      "ClassName": "geb_SpinnerBait1",
+      "MaxPriceThreshold": 10,
+      "MinPriceThreshold": 10,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "geb_SpinnerBait2",
+        "geb_SpinnerBait3",
+        "geb_SpinnerBait4"
+      ]
+    },
+	    {
+      "ClassName": "geb_SpinnerBait2",
+      "MaxPriceThreshold": 10,
+      "MinPriceThreshold": 10,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "geb_SpinnerBait2",
+        "geb_SpinnerBait3",
+        "geb_SpinnerBait4"
+      ]
+    },
+	    {
+      "ClassName": "geb_SpinnerBait3",
+      "MaxPriceThreshold": 10,
+      "MinPriceThreshold": 10,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "geb_SpinnerBait2",
+        "geb_SpinnerBait3",
+        "geb_SpinnerBait4"
+      ]
+    },
+	    {
+      "ClassName": "geb_SpinnerBait4",
+      "MaxPriceThreshold": 10,
+      "MinPriceThreshold": 10,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "geb_SpinnerBait2",
+        "geb_SpinnerBait3",
+        "geb_SpinnerBait4"
+      ]
+    },
+    {
+      "ClassName": "geb_FieldCricket",
+      "MaxPriceThreshold": 5,
+      "MinPriceThreshold": 5,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_GrubWorm",
+      "MaxPriceThreshold": 3,
+      "MinPriceThreshold": 3,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_RubberWorm",
+      "MaxPriceThreshold": 2,
+      "MinPriceThreshold": 2,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ],
+  "SortByDisplayName": false
+}
