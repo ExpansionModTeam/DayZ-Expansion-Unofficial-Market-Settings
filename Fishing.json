@@ -1,0 +1,23 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FISHING TRADER",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Fish",
+  "DisplayCurrencyName": "",
+  "DisplayCurrencyValue": 1,
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "Fishing_Rods:1",
+    "Fishing_Hooks:1",
+    "Fishing_Baits:1",
+    "Fishing_Extras:1",
+    "Fishing_SaltwaterFillet:2",
+	"Fishing_FreshwaterFillet:2"
+  ],
+  "Items": {}
+}
