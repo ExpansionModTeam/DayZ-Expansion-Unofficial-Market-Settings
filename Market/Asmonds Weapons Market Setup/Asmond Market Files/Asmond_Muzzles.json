@@ -1,0 +1,107 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_MUZZLES",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Asmond_Suppressor_EAST_Black",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Asmond_Suppressor_EAST_Winter"
+				]
+        },
+        {
+            "ClassName": "Asmond_Suppressor_EAST_Winter",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_Suppressor_NATO_Black",
+            "MaxPriceThreshold": 1080,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Asmond_Suppressor_NATO_Green",
+				"Asmond_Suppressor_NATO_Tan",
+				"Asmond_Suppressor_NATO_Winter"
+				]
+        },
+        {
+            "ClassName": "Asmond_Suppressor_NATO_Green",
+            "MaxPriceThreshold": 1080,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_Suppressor_NATO_Tan",
+            "MaxPriceThreshold": 1080,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_Suppressor_NATO_Winter",
+            "MaxPriceThreshold": 1080,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_Suppressor_Pistol_Black",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Asmond_Suppressor_Pistol_Tan"
+				]
+        },
+        {
+            "ClassName": "Asmond_Suppressor_Pistol_Tan",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
+
