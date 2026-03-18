@@ -325,9 +325,7 @@
             "SpawnAttachments": [
                 "mag_sv98_10rnd"
             ],
-            "Variants": [
-				"Asmond_SV98_Winter"
-				]
+            "Variants": []
         },
 		{
             "ClassName": "Asmond_SV98_Winter",
