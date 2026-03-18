@@ -1,0 +1,180 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Asmond Shotguns",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Asmond_IZH18Shotgun_RedWood",
+            "MaxPriceThreshold": 258,
+            "MinPriceThreshold": 215,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Asmond_SawedoffIzh18Shotgun_RedWood",
+				"Asmond_SawedoffIzh18Shotgun_Black",
+				"Asmond_SawedoffIzh18Shotgun_Black"
+				]
+        },
+        {
+            "ClassName": "Asmond_SawedoffIzh18Shotgun_RedWood",
+            "MaxPriceThreshold": 258,
+            "MinPriceThreshold": 215,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_IZH18Shotgun_Black",
+            "MaxPriceThreshold": 258,
+            "MinPriceThreshold": 215,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_SawedoffIzh18Shotgun_Black",
+            "MaxPriceThreshold": 258,
+            "MinPriceThreshold": 215,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_IZH43Shotgun_RedWood",
+            "MaxPriceThreshold": 516,
+            "MinPriceThreshold": 430,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Asmond_SawedoffIzh43Shotgun_RedWood",
+				"Asmond_IZH43Shotgun_Green",
+				"Asmond_SawedoffIzh43Shotgun_Green"
+				]
+        },
+        {
+            "ClassName": "Asmond_SawedoffIzh43Shotgun_RedWood",
+            "MaxPriceThreshold": 516,
+            "MinPriceThreshold": 430,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_IZH43Shotgun_Green",
+            "MaxPriceThreshold": 516,
+            "MinPriceThreshold": 430,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_SawedoffIzh43Shotgun_Green",
+            "MaxPriceThreshold": 516,
+            "MinPriceThreshold": 430,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_MP133_Black",
+            "MaxPriceThreshold": 426,
+            "MinPriceThreshold": 355,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Asmond_MP133_Beige",
+				"Asmond_MP133_RedWood"
+				]
+        },
+        {
+            "ClassName": "Asmond_MP133_Beige",
+            "MaxPriceThreshold": 426,
+            "MinPriceThreshold": 355,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_MP133_RedWood",
+            "MaxPriceThreshold": 426,
+            "MinPriceThreshold": 355,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_R12_Wooden",
+            "MaxPriceThreshold": 2519,
+            "MinPriceThreshold": 2099,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Asmond_R12_RedWood"
+				]
+        },
+        {
+            "ClassName": "Asmond_R12_RedWood",
+            "MaxPriceThreshold": 2519,
+            "MinPriceThreshold": 2099,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_Saiga_Red",
+            "MaxPriceThreshold": 1178,
+            "MinPriceThreshold": 982,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "saiga_bttstck",
+                "mag_saiga_8rnd"
+            ],
+            "Variants": []
+        }
+    ]
+}

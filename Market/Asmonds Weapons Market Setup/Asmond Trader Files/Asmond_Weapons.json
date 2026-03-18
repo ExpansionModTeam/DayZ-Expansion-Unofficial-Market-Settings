@@ -1,0 +1,39 @@
+{
+    "m_Version": 13,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_WEAPONS",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+    "expansionbanknotehryvnia"
+		],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "UseCategoryOrder": 0,
+    "Categories": [
+        
+		"Asmond_Assault_Rifles",        
+		"Asmond_Submachine_Guns",
+        "Asmond_Rifles",      
+		"Asmond_Pistols"  ,     
+		"Asmond_Sniper_Rifles",        
+		"Asmond_Shotguns",
+        "Asmond_Launchers",
+        "Asmond_Crossbows"  ,      
+		"Asmond_Magazines:3",
+        "Asmond_Buttstocks:3",
+        "Asmond_Handguards:3"
+    ],
+    "Items": {
+        "expansionammorpg": 3,
+        "ammo_expansion_m203_sticky_smoke_teargas": 3,
+        "tlrlight": 3,
+        "ammo_expansion_m203_smoke_teargas": 3,
+        "expansion_ammo_taser": 3,
+        "universallight": 3,
+        "expansionammolaw": 3,
+        "ammo_expansion_m203_sticky_smoke_white": 3
+    }
+}
