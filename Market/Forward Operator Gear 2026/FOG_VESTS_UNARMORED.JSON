@@ -1,0 +1,62 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG Unarmored Vests",
+  "Icon": "Soldier",
+  "Color": "E9151AFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "FOG_Vest_SSMK4_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Vest_SSMK4_CB",
+        "FOG_Vest_SSMK4_Grey",
+        "FOG_Vest_SSMK4_M81",
+        "FOG_Vest_SSMK4_MA",
+        "FOG_Vest_SSMK4_MCB",
+        "FOG_Vest_SSMK4_MC",
+        "FOG_Vest_SSMK4_MCT",
+        "FOG_Vest_SSMK4_RG"
+      ]
+    },
+    {
+      "ClassName": "FOG_Vest_D3CRX_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Vest_D3CRX_CB",
+        "FOG_Vest_D3CRX_Grey",
+        "FOG_Vest_D3CRX_RG"
+      ]
+    },
+    {
+      "ClassName": "FOG_Vest_ALSE_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Vest_ALSE_CB",
+        "FOG_Vest_ALSE_MA",
+        "FOG_Vest_ALSE_MCB",
+        "FOG_Vest_ALSE_MC",
+        "FOG_Vest_ALSE_RG"
+      ]
+    }
+  ]
+}

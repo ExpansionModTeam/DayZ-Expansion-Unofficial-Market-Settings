@@ -1,0 +1,31 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG Flight Suits",
+  "Icon": "Deliver",
+  "Color": "E9151AFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "FOG_FlightSuit_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_FlightSuit_Grey",
+        "FOG_FlightSuit_Tan",
+        "FOG_FlightSuit_RG",
+        "FOG_FlightSuit_MC",
+        "FOG_FlightSuit_MCB",
+        "FOG_FlightSuit_MCT",
+        "FOG_FlightSuit_M81",
+        "FOG_FlightSuit_UCP",
+        "FOG_FlightSuit_AOR2"
+      ]
+    }
+  ]
+}

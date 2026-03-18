@@ -1,0 +1,105 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG NVG's",
+  "Icon": "Soldier",
+  "Color": "E9151AFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "FOG_ANVIS9",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FOG_GPNVG_Elite_B",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_GPNVG_Elite_T",
+        "FOG_GPNVG_Elite_W"
+      ]
+    },
+    {
+      "ClassName": "FOG_PVS31A_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_PVS31A_Black_B",
+        "FOG_PVS31A_Black_T",
+        "FOG_PVS31A_Black_W"
+      ]
+    },
+    {
+      "ClassName": "FOG_GPNVG_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_GPNVG_Elite",
+        "FOG_GPNVG_RG",
+        "FOG_GPNVG_Tan"
+      ]
+    },
+    {
+      "ClassName": "FOG_PVS31",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_PVS31_FDE",
+        "FOG_PVS31_FDE_Wrapped",
+        "FOG_PVS31_Wrapped"
+      ]
+    },
+    {
+      "ClassName": "FOG_UAPNVG_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_UAPNVG_RG",
+        "FOG_UAPNVG_Tan"
+      ]
+    },
+    {
+      "ClassName": "FOG_Tarsier",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
