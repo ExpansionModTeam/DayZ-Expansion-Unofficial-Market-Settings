@@ -1,0 +1,140 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG Gloves",
+  "Icon": "Open Hand",
+  "Color": "E9151AFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+  "ClassName": "FOG_PIGFDT_Gloves_AJ",
+  "MaxPriceThreshold": 1000,
+  "MinPriceThreshold": 1000,
+  "SellPricePercent": -1,
+  "MaxStockThreshold": 1,
+  "MinStockThreshold": 1,
+  "QuantityPercent": -1,
+  "SpawnAttachments": [],
+  "Variants": [
+    "FOG_PIGFDT_Gloves_AOR1",
+    "FOG_PIGFDT_Gloves_AOR2",
+    "FOG_PIGFDT_Gloves_Black",
+    "FOG_PIGFDT_Gloves_CB",
+    "FOG_PIGFDT_Gloves_Grey",
+    "FOG_PIGFDT_Gloves_MC",
+    "FOG_PIGFDT_Gloves_M81",
+    "FOG_PIGFDT_Gloves_MA",
+    "FOG_PIGFDT_Gloves_MCAL",
+    "FOG_PIGFDT_Gloves_MCB",
+    "FOG_PIGFDT_Gloves_MCT",
+    "FOG_PIGFDT_Gloves_RG",
+    "FOG_PIGFDT_Gloves_Tan"
+  ]
+},
+{
+  "ClassName": "FOG_MechanixGloves_Black",
+  "MaxPriceThreshold": 1000,
+  "MinPriceThreshold": 1000,
+  "SellPricePercent": -1,
+  "MaxStockThreshold": 1,
+  "MinStockThreshold": 1,
+  "QuantityPercent": -1,
+  "SpawnAttachments": [],
+  "Variants": [
+    "FOG_MechanixGloves_Black_Words",
+    "FOG_MechanixGloves_CB",
+    "FOG_MechanixGloves_Green",
+    "FOG_MechanixGloves_MC",
+    "FOG_MechanixGloves_RG",
+    "FOG_MechanixGloves_Skele",
+    "FOG_MechanixGloves_Tan"
+  ]
+},
+{
+  "ClassName": "FOG_WinterGloves_Black",
+  "MaxPriceThreshold": 1000,
+  "MinPriceThreshold": 1000,
+  "SellPricePercent": -1,
+  "MaxStockThreshold": 1,
+  "MinStockThreshold": 1,
+  "QuantityPercent": -1,
+  "SpawnAttachments": [],
+  "Variants": [
+    "FOG_WinterGloves_CB",
+    "FOG_WinterGloves_MC",
+    "FOG_WinterGloves_M81",
+    "FOG_WinterGloves_MA",
+    "FOG_WinterGloves_MCB",
+    "FOG_WinterGloves_MCAL",
+    "FOG_WinterGloves_RG",
+    "FOG_WinterGloves_Red",
+    "FOG_WinterGloves_Tan",
+    "FOG_WinterGloves_White"
+  ]
+},
+{
+  "ClassName": "FOG_FerroGloves_AJ",
+  "MaxPriceThreshold": 1000,
+  "MinPriceThreshold": 1000,
+  "SellPricePercent": -1,
+  "MaxStockThreshold": 1,
+  "MinStockThreshold": 1,
+  "QuantityPercent": -1,
+  "SpawnAttachments": [],
+  "Variants": [
+    "FOG_FerroGloves_Black",
+    "FOG_FerroGloves_Black_BlueTrim",
+    "FOG_FerroGloves_Black_RedTrim",
+    "FOG_FerroGloves_Black_TanTrim",
+    "FOG_FerroGloves_Black_WhiteTrim",
+    "FOG_FerroGloves_Blue",
+    "FOG_FerroGloves_CB",
+    "FOG_FerroGloves_Grey",
+    "FOG_FerroGloves_MC",
+    "FOG_FerroGloves_MCB",
+    "FOG_FerroGloves_M81",
+    "FOG_FerroGloves_Red",
+    "FOG_FerroGloves_RG",
+    "FOG_FerroGloves_Tan",
+    "FOG_FerroGloves_White",
+    "FOG_FerroGloves_White_TanTrim"
+  ]
+},
+{
+  "ClassName": "FOG_Tactical_Fingerless_Gloves_Black",
+  "MaxPriceThreshold": 1000,
+  "MinPriceThreshold": 1000,
+  "SellPricePercent": -1,
+  "MaxStockThreshold": 1,
+  "MinStockThreshold": 1,
+  "QuantityPercent": -1,
+  "SpawnAttachments": [],
+  "Variants": [
+    "FOG_Tactical_Fingerless_Gloves_Green",
+    "FOG_Tactical_Fingerless_Gloves_MC",
+    "FOG_Tactical_Fingerless_Gloves_Red",
+    "FOG_Tactical_Fingerless_Gloves_Tan"
+  ]
+},
+{
+  "ClassName": "FOG_GunGloves_AOR2",
+  "MaxPriceThreshold": 1000,
+  "MinPriceThreshold": 1000,
+  "SellPricePercent": -1,
+  "MaxStockThreshold": 1,
+  "MinStockThreshold": 1,
+  "QuantityPercent": -1,
+  "SpawnAttachments": [],
+  "Variants": [
+    "FOG_GunGloves_Black",
+    "FOG_GunGloves_CB",
+    "FOG_GunGloves_Grey",
+    "FOG_GunGloves_MC",
+    "FOG_GunGloves_M81",
+    "FOG_GunGloves_MCB",
+    "FOG_GunGloves_RG",
+    "FOG_GunGloves_Tan"
+  ]
+}
+  ]
+}

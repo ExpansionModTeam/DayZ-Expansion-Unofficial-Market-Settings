@@ -1,13 +1,13 @@
 {
   "m_Version": 12,
-  "DisplayName": "FOG Bags",
-  "Icon": "Backpack",
+  "DisplayName": "FOG Shoes",
+  "Icon": "Soldier",
   "Color": "E9151AFF",
   "InitStockPercent": 75,
   "IsExchange": 0,
   "Items": [
     {
-      "ClassName": "fog_bag_6shbagt_black",
+      "ClassName": "FOG_Maritime_Shoes_Black",
       "MaxPriceThreshold": 1000,
       "MinPriceThreshold": 1000,
       "SellPricePercent": -1,
@@ -16,13 +16,24 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "fog_bag_6shbagt_cb",
-        "fog_bag_6shbagt_green",
-        "fog_bag_6shbagt_rg"
+        "FOG_Maritime_Shoes_Blue",
+        "FOG_Maritime_Shoes_CB",
+        "FOG_Maritime_Shoes_Culston",
+        "FOG_Maritime_Shoes_DTGR",
+        "FOG_Maritime_Shoes_Grey",
+        "FOG_Maritime_Shoes_KHK",
+        "FOG_Maritime_Shoes_M81",
+        "FOG_Maritime_Shoes_M81Red",
+        "FOG_Maritime_Shoes_MC",
+        "FOG_Maritime_Shoes_MC_T",
+        "FOG_Maritime_Shoes_MCB",
+        "FOG_Maritime_Shoes_MCB_T",
+        "FOG_Maritime_Shoes_RG",
+        "FOG_Maritime_Shoes_Red"
       ]
     },
     {
-      "ClassName": "fog_bag_blackjack_black",
+      "ClassName": "FOG_XAForces_Shoes_Black",
       "MaxPriceThreshold": 1000,
       "MinPriceThreshold": 1000,
       "SellPricePercent": -1,
@@ -31,15 +42,25 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "fog_bag_blackjack_cb",
-        "fog_bag_blackjack_erdl",
-        "fog_bag_blackjack_mc",
-        "fog_bag_blackjack_mcb",
-        "fog_bag_blackjack_rg"
+        "FOG_XAForces_Shoes_CB",
+        "FOG_XAForces_Shoes_Grey",
+        "FOG_XAForces_Shoes_RG",
+        "FOG_XAForces_Shoes_Tan"
       ]
     },
     {
-      "ClassName": "fog_bag_drawbridge_black",
+      "ClassName": "FOG_ClimbingBoots_Brown",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FOG_DEFCONVans_Shoes_Black",
       "MaxPriceThreshold": 1000,
       "MinPriceThreshold": 1000,
       "SellPricePercent": -1,
@@ -48,13 +69,20 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "fog_bag_drawbridge_cb",
-        "fog_bag_drawbridge_grey",
-        "fog_bag_drawbridge_rg"
+        "FOG_DEFCONVans_Shoes_Blue",
+        "FOG_DEFCONVans_Shoes_CB",
+        "FOG_DEFCONVans_Shoes_Grey",
+        "FOG_DEFCONVans_Shoes_KHK",
+        "FOG_DEFCONVans_Shoes_MC",
+        "FOG_DEFCONVans_Shoes_MCAL",
+        "FOG_DEFCONVans_Shoes_MCB",
+        "FOG_DEFCONVans_Shoes_MCT",
+        "FOG_DEFCONVans_Shoes_Red",
+        "FOG_DEFCONVans_Shoes_RG"
       ]
     },
     {
-      "ClassName": "fog_bag_f4terminator",
+      "ClassName": "FOG_Combat_HikingBoots_Black",
       "MaxPriceThreshold": 1000,
       "MinPriceThreshold": 1000,
       "SellPricePercent": -1,
@@ -63,13 +91,13 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "fog_bag_f4terminator_black",
-        "fog_bag_f4terminator_cb",
-        "fog_bag_f4terminator_rg"
+        "FOG_Combat_HikingBoots_Brown",
+        "FOG_Combat_HikingBoots_Grey",
+        "FOG_Combat_HikingBoots_Khaki"
       ]
     },
     {
-      "ClassName": "fog_bag_mrasap_black",
+      "ClassName": "FOG_Operator_Boots_Black",
       "MaxPriceThreshold": 1000,
       "MinPriceThreshold": 1000,
       "SellPricePercent": -1,
@@ -78,14 +106,12 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "fog_bag_mrasap_cb",
-        "fog_bag_mrasap_grey",
-        "fog_bag_mrasap_mc",
-        "fog_bag_mrasap_rg"
+        "FOG_Operator_Boots_CB",
+        "FOG_Operator_Boots_RG"
       ]
     },
     {
-      "ClassName": "fog_bag_sso_black",
+      "ClassName": "FOG_Zypher_Boots_Black_NoSocks",
       "MaxPriceThreshold": 1000,
       "MinPriceThreshold": 1000,
       "SellPricePercent": -1,
@@ -94,15 +120,17 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "fog_bag_sso_cb",
-        "fog_bag_sso_mc",
-        "fog_bag_sso_mcb",
-        "fog_bag_sso_tan",
-        "fog_bag_sso_toxic"
+        "FOG_Zypher_Boots_Black_Socks",
+        "FOG_Zypher_Boots_CB_NoSocks",
+        "FOG_Zypher_Boots_CB_Socks",
+        "FOG_Zypher_Boots_RG_NoSocks",
+        "FOG_Zypher_Boots_RG_Socks",
+        "FOG_Zypher_Boots_Tan_NoSocks",
+        "FOG_Zypher_Boots_Tan_Socks"
       ]
     },
     {
-      "ClassName": "fog_bag_trizip_atacsfg",
+      "ClassName": "FOG_Lerch_Boots_Black",
       "MaxPriceThreshold": 1000,
       "MinPriceThreshold": 1000,
       "SellPricePercent": -1,
@@ -111,31 +139,12 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "fog_bag_trizip_black",
-        "fog_bag_trizip_cb",
-        "fog_bag_trizip_dcu",
-        "fog_bag_trizip_erdl",
-        "fog_bag_trizip_marpat",
-        "fog_bag_trizip_mc",
-        "fog_bag_trizip_puke",
-        "fog_bag_trizip_rg",
-        "fog_bag_trizip_rgcb"
-      ]
-    },
-    {
-      "ClassName": "fog_bergen_rucksack_black",
-      "MaxPriceThreshold": 1000,
-      "MinPriceThreshold": 1000,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_bergen_rucksack_erdl",
-        "fog_bergen_rucksack_green",
-        "fog_bergen_rucksack_multicam",
-        "fog_bergen_rucksack_woodland"
+        "FOG_Lerch_Boots_Black_Dirty",
+        "FOG_Lerch_Boots_CB",
+        "FOG_Lerch_Boots_Khk",
+        "FOG_Lerch_Boots_MC",
+        "FOG_Lerch_Boots_MCB",
+        "FOG_Lerch_Boots_RG"
       ]
     }
   ]

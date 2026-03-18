@@ -1,24 +1,13 @@
 {
   "m_Version": 12,
-  "DisplayName": "FOG Shoes",
+  "DisplayName": "FOG Cloaks & Hoods",
   "Icon": "Soldier",
   "Color": "E9151AFF",
   "InitStockPercent": 75,
   "IsExchange": 0,
   "Items": [
     {
-      "ClassName": "fog_combat_hikingboots_brown",
-      "MaxPriceThreshold": 1000,
-      "MinPriceThreshold": 1000,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "fog_operator_boots_black",
+      "ClassName": "FOG_Hooded_Cloak_Black",
       "MaxPriceThreshold": 1000,
       "MinPriceThreshold": 1000,
       "SellPricePercent": -1,
@@ -27,8 +16,30 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "fog_operator_boots_cb",
-        "fog_operator_boots_rg"
+        "FOG_Hooded_Cloak_Grey",
+        "FOG_Hooded_Cloak_RG"
+      ]
+    },
+    {
+      "ClassName": "FOG_SniperHood_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_SniperHood_CB",
+        "FOG_SniperHood_Grey",
+        "FOG_SniperHood_M81",
+        "FOG_SniperHood_MA",
+        "FOG_SniperHood_MCAL",
+        "FOG_SniperHood_MCB",
+        "FOG_SniperHood_MC",
+        "FOG_SniperHood_MC_Black",
+        "FOG_SniperHood_MCT",
+        "FOG_SniperHood_RG"
       ]
     }
   ]

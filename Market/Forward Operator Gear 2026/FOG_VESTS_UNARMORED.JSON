@@ -1,13 +1,13 @@
 {
   "m_Version": 12,
-  "DisplayName": "FOG Pants",
+  "DisplayName": "FOG Unarmored Vests",
   "Icon": "Soldier",
   "Color": "E9151AFF",
   "InitStockPercent": 75,
   "IsExchange": 0,
   "Items": [
     {
-      "ClassName": "fog_gorka_pants_black",
+      "ClassName": "FOG_Vest_SSMK4_Black",
       "MaxPriceThreshold": 1000,
       "MinPriceThreshold": 1000,
       "SellPricePercent": -1,
@@ -16,11 +16,18 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "fog_gorka_pants_khaki"
+        "FOG_Vest_SSMK4_CB",
+        "FOG_Vest_SSMK4_Grey",
+        "FOG_Vest_SSMK4_M81",
+        "FOG_Vest_SSMK4_MA",
+        "FOG_Vest_SSMK4_MCB",
+        "FOG_Vest_SSMK4_MC",
+        "FOG_Vest_SSMK4_MCT",
+        "FOG_Vest_SSMK4_RG"
       ]
     },
     {
-      "ClassName": "fog_mtf_pants_cb",
+      "ClassName": "FOG_Vest_D3CRX_Black",
       "MaxPriceThreshold": 1000,
       "MinPriceThreshold": 1000,
       "SellPricePercent": -1,
@@ -29,17 +36,13 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "fog_mtf_pants_erdl",
-        "fog_mtf_pants_fk",
-        "fog_mtf_pants_grey",
-        "fog_mtf_pants_mc",
-        "fog_mtf_pants_mcb",
-        "fog_mtf_pants_rg",
-        "fog_mtf_pants_ts"
+        "FOG_Vest_D3CRX_CB",
+        "FOG_Vest_D3CRX_Grey",
+        "FOG_Vest_D3CRX_RG"
       ]
     },
     {
-      "ClassName": "fog_pants_crye_g3_aor1",
+      "ClassName": "FOG_Vest_ALSE_Black",
       "MaxPriceThreshold": 1000,
       "MinPriceThreshold": 1000,
       "SellPricePercent": -1,
@@ -48,21 +51,11 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "fog_pants_crye_g3_aor2",
-        "fog_pants_crye_g3_black",
-        "fog_pants_crye_g3_cb",
-        "fog_pants_crye_g3_dtgr",
-        "fog_pants_crye_g3_grey",
-        "fog_pants_crye_g3_gtiger",
-        "fog_pants_crye_g3_m81",
-        "fog_pants_crye_g3_marpat",
-        "fog_pants_crye_g3_mc",
-        "fog_pants_crye_g3_mca",
-        "fog_pants_crye_g3_mcal",
-        "fog_pants_crye_g3_mcb",
-        "fog_pants_crye_g3_mct",
-        "fog_pants_crye_g3_rdbs",
-        "fog_pants_crye_g3_rg"
+        "FOG_Vest_ALSE_CB",
+        "FOG_Vest_ALSE_MA",
+        "FOG_Vest_ALSE_MCB",
+        "FOG_Vest_ALSE_MC",
+        "FOG_Vest_ALSE_RG"
       ]
     }
   ]

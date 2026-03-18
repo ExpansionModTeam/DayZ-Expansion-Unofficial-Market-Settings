@@ -1,0 +1,172 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG Masks",
+  "Icon": "Gas Mask",
+  "Color": "E9151AFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "FOG_Dripclava_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Dripclava_CB",
+        "FOG_Dripclava_Grey",
+        "FOG_Dripclava_LBlue",
+        "FOG_Dripclava_LV",
+        "FOG_Dripclava_LVSupreme",
+        "FOG_Dripclava_Lime",
+        "FOG_Dripclava_MC",
+        "FOG_Dripclava_Purple",
+        "FOG_Dripclava_RG",
+        "FOG_Dripclava_Red",
+        "FOG_Dripclava_Tan",
+        "FOG_Dripclava_Tan449",
+        "FOG_Dripclava_White"
+      ]
+    },
+    {
+      "ClassName": "FOG_HalfMask_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_HalfMask_CB",
+        "FOG_HalfMask_Grey",
+        "FOG_HalfMask_RG",
+        "FOG_HalfMask_White"
+      ]
+    },
+    {
+      "ClassName": "FOG_Arcteryx_Balaclava_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Arcteryx_Balaclava_CB",
+        "FOG_Arcteryx_Balaclava_Grey",
+        "FOG_Arcteryx_Balaclava_RG",
+        "FOG_Arcteryx_Balaclava_White"
+      ]
+    },
+    {
+      "ClassName": "FOG_AVONM53_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_AVONM53_Clear",
+        "FOG_AVONM53_Red"
+      ]
+    },
+    {
+      "ClassName": "FOG_OpsCore_SOTR",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FOG_Ghost_Headset_Tan",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FOG_Ghost_Mask_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Ghost_Mask_Black_Gold",
+        "FOG_Ghost_Mask_Black_White",
+        "FOG_Ghost_Mask_New",
+        "FOG_Ghost_Mask_RG",
+        "FOG_Ghost_Mask_Red",
+        "FOG_Ghost_Mask_Red_Gold",
+        "FOG_Ghost_Mask_Tan"
+      ]
+    },
+    {
+      "ClassName": "FOG_Knight_Mask",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Knight_Mask_Black"
+      ]
+    },
+    {
+      "ClassName": "FOG_M50_Gasmask_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FOG_Mustache_Brown",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FOG_Beard_Handlebar_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Beard_Handlebar_Brown",
+        "FOG_Beard_Handlebar_Grey",
+        "FOG_Beard_Handlebar_LightBrown"
+      ]
+    }
+  ]
+}

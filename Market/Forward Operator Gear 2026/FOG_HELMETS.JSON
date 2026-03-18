@@ -1,0 +1,243 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG Helmets",
+  "Icon": "Soldier",
+  "Color": "E9151AFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "FOG_Helmet_Caimen_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Helmet_Caimen_Grey",
+        "FOG_Helmet_Caimen_RG",
+        "FOG_Helmet_Caimen_Tan"
+      ]
+    },
+    {
+      "ClassName": "FOG_Helmet_MTEK_Flux_AOR1",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Helmet_MTEK_Flux_AOR2",
+        "FOG_Helmet_MTEK_Flux_Black",
+        "FOG_Helmet_MTEK_Flux_CB",
+        "FOG_Helmet_MTEK_Flux_CB_BLK",
+        "FOG_Helmet_MTEK_Flux_DNC",
+        "FOG_Helmet_MTEK_Flux_DTGR",
+        "FOG_Helmet_MTEK_Flux_Grey",
+        "FOG_Helmet_MTEK_Flux_KBTGR",
+        "FOG_Helmet_MTEK_Flux_M81",
+        "FOG_Helmet_MTEK_Flux_MA",
+        "FOG_Helmet_MTEK_Flux_MCAL",
+        "FOG_Helmet_MTEK_Flux_MCB",
+        "FOG_Helmet_MTEK_Flux_MC",
+        "FOG_Helmet_MTEK_Flux_MC_BLK",
+        "FOG_Helmet_MTEK_Flux_MCT",
+        "FOG_Helmet_MTEK_Flux_RG",
+        "FOG_Helmet_MTEK_Flux_RG_BLK"
+      ]
+    },
+    {
+      "ClassName": "FOG_Helmet_Airframe_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Helmet_Airframe_CB",
+        "FOG_Helmet_Airframe_OD",
+        "FOG_Helmet_Airframe_RG",
+        "FOG_Helmet_Airframe_Tan"
+      ]
+    },
+    {
+      "ClassName": "FOG_Helmet_FAST_Bump_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Helmet_FAST_Bump_CB",
+        "FOG_Helmet_FAST_Bump_ERDL",
+        "FOG_Helmet_FAST_Bump_Grey",
+        "FOG_Helmet_FAST_Bump_MC",
+        "FOG_Helmet_FAST_Bump_MCB",
+        "FOG_Helmet_FAST_Bump_MCT",
+        "FOG_Helmet_FAST_Bump_OD",
+        "FOG_Helmet_FAST_Bump_RG",
+        "FOG_Helmet_FAST_Bump_Tan"
+      ]
+    },
+    {
+      "ClassName": "FOG_Helmet_FASTMT_AOR1",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Helmet_FASTMT_AOR2",
+        "FOG_Helmet_FASTMT_Black",
+        "FOG_Helmet_FASTMT_CB",
+        "FOG_Helmet_FASTMT_Grey",
+        "FOG_Helmet_FASTMT_M81",
+        "FOG_Helmet_FASTMT_MA",
+        "FOG_Helmet_FASTMT_MCAL",
+        "FOG_Helmet_FASTMT_MCB",
+        "FOG_Helmet_FASTMT_MC",
+        "FOG_Helmet_FASTMT_MCT",
+        "FOG_Helmet_FASTMT_RG",
+        "FOG_Helmet_FASTMT_Tan"
+      ]
+    },
+    {
+      "ClassName": "FOG_Helmet_FAST_SF_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Helmet_FAST_SF_CB",
+        "FOG_Helmet_FAST_SF_CB_BLK",
+        "FOG_Helmet_FAST_SF_ERDL",
+        "FOG_Helmet_FAST_SF_ERDL_BLK",
+        "FOG_Helmet_FAST_SF_GRY",
+        "FOG_Helmet_FAST_SF_MC",
+        "FOG_Helmet_FAST_SF_MC_Black",
+        "FOG_Helmet_FAST_SF_MCB",
+        "FOG_Helmet_FAST_SF_MCB2",
+        "FOG_Helmet_FAST_SF_MudTan",
+        "FOG_Helmet_FAST_SF_RG",
+        "FOG_Helmet_FAST_SF_RG_BLK",
+        "FOG_Helmet_FAST_SF_Tan",
+        "FOG_Helmet_FAST_SF_Tan_BLK"
+      ]
+    },
+    {
+      "ClassName": "FOG_Helmet_AJs_FAST_SF_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Helmet_AJs_FAST_SF_CB",
+        "FOG_Helmet_AJs_FAST_SF_CB_BLK",
+        "FOG_Helmet_AJs_FAST_SF_ERDL",
+        "FOG_Helmet_AJs_FAST_SF_ERDL_BLK",
+        "FOG_Helmet_AJs_FAST_SF_GRY",
+        "FOG_Helmet_AJs_FAST_SF_MC",
+        "FOG_Helmet_AJs_FAST_SF_MC_Black",
+        "FOG_Helmet_AJs_FAST_SF_MCB",
+        "FOG_Helmet_AJs_FAST_SF_MCB2",
+        "FOG_Helmet_AJs_FAST_SF_MudTan",
+        "FOG_Helmet_AJs_FAST_SF_RG",
+        "FOG_Helmet_AJs_FAST_SF_RG_BLK",
+        "FOG_Helmet_AJs_FAST_SF_Tan",
+        "FOG_Helmet_AJs_FAST_SF_Tan_BLK"
+      ]
+    },
+    {
+      "ClassName": "FOG_Helmet_FAST_FTHS_MC",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Helmet_FAST_FTHS_Tan"
+      ]
+    },
+    {
+      "ClassName": "FOG_Helmet_HGU56_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Helmet_HGU56_Grey",
+        "FOG_Helmet_HGU56_OD",
+        "FOG_Helmet_HGU56_T499",
+        "FOG_Helmet_HGU56_Tan"
+      ]
+    },
+    {
+      "ClassName": "FOG_Helmet_MICH2000_AOR1",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Helmet_MICH2000_Black",
+        "FOG_Helmet_MICH2000_CB",
+        "FOG_Helmet_MICH2000_Grey",
+        "FOG_Helmet_MICH2000_MC",
+        "FOG_Helmet_MICH2000_MCB",
+        "FOG_Helmet_MICH2000_M81",
+        "FOG_Helmet_MICH2000_OD",
+        "FOG_Helmet_MICH2000_RG",
+        "FOG_Helmet_MICH2000_RGRattle",
+        "FOG_Helmet_MICH2000_Tan",
+        "FOG_Helmet_MICH2000_TanRattle"
+      ]
+    },
+    {
+      "ClassName": "FOG_Helmet_Exfil_AOR1",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Helmet_Exfil_AOR2",
+        "FOG_Helmet_Exfil_Black",
+        "FOG_Helmet_Exfil_CB",
+        "FOG_Helmet_Exfil_Grey",
+        "FOG_Helmet_Exfil_M81",
+        "FOG_Helmet_Exfil_MA",
+        "FOG_Helmet_Exfil_MCAL",
+        "FOG_Helmet_Exfil_MCB",
+        "FOG_Helmet_Exfil_MC",
+        "FOG_Helmet_Exfil_MCT",
+        "FOG_Helmet_Exfil_RG",
+        "FOG_Helmet_Exfil_Tan"
+      ]
+    }
+  ]
+}

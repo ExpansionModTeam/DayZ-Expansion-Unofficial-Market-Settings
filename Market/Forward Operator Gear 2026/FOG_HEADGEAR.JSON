@@ -1,0 +1,169 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG Headgear",
+  "Icon": "Soldier",
+  "Color": "E9151AFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "FOG_AMP_Headset_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_AMP_Headset_Grey",
+        "FOG_AMP_Headset_RG",
+        "FOG_AMP_Headset_Tan"
+      ]
+    },
+    {
+      "ClassName": "FOG_COMTAC3_Headset_AJ",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_COMTAC3_Headset_Black",
+        "FOG_COMTAC3_Headset_Black_Velcro",
+        "FOG_COMTAC3_Headset_CB",
+        "FOG_COMTAC3_Headset_CB_Velcro",
+        "FOG_COMTAC3_Headset_FG",
+        "FOG_COMTAC3_Headset_FG_Velcro",
+        "FOG_COMTAC3_Headset_RG",
+        "FOG_COMTAC3_Headset_RG_01",
+        "FOG_COMTAC3_Headset_RG_Spray",
+        "FOG_COMTAC3_Headset_RG_Velcro",
+        "FOG_COMTAC3_Headset_RG_XPI",
+        "FOG_COMTAC3_Headset_Tan_Velcro"
+      ]
+    },
+    {
+      "ClassName": "FOG_Comtac4_Headset_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Comtac4_Headset_Grey",
+        "FOG_Comtac4_Headset_RG",
+        "FOG_Comtac4_Headset_Tan"
+      ]
+    },
+    {
+      "ClassName": "FOG_M32_Headset_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_M32_Headset_RG"
+      ]
+    },
+    {
+      "ClassName": "FOG_Ronin_Hat",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Ronin_Hat_Black"
+      ]
+    },
+    {
+      "ClassName": "FOG_Fleececap_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Fleececap_CB",
+        "FOG_Fleececap_Grey",
+        "FOG_Fleececap_RG",
+        "FOG_Fleececap_White"
+      ]
+    },
+    {
+      "ClassName": "FOG_Watchcap_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Watchcap_CB",
+        "FOG_Watchcap_Grey",
+        "FOG_Watchcap_Red",
+        "FOG_Watchcap_RG",
+        "FOG_Watchcap_Tan",
+        "FOG_Watchcap_White"
+      ]
+    },
+    {
+      "ClassName": "FOG_SoftCap_MC",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FOG_Boonie_AOR1",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Boonie_AOR2",
+        "FOG_Boonie_Black",
+        "FOG_Boonie_CB",
+        "FOG_Boonie_Grey",
+        "FOG_Boonie_Khk",
+        "FOG_Boonie_M81",
+        "FOG_Boonie_MC",
+        "FOG_Boonie_MCB",
+        "FOG_Boonie_RG"
+      ]
+    },
+    {
+      "ClassName": "FOG_Glasses_ESS_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Glasses_ESS_FDE"
+      ]
+    }
+  ]
+}

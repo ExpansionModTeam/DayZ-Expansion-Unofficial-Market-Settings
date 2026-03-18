@@ -1,13 +1,24 @@
 {
   "m_Version": 12,
-  "DisplayName": "FOG Vests",
+  "DisplayName": "FOG NVG's",
   "Icon": "Soldier",
   "Color": "E9151AFF",
   "InitStockPercent": 75,
   "IsExchange": 0,
   "Items": [
     {
-      "ClassName": "fog_vest_avs_alp",
+      "ClassName": "FOG_ANVIS9",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FOG_GPNVG_Elite_B",
       "MaxPriceThreshold": 1000,
       "MinPriceThreshold": 1000,
       "SellPricePercent": -1,
@@ -16,16 +27,12 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "fog_vest_avs_aor1",
-        "fog_vest_avs_aor2",
-        "fog_vest_avs_black",
-        "fog_vest_avs_cb",
-        "fog_vest_avs_mc",
-        "fog_vest_avs_rg"
+        "FOG_GPNVG_Elite_T",
+        "FOG_GPNVG_Elite_W"
       ]
     },
     {
-      "ClassName": "fog_vest_gen4_black",
+      "ClassName": "FOG_PVS31A_Black",
       "MaxPriceThreshold": 1000,
       "MinPriceThreshold": 1000,
       "SellPricePercent": -1,
@@ -34,16 +41,13 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "fog_vest_gen4_emr",
-        "fog_vest_gen4_green",
-        "fog_vest_gen4_marpat",
-        "fog_vest_gen4_nwu",
-        "fog_vest_gen4_tan",
-        "fog_vest_gen4_ucp"
+        "FOG_PVS31A_Black_B",
+        "FOG_PVS31A_Black_T",
+        "FOG_PVS31A_Black_W"
       ]
     },
     {
-      "ClassName": "fog_vest_jpc_alp",
+      "ClassName": "FOG_GPNVG_Black",
       "MaxPriceThreshold": 1000,
       "MinPriceThreshold": 1000,
       "SellPricePercent": -1,
@@ -52,16 +56,13 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "fog_vest_jpc_aor1",
-        "fog_vest_jpc_aor2",
-        "fog_vest_jpc_black",
-        "fog_vest_jpc_cb",
-        "fog_vest_jpc_mc",
-        "fog_vest_jpc_rg"
+        "FOG_GPNVG_Elite",
+        "FOG_GPNVG_RG",
+        "FOG_GPNVG_Tan"
       ]
     },
     {
-      "ClassName": "fog_vest_mmac_aor2",
+      "ClassName": "FOG_PVS31",
       "MaxPriceThreshold": 1000,
       "MinPriceThreshold": 1000,
       "SellPricePercent": -1,
@@ -70,14 +71,13 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "fog_vest_mmac_black",
-        "fog_vest_mmac_cb",
-        "fog_vest_mmac_mc",
-        "fog_vest_mmac_rg"
+        "FOG_PVS31_FDE",
+        "FOG_PVS31_FDE_Wrapped",
+        "FOG_PVS31_Wrapped"
       ]
     },
     {
-      "ClassName": "fog_vest_tactec_black",
+      "ClassName": "FOG_UAPNVG_Black",
       "MaxPriceThreshold": 1000,
       "MinPriceThreshold": 1000,
       "SellPricePercent": -1,
@@ -86,13 +86,12 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "fog_vest_tactec_cb",
-        "fog_vest_tactec_grey",
-        "fog_vest_tactec_rg"
+        "FOG_UAPNVG_RG",
+        "FOG_UAPNVG_Tan"
       ]
     },
     {
-      "ClassName": "fog_vest_tv110t_au",
+      "ClassName": "FOG_Tarsier",
       "MaxPriceThreshold": 1000,
       "MinPriceThreshold": 1000,
       "SellPricePercent": -1,
@@ -100,14 +99,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "fog_vest_tv110t_black",
-        "fog_vest_tv110t_cb",
-        "fog_vest_tv110t_fg",
-        "fog_vest_tv110t_mc",
-        "fog_vest_tv110t_rg",
-        "fog_vest_tv110t_tan"
-      ]
+      "Variants": []
     }
   ]
 }
