@@ -24,7 +24,9 @@
         "Asmond_Crossbows"  ,      
 		"Asmond_Magazines:3",
         "Asmond_Buttstocks:3",
-        "Asmond_Handguards:3"
+        "Asmond_Handguards:3",
+		"Asmond_Muzzles:3",
+		"Asmond_Optics:3"
     ],
     "Items": {
         "expansionammorpg": 3,
