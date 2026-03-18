@@ -39,6 +39,8 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="AsmondWeapons_ce">
 		<file name="asmond_types.xml" type="types" />
 		<file name="asmond_spawnabletypes.xml" type="spawnabletypes"/>
+		<file name="AsmondUpdate1_types.xml" type="types" />
+		<file name="AsmondUpdate1_spawnabletypes.xml" type="spawnabletypes"/>
 	</ce>
 	
 </economycore>
