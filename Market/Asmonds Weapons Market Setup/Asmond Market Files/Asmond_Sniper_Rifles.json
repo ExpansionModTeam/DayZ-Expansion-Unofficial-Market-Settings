@@ -1,0 +1,375 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Asmond Sniper Rifles",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Asmond_B95_Wood",
+            "MaxPriceThreshold": 5640,
+            "MinPriceThreshold": 4700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Asmond_SawoffB95_Wood",
+				"Asmond_B95_Dark",
+				"Asmond_SawoffB95_Dark",
+				"Asmond_B95_Moss",
+				"Asmond_SawoffB95_Moss",
+				"Asmond_B95_Winter",
+				"Asmond_SawoffB95_Winter"
+				]
+        },
+        {
+            "ClassName": "Asmond_SawoffB95_Wood",
+            "MaxPriceThreshold": 5640,
+            "MinPriceThreshold": 4700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_B95_Dark",
+            "MaxPriceThreshold": 5640,
+            "MinPriceThreshold": 4700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_SawoffB95_Dark",
+            "MaxPriceThreshold": 5640,
+            "MinPriceThreshold": 4700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_B95_Moss",
+            "MaxPriceThreshold": 5640,
+            "MinPriceThreshold": 4700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_SawoffB95_Moss",
+            "MaxPriceThreshold": 5640,
+            "MinPriceThreshold": 4700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_B95_Winter",
+            "MaxPriceThreshold": 5640,
+            "MinPriceThreshold": 4700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_SawoffB95_Winter",
+            "MaxPriceThreshold": 5640,
+            "MinPriceThreshold": 4700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_CZ527_Black",
+            "MaxPriceThreshold": 840,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_cz527_5rnd"
+            ],
+            "Variants": [
+				"Asmond_CZ527_Brown",
+				"Asmond_CZ527_Camo",
+				"Asmond_CZ527_Winter"
+				
+				]
+        },
+        {
+            "ClassName": "Asmond_CZ527_Brown",
+            "MaxPriceThreshold": 840,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_cz527_5rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_CZ527_Camo",
+            "MaxPriceThreshold": 840,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_cz527_5rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_CZ527_Winter",
+            "MaxPriceThreshold": 840,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_cz527_5rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_CZ550_Black",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_cz550_10rnd"
+            ],
+            "Variants": [
+				"Asmond_CZ550_Brown",
+				"Asmond_CZ550_Green",
+				"Asmond_CZ550_Winter"
+				]
+        },
+        {
+            "ClassName": "Asmond_CZ550_Brown",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_cz550_10rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_CZ550_Green",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_cz550_10rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_CZ550_Winter",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_cz550_10rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_Scout_Grey",
+            "MaxPriceThreshold": 2040,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_scout_5rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_Scout_Beige",
+            "MaxPriceThreshold": 2040,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_scout_5rnd"
+            ],
+            "Variants": [
+				"Asmond_Scout_Green",
+				"Asmond_Scout_Wooden"
+				]
+        },
+        {
+            "ClassName": "Asmond_Scout_Green",
+            "MaxPriceThreshold": 2040,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_scout_5rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_Scout_Wooden",
+            "MaxPriceThreshold": 2040,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_scout_5rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_SSG82_Black",
+            "MaxPriceThreshold": 5400,
+            "MinPriceThreshold": 4500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_ssg82_5rnd"
+            ],
+            "Variants": [
+				"Asmond_SSG82_Winter"
+				]
+        },
+        {
+            "ClassName": "Asmond_SSG82_Winter",
+            "MaxPriceThreshold": 5400,
+            "MinPriceThreshold": 4500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_ssg82_5rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_SV98_Black",
+            "MaxPriceThreshold": 4800,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_sv98_10rnd"
+            ],
+            "Variants": [
+				"Asmond_SV98_Winter",
+				"Asmond_SV98_Wooden"
+				]
+        },
+        {
+            "ClassName": "Asmond_SV98_Wooden",
+            "MaxPriceThreshold": 4800,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_sv98_10rnd"
+            ],
+            "Variants": [
+				"Asmond_SV98_Winter"
+				]
+        },
+		{
+            "ClassName": "Asmond_SV98_Winter",
+            "MaxPriceThreshold": 4800,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_sv98_10rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Asmond_SVD_RedWood",
+            "MaxPriceThreshold": 9600,
+            "MinPriceThreshold": 8000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_svd_10rnd"
+            ],
+            "Variants": [
+				"Asmond_SVD_Winter"
+				]
+        },
+		{
+            "ClassName": "Asmond_SVD_Winter",
+            "MaxPriceThreshold": 9600,
+            "MinPriceThreshold": 8000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_svd_10rnd"
+            ],
+            "Variants": []
+        }
+        
+    ]
+}
