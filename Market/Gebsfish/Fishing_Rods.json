@@ -15,10 +15,14 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": []
+      "Variants": [
+        "geb_GreenFishingRod",
+        "geb_BlueFishingRod",
+        "geb_PurpleFishingRod"
+      ]
     },
     {
-      "ClassName": "fishingrod",
+      "ClassName": "FishingRod",
       "MaxPriceThreshold": 300,
       "MinPriceThreshold": 300,
       "SellPricePercent": 20.0,
@@ -29,9 +33,9 @@
       "Variants": []
     },
     {
-      "ClassName": "geb_BlueFishingRod",
-      "MaxPriceThreshold": 300,
-      "MinPriceThreshold": 300,
+      "ClassName": "ImprovisedFishingRod",
+      "MaxPriceThreshold": 100,
+      "MinPriceThreshold": 100,
       "SellPricePercent": 20.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -40,20 +44,9 @@
       "Variants": []
     },
     {
-      "ClassName": "geb_GreenFishingRod",
-      "MaxPriceThreshold": 300,
-      "MinPriceThreshold": 300,
-      "SellPricePercent": 20.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "geb_PurpleFishingRod",
-      "MaxPriceThreshold": 300,
-      "MinPriceThreshold": 300,
+      "ClassName": "geb_FishingRodRepairKit",
+      "MaxPriceThreshold": 250,
+      "MinPriceThreshold": 250,
       "SellPricePercent": 20.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,

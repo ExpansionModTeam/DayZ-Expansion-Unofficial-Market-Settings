@@ -8,53 +8,8 @@
   "Items": [
     {
       "ClassName": "geb_Lure1",
-      "MaxPriceThreshold": 2000,
-      "MinPriceThreshold": 2000,
-      "SellPricePercent": 20.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "geb_Lure2",
-        "geb_Lure3",
-        "geb_Lure4"
-      ]
-    },
-	    {
-      "ClassName": "geb_Lure2",
-      "MaxPriceThreshold": 2000,
-      "MinPriceThreshold": 2000,
-      "SellPricePercent": 20.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "geb_Lure2",
-        "geb_Lure3",
-        "geb_Lure4"
-      ]
-    },
-	    {
-      "ClassName": "geb_Lure3",
-      "MaxPriceThreshold": 2000,
-      "MinPriceThreshold": 2000,
-      "SellPricePercent": 20.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "geb_Lure2",
-        "geb_Lure3",
-        "geb_Lure4"
-      ]
-    },
-	    {
-      "ClassName": "geb_Lure4",
-      "MaxPriceThreshold": 2000,
-      "MinPriceThreshold": 2000,
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 25,
       "SellPricePercent": 20.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -81,23 +36,23 @@
         "geb_SpinnerBait4"
       ]
     },
-	    {
-      "ClassName": "geb_SpinnerBait2",
-      "MaxPriceThreshold": 10,
-      "MinPriceThreshold": 10,
+    {
+      "ClassName": "geb_SpoonLure1",
+      "MaxPriceThreshold": 15,
+      "MinPriceThreshold": 15,
       "SellPricePercent": 20.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "geb_SpinnerBait2",
-        "geb_SpinnerBait3",
-        "geb_SpinnerBait4"
+        "geb_SpoonLure2",
+        "geb_SpoonLure3",
+        "geb_SpoonLure4"
       ]
     },
-	    {
-      "ClassName": "geb_SpinnerBait3",
+    {
+      "ClassName": "geb_CurlyTailJig1",
       "MaxPriceThreshold": 10,
       "MinPriceThreshold": 10,
       "SellPricePercent": 20.0,
@@ -106,28 +61,24 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "geb_SpinnerBait2",
-        "geb_SpinnerBait3",
-        "geb_SpinnerBait4"
-      ]
-    },
-	    {
-      "ClassName": "geb_SpinnerBait4",
-      "MaxPriceThreshold": 10,
-      "MinPriceThreshold": 10,
-      "SellPricePercent": 20.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "geb_SpinnerBait2",
-        "geb_SpinnerBait3",
-        "geb_SpinnerBait4"
+        "geb_CurlyTailJig2",
+        "geb_CurlyTailJig3",
+        "geb_CurlyTailJig4"
       ]
     },
     {
       "ClassName": "geb_FieldCricket",
+      "MaxPriceThreshold": 5,
+      "MinPriceThreshold": 5,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_GrassHopper",
       "MaxPriceThreshold": 5,
       "MinPriceThreshold": 5,
       "SellPricePercent": 20.0,
@@ -152,6 +103,17 @@
       "ClassName": "geb_RubberWorm",
       "MaxPriceThreshold": 2,
       "MinPriceThreshold": 2,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Worm",
+      "MaxPriceThreshold": 3,
+      "MinPriceThreshold": 3,
       "SellPricePercent": 20.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,

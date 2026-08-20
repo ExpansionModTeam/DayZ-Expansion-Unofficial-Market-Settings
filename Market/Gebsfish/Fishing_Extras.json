@@ -35,7 +35,7 @@
       ]
     },
     {
-      "ClassName": "geb_OldGreenTackleBox",
+      "ClassName": "geb_OldGreenTackle",
       "MaxPriceThreshold": 350,
       "MinPriceThreshold": 350,
       "SellPricePercent": 20.0,
@@ -44,10 +44,79 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "geb_OldGreenTackleBox",
-        "geb_OldRedTackleBox",
-        "geb_OldBlueTackleBox",
-        "geb_OldPurpleTackleBox"
+        "geb_OldRedTackle",
+        "geb_OldBlueTackle",
+        "geb_OldPurpleTackle"
+      ]
+    },
+    {
+      "ClassName": "geb_FunRedTackle",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 350,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "geb_FunYellowTackle",
+        "geb_FunPurpleTackle",
+        "geb_FunGreenTackle"
+      ]
+    },
+    {
+      "ClassName": "geb_RedTackle",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "geb_YellowTackle",
+        "geb_BlueTackle",
+        "geb_OrangeTackle",
+        "geb_BrownTackle",
+        "geb_PurpleTackle",
+        "geb_LimeTackle",
+        "geb_LightBlueTackle",
+        "geb_GreenTackle",
+        "geb_CamoTackle",
+        "geb_PinkTackle"
+      ]
+    },
+    {
+      "ClassName": "geb_SmallTackle",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 150,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_RedCooler",
+      "MaxPriceThreshold": 400,
+      "MinPriceThreshold": 400,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "geb_BlueCooler",
+        "geb_YellowCooler",
+        "geb_OrangeCooler",
+        "geb_GreenCooler",
+        "geb_LimeCooler",
+        "geb_LightBlueCooler",
+        "geb_PurpleCooler",
+        "geb_PinkCooler",
+        "geb_BrownCooler",
+        "geb_CamoCooler"
       ]
     },
     {
@@ -84,41 +153,48 @@
       "Variants": []
     },
     {
-      "ClassName": "geb_FunRedTackle",
-      "MaxPriceThreshold": 350,
-      "MinPriceThreshold": 350,
+      "ClassName": "geb_WoodenFishMount",
+      "MaxPriceThreshold": 400,
+      "MinPriceThreshold": 400,
       "SellPricePercent": 20.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "geb_FunYellowTackle",
-        "geb_FunPurpleTackle",
-        "geb_LightBlueTackle",
-        "geb_FunGreenTackle"
-      ]
+      "Variants": []
     },
     {
-      "ClassName": "geb_RedTackle",
-      "MaxPriceThreshold": 300,
-      "MinPriceThreshold": 300,
+      "ClassName": "Netting",
+      "MaxPriceThreshold": 75,
+      "MinPriceThreshold": 75,
       "SellPricePercent": 20.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "geb_YellowTackle",
-        "geb_BlueTackle",
-        "geb_OrangeTackle",
-        "geb_BrownTackle",
-        "geb_PurpleTackle",
-        "geb_LimeTackle",
-        "geb_LightBlueTackle",
-        "geb_GreenTackle",
-        "geb_CamoTackle"
-      ]
+      "Variants": []
+    },
+    {
+      "ClassName": "SmallFishTrap",
+      "MaxPriceThreshold": 100,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FishNetTrap",
+      "MaxPriceThreshold": 250,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
     }
   ],
   "SortByDisplayName": false

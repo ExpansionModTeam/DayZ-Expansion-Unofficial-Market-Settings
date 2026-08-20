@@ -1,43 +1,53 @@
 {
   "m_Version": 12,
-  "DisplayName": "Fishing Hooks",
+  "DisplayName": "Fishing Clothing",
   "Icon": "Fishing",
   "Color": "FBFCFEFF",
   "InitStockPercent": 75.0,
   "IsExchange": 0,
   "Items": [
     {
-      "ClassName": "Hook",
-      "MaxPriceThreshold": 10,
-      "MinPriceThreshold": 10,
+      "ClassName": "geb_RedFishHat",
+      "MaxPriceThreshold": 50,
+      "MinPriceThreshold": 50,
       "SellPricePercent": 20.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": []
+      "Variants": [
+        "geb_BlueFishHat",
+        "geb_GreenFishHat",
+        "geb_PurpleFishHat"
+      ]
     },
     {
-      "ClassName": "BoneHook",
-      "MaxPriceThreshold": 2,
-      "MinPriceThreshold": 2,
+      "ClassName": "geb_RedFishShirt",
+      "MaxPriceThreshold": 75,
+      "MinPriceThreshold": 75,
       "SellPricePercent": 20.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": []
+      "Variants": [
+        "geb_BlueFishShirt",
+        "geb_GreenFishShirt",
+        "geb_PurpleFishShirt"
+      ]
     },
     {
-      "ClassName": "WoodenHook",
-      "MaxPriceThreshold": 2,
-      "MinPriceThreshold": 2,
+      "ClassName": "geb_BlueFishGloves",
+      "MaxPriceThreshold": 75,
+      "MinPriceThreshold": 75,
       "SellPricePercent": 20.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": []
+      "Variants": [
+        "geb_OrangeFishGloves"
+      ]
     }
   ],
   "SortByDisplayName": false
