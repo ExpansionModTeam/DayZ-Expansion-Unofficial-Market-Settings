@@ -16,8 +16,10 @@
     "Fishing_Hooks:1",
     "Fishing_Baits:1",
     "Fishing_Extras:1",
+    "Fishing_Clothing:1",
+    "Fishing_Boats:1",
     "Fishing_SaltwaterFillet:2",
-	"Fishing_FreshwaterFillet:2"
+    "Fishing_FreshwaterFillet:2"
   ],
   "Items": {}
 }

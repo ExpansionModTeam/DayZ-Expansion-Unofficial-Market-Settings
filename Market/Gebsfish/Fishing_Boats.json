@@ -1,0 +1,29 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Fishing Boats",
+  "Icon": "Fishing",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "geb_jonboat_greenaluminum",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SparkPlug"
+      ],
+      "Variants": [
+        "geb_jonboat_grayaluminum",
+        "geb_jonboat_camo_forest",
+        "geb_jonboat_camo_desert",
+        "geb_jonboat_camo_snow"
+      ]
+    }
+  ],
+  "SortByDisplayName": false
+}

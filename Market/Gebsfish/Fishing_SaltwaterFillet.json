@@ -6,7 +6,7 @@
   "InitStockPercent": 0.0,
   "IsExchange": 0,
   "Items": [
-	{
+    {
       "ClassName": "MackerelFilletMeat",
       "MaxPriceThreshold": 1200,
       "MinPriceThreshold": 1200,
@@ -18,7 +18,161 @@
       "Variants": []
     },
     {
-      "ClassName": "geb_AngelfishFilletMeat",
+      "ClassName": "geb_AngelSharkFilletMeat",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_AtlanticBlueMarlinFilletMeat",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_AtlanticSailFishFilletMeat",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_GreatWhiteSharkFilletMeat",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_HammerHeadSharkFilletMeat",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_LeopardSharkFilletMeat",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_CherrySalmonFilletMeat",
+      "MaxPriceThreshold": 1300,
+      "MinPriceThreshold": 1300,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_ChinookSalmonFilletMeat",
+      "MaxPriceThreshold": 1300,
+      "MinPriceThreshold": 1300,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_MahiMahiFilletMeat",
+      "MaxPriceThreshold": 1300,
+      "MinPriceThreshold": 1300,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_SockEyeSalmonFilletMeat",
+      "MaxPriceThreshold": 1300,
+      "MinPriceThreshold": 1300,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_SouthernFlounderFilletMeat",
+      "MaxPriceThreshold": 1300,
+      "MinPriceThreshold": 1300,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_WhiteGruntFilletMeat",
+      "MaxPriceThreshold": 1300,
+      "MinPriceThreshold": 1300,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_YellowSnapperFilletMeat",
+      "MaxPriceThreshold": 1300,
+      "MinPriceThreshold": 1300,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_YellowFinTunaFilletMeat",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_AsianSeaBassFilletMeat",
       "MaxPriceThreshold": 1200,
       "MinPriceThreshold": 1200,
       "SellPricePercent": 100.0,
@@ -29,7 +183,7 @@
       "Variants": []
     },
     {
-      "ClassName": "geb_BluemarlinFilletMeat",
+      "ClassName": "geb_BlueTangFilletMeat",
       "MaxPriceThreshold": 1200,
       "MinPriceThreshold": 1200,
       "SellPricePercent": 100.0,
@@ -51,7 +205,7 @@
       "Variants": []
     },
     {
-      "ClassName": "geb_CherrysalmonFilletMeat",
+      "ClassName": "geb_HumpHeadWrasseFilletMeat",
       "MaxPriceThreshold": 1200,
       "MinPriceThreshold": 1200,
       "SellPricePercent": 100.0,
@@ -62,7 +216,7 @@
       "Variants": []
     },
     {
-      "ClassName": "geb_FlatheadmulletFilletMeat",
+      "ClassName": "geb_RedHeadCichlidFilletMeat",
       "MaxPriceThreshold": 1200,
       "MinPriceThreshold": 1200,
       "SellPricePercent": 100.0,
@@ -73,40 +227,7 @@
       "Variants": []
     },
     {
-      "ClassName": "geb_LeopardsharkFilletMeat",
-      "MaxPriceThreshold": 1200,
-      "MinPriceThreshold": 1200,
-      "SellPricePercent": 100.0,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "geb_PacificcodFilletMeat",
-      "MaxPriceThreshold": 1200,
-      "MinPriceThreshold": 1200,
-      "SellPricePercent": 100.0,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "geb_RedheadcichlidFilletMeat",
-      "MaxPriceThreshold": 1200,
-      "MinPriceThreshold": 1200,
-      "SellPricePercent": 100.0,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "geb_RoughneckrockFilletMeat",
+      "ClassName": "geb_RoughNeckRockFilletMeat",
       "MaxPriceThreshold": 1200,
       "MinPriceThreshold": 1200,
       "SellPricePercent": 100.0,
@@ -128,7 +249,7 @@
       "Variants": []
     },
     {
-      "ClassName": "geb_BluetangFilletMeat",
+      "ClassName": "geb_SiameseTigerFishFilletMeat",
       "MaxPriceThreshold": 1200,
       "MinPriceThreshold": 1200,
       "SellPricePercent": 100.0,
@@ -139,7 +260,51 @@
       "Variants": []
     },
     {
-      "ClassName": "geb_HairtailfishFilletMeat",
+      "ClassName": "geb_AngelFishFilletMeat",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_FlatHeadMulletFilletMeat",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_LargeHeadHairTailFishFilletMeat",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_PacificCodFilletMeat",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_KingCrabLegs",
       "MaxPriceThreshold": 1200,
       "MinPriceThreshold": 1200,
       "SellPricePercent": 100.0,
@@ -150,7 +315,7 @@
       "Variants": []
     },
     {
-      "ClassName": "geb_HumpheadwrasseFilletMeat",
+      "ClassName": "geb_SnowCrabLegs",
       "MaxPriceThreshold": 1200,
       "MinPriceThreshold": 1200,
       "SellPricePercent": 100.0,
@@ -161,73 +326,7 @@
       "Variants": []
     },
     {
-      "ClassName": "geb_SiamesetigerfishFilletMeat",
-      "MaxPriceThreshold": 1200,
-      "MinPriceThreshold": 1200,
-      "SellPricePercent": 100.0,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "geb_AsianseabassFilletMeat",
-      "MaxPriceThreshold": 1200,
-      "MinPriceThreshold": 1200,
-      "SellPricePercent": 100.0,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "geb_JellyfishFilletMeat",
-      "MaxPriceThreshold": 1200,
-      "MinPriceThreshold": 1200,
-      "SellPricePercent": 100.0,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "geb_Starfish",
-      "MaxPriceThreshold": 1200,
-      "MinPriceThreshold": 1200,
-      "SellPricePercent": 100.0,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "geb_KingcrabLegs",
-      "MaxPriceThreshold": 1200,
-      "MinPriceThreshold": 1200,
-      "SellPricePercent": 100.0,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "geb_KingcrabFilletMeat",
-      "MaxPriceThreshold": 1200,
-      "MinPriceThreshold": 1200,
-      "SellPricePercent": 100.0,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "geb_AngelsharkFilletMeat",
+      "ClassName": "geb_AmericanLobsterTail",
       "MaxPriceThreshold": 1500,
       "MinPriceThreshold": 1500,
       "SellPricePercent": 100.0,
@@ -238,7 +337,7 @@
       "Variants": []
     },
     {
-      "ClassName": "geb_GreatwhitesharkFilletMeat",
+      "ClassName": "geb_EuropeanLobsterTail",
       "MaxPriceThreshold": 1500,
       "MinPriceThreshold": 1500,
       "SellPricePercent": 100.0,
@@ -249,9 +348,9 @@
       "Variants": []
     },
     {
-      "ClassName": "geb_YellowfintunaFilletMeat",
-      "MaxPriceThreshold": 1500,
-      "MinPriceThreshold": 1500,
+      "ClassName": "geb_AmericanLobsterClaw",
+      "MaxPriceThreshold": 800,
+      "MinPriceThreshold": 800,
       "SellPricePercent": 100.0,
       "MaxStockThreshold": 0,
       "MinStockThreshold": 0,
@@ -260,7 +359,40 @@
       "Variants": []
     },
     {
-      "ClassName": "geb_MahimahiFilletMeat",
+      "ClassName": "geb_EuropeanLobsterClaw",
+      "MaxPriceThreshold": 800,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_BloodClam",
+      "MaxPriceThreshold": 700,
+      "MinPriceThreshold": 700,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_BlueJellyFish",
+      "MaxPriceThreshold": 400,
+      "MinPriceThreshold": 400,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_StarFish",
       "MaxPriceThreshold": 1200,
       "MinPriceThreshold": 1200,
       "SellPricePercent": 100.0,
@@ -271,9 +403,20 @@
       "Variants": []
     },
     {
-      "ClassName": "geb_SailfishFilletMeat",
-      "MaxPriceThreshold": 1200,
-      "MinPriceThreshold": 1200,
+      "ClassName": "Sardines",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Shrimp",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
       "SellPricePercent": 100.0,
       "MaxStockThreshold": 0,
       "MinStockThreshold": 0,
